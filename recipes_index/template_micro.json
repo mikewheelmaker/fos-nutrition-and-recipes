@@ -1,0 +1,163 @@
+{
+    "vitamins":
+    {
+        "A":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "B1":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "B2":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "B3":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "B5":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "B6":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "B7":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "B9":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "B12":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "C":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "D":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "E":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "K1":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "K2":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "K3":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        }
+    },
+    "minerals":
+    {
+        "boron":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "calcium":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "chromium":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "copper":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "fluoride":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "iodine":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "iron":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "magnesium":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "manganese":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "molybdenum":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "phosphorus":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "potassium":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "selenium":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "sodium":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "sulfur":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        },
+        "zinc":
+        {
+            "amount": "0.0",
+            "unit": "mg"
+        }
+    }
+}

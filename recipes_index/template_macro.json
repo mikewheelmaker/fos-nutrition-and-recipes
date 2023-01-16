@@ -1,0 +1,186 @@
+{
+    "carbohydrates": 
+    {
+        "amount": "0.0",
+        "unit": "g",
+        "types":
+        {
+            "amylose":
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "amylopectin":
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "galactose":
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "glucose":
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "fructose":
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "lactose":
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "maltose":
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "sucrose":
+            {
+                "amount": "0.0",
+                "unit": "g"
+            }
+        }
+    },
+    "fat": 
+    {
+        "amount": "0.0",
+        "unit": "g",
+        "types":
+        {
+            "saturated":
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "monounsaturated":
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "polyunsaturated":
+            {
+                "amount": "0.0",
+                "unit": "g"
+            }
+        }
+    },
+    "protein": 
+    {
+        "amount": "0.0",
+        "unit": "g",
+        "amino_acids":
+        {
+            "alanine": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "arginine": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "asparagine": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "aspartic_acid": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "cysteine": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "glutamic_acid": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "glutamine": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "glycine": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "histidine": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "isoleucine": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "leucine": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "lysine": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "methionine": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "phenylalanine": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "proline": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "serine": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "threonine": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "tryptophan": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "tyrosine": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "valine": 
+            {
+                "amount": "0.0",
+                "unit": "g"
+            }
+        }
+    },
+    "fibre":
+    {
+        "amount": "0.0",
+        "unit": "g"
+    }
+}
