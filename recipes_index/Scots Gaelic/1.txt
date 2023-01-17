@@ -1,0 +1,51 @@
+Title: Brot glasraich
+
+Dùthaich tùsail: Romania
+
+Pàirtean: 12
+
+Ùine ullachaidh: 1.5h - 2.5h
+
+Tàthchuid:
+Buntàta | 2000g
+freumh an t-seileir | 0.5x (=?g)
+freumh parsnip | 1x (=?g)
+Curran | 3x (=?g)
+Pògan uaine congealed | 450g
+Podan uaine congealed | 400g
+Piobar clag dearg | 1x (=?g)
+Piobar clag uaine | 1x (=?g)
+Piobar clag buidhe | 1x (=?g)
+Tomato | 5x (=?g)
+Dill | 3x (=?g)
+Peirsil | 3x (=?g)
+Lòbhait | 3x (=?g)
+Salann | A rèir blas (air a mholadh ?g)
+Stuthan | A rèir blas
+
+Innealan cidsin riatanach:
+Poit le tomhas-lìonaidh as lugha de 10L
+Spàin (fiodh mas fheàrr) le fad 20 cm aig a’ char as lugha
+Sgian
+Bòrd gearraidh
+
+Ceumannan ullachaidh:
+Peel, glan agus gearradh na glasraich. Bu chòir na pìosan a bhith meadhanach mòr airson ùine ghoil beag.
+Cuir aon liotar uisge anns a 'phoit. Cleachd an t-sùil stòbha mòr.
+Cuir ris na pìosan soilire agus parsnip.
+Tionndaidh air sùil an stòbha. Cleachd an roghainn lasair àrd no teòthachd àrd.
+An dèidh dhan uisge tòiseachadh a 'goil, fàg gu boil airson timcheall air 10 (?) mionaidean.
+Cuir ris na pìosan curran. Cuir uisge ris gus am bi na pìosan uile air am bogadh. Measgaich gu math.
+Fàg airson boil airson timcheall air 10 (?) mionaidean.
+Cuir na pìosan buntàta ris. Cuir uisge ris gus am bi na pìosan uile air am bogadh. Measgaich gu math.
+Fàg airson boil airson timcheall air 20 (?) mionaid.
+Cuir ris na peasairean uaine congealed agus na pods uaine. Cuir uisge ris gus am bi na pìosan uile air am bogadh. Measgaich gu math.
+An dèidh dhan uisge tòiseachadh a 'goil, fàg gu boil airson timcheall air 5 (?) mionaidean.
+Cuir ris a 'chlag piobar, tomato, dill, peirsil, agus pìosan lovage.
+Cuir ris an t-salann agus an t-sauce. Cuir uisge ris gus am bi na pìosan uile air am bogadh. Measgaich gu math.
+An dèidh dhan uisge tòiseachadh a 'goil, fàg gu boil airson timcheall air 10 (?) mionaidean.
+Cuir dheth an t-sùil stòbha. Fàg airson suidhe airson timcheall air 20-30 mionaid.
+
+Macronutrients: _macro\1.json
+
+Micronutrients: _micro\1.json

@@ -1,0 +1,51 @@
+Titel: Grientesoep
+
+Lân fan komôf: Roemeenje
+
+Porties: 12
+
+Tarieding tiid: 1.5h - 2.5h
+
+yngrediïnten:
+Potatoes | 2000g
+Selderij woartel | 0.5x (=?g)
+Pastinaak woartel | 1x (=?g)
+Wortel | 3x (=?g)
+Congealed griene earte | 450g
+Congealed griene peulen | 400g
+Reade paprika | 1x (=?g)
+Griene paprika | 1x (=?g)
+Giele paprika | 1x (=?g)
+Tomaten | 5x (=?g)
+Dille | 3x (=?g)
+Peterselie | 3x (=?g)
+Lovage | 3x (=?g)
+Sâlt | Neffens smaak (oanrikkemandearre ?g)
+Specerijen | Neffens smaak
+
+Fereaske keukengerei:
+In pot mei in minimum folume fan 10L
+In leppel (leafst houten) mei in minimum lingte fan 20cm
+Mes
+Snijplank
+
+Tariedingsstappen:
+Peil, skjin en snij it griente. De bits moatte fan middelgrutte wêze foar in lyts siedende tiid.
+Set ien liter wetter yn 'e pot. Brûk de grutte kachel each.
+Foegje de selderij en pastinaakbiten ta.
+Skeakelje de kachel each. Brûk de opsje foar hege flam as hege temperatuer.
+Nei't it wetter begjint te siedjen, lit it sawat 10 (?) minuten siede.
+Foegje de wortelbiten ta. Foegje wetter ta oant alle biten binne ûnderdompele. Mix goed.
+Lit sawat 10 (?) minuten siede.
+Foegje de ierappelbiten ta. Foegje wetter ta oant alle biten binne ûnderdompele. Mix goed.
+Lit sa'n 20 (?) minuten siede.
+Foegje de fersmoarge griene earte en griene pods ta. Foegje wetter ta oant alle biten binne ûnderdompele. Mix goed.
+Nei't it wetter begjint te siedjen, lit it sawat 5 (?) minuten siede.
+Foegje de glêzen piper, tomaten, dille, peterselie, en lovagebiten ta.
+Foegje it sâlt en krûden ta. Foegje wetter ta oant alle biten binne ûnderdompele. Mix goed.
+Nei't it wetter begjint te siedjen, lit it sawat 10 (?) minuten siede.
+Slaen de kachel each. Lit sa'n 20-30 minuten sitte.
+
+Makronutrients: _macro\1.json
+
+Mikronutriënten: _micro\1.json

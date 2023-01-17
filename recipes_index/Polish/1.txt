@@ -1,0 +1,51 @@
+Tytuł: Zupa jarzynowa
+
+Kraj pochodzenia: Rumunia
+
+Porcje: 12
+
+Czas przygotowania: 1,5h - 2,5h
+
+Składniki:
+Ziemniaki | 2000g
+Korzeń selera | 0,5x (=?g)
+Korzeń pasternaku | 1x (=?g)
+Marchewka | 3x (=?g)
+Zastygły zielony groszek | 450g
+Zastygłe zielone strąki | 400g
+Czerwona papryka | 1x (=?g)
+Zielona papryka | 1x (=?g)
+Żółta papryka | 1x (=?g)
+Pomidor | 5x (=?g)
+koperek | 3x (=?g)
+pietruszka | 3x (=?g)
+lubczyk | 3x (=?g)
+Sól | Według gustu (zalecane ?g)
+Przyprawy | Według gustu
+
+Niezbędne przybory kuchenne:
+Garnek o minimalnej pojemności 10L
+Łyżka (najlepiej drewniana) o minimalnej długości 20 cm
+Nóż
+Deska do krojenia
+
+Etapy przygotowania:
+Warzywa obrać, oczyścić i pokroić. Kawałki powinny być średniej wielkości na krótki czas wrzenia.
+Do garnka wlej litr wody. Użyj dużego oka pieca.
+Dodaj kawałki selera i pasternaku.
+Włącz oko pieca. Użyj opcji wysokiego płomienia lub wysokiej temperatury.
+Gdy woda zacznie się gotować, gotuj przez około 10 (?) minut.
+Dodaj kawałki marchwi. Dodaj wodę, aż wszystkie bity będą zanurzone. Dobrze wymieszać.
+Pozostaw do wrzenia na około 10 (?) minut.
+Dodaj kawałki ziemniaków. Dodaj wodę, aż wszystkie bity będą zanurzone. Dobrze wymieszać.
+Gotować przez około 20(?) minut.
+Dodaj zastygły zielony groszek i zielone strąki. Dodaj wodę, aż wszystkie bity będą zanurzone. Dobrze wymieszać.
+Gdy woda zacznie się gotować, gotuj przez około 5(?) minut.
+Dodaj paprykę, pomidory, koperek, natkę pietruszki i kawałki lubczyku.
+Dodać sól i przyprawy. Dodaj wodę, aż wszystkie bity będą zanurzone. Dobrze wymieszać.
+Gdy woda zacznie się gotować, gotuj przez około 10 (?) minut.
+Wyłącz oko pieca. Odstaw na około 20-30 minut.
+
+Makroskładniki odżywcze: _macro\1.json
+
+Mikroelementy: _micro\1.json

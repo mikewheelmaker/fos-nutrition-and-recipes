@@ -1,0 +1,51 @@
+Sernav: Şorba zebze
+
+Welatê jêderê: Romanya
+
+Beş: 12
+
+Dema Amadekirinê: 1,5h - 2,5h
+
+Malzeme:
+Potatoes | 2000 g
+Koka kerfê | 0.5x (=?g)
+Koka parsûkê | 1x (=?g)
+Gêzer | 3x (=?g)
+Pîskên kesk ên gêjbûyî | 450 g
+Pûçikên kesk ên gêjbûyî | 400g
+Bibera sor | 1x (=?g)
+Bibera kesk | 1x (=?g)
+Bibera zer | 1x (=?g)
+Tomato | 5x (=?g)
+Dill | 3x (=?g)
+Parsley | 3x (=?g)
+Lovage | 3x (=?g)
+Xwê | Li gorî tama (pêşniyar kirin ?g)
+Condiments | Li gor tama
+
+Amûrên metbexê yên pêwîst:
+Kulîlkek bi hêjahiya herî kêm 10L
+Kevçîyek (bi tercîhî darîn) bi dirêjahiya herî kêm 20 cm
+Kêr
+Lijneya birrîna
+
+Gavên amadekariyê:
+Zebzeyan paqij bikin, paqij bikin û jê bikin. Bit divê ji bo demeke piçûk bi kelandinê re mezinahiya navîn be.
+Lîtreyek avê têxin satilê. Çavê sobê ya mezin bikar bînin.
+Biçên kerfes û parsûkê lê zêde bikin.
+Çavê sobê vekin. Vebijarka agirê bilind an germahiya bilind bikar bînin.
+Piştî ku av dest bi kelandinê kir, bi qasî 10(?) deqeyan bihêlin ku bikele.
+Kulîlkên gêzerê lê zêde bikin. Avê lê zêde bikin heta ku hemû bit di bin avê de bin. Baş tevlihev bikin.
+Bihêlin bi qasî 10(?) deqîqeyan bihele.
+Bitikên kartol zêde bikin. Avê lê zêde bikin heta ku hemû bit di bin avê de bin. Baş tevlihev bikin.
+Bihêlin bi qasî 20(?) deqeyan bihele.
+Pîskên kesk ên pezkirî û pelikên kesk lê zêde bikin. Avê lê zêde bikin heta ku hemû bit di bin avê de bin. Baş tevlihev bikin.
+Piştî ku av dest bi kelandinê kir, bi qasî 5(?) deqeyan bihêle ku bikele.
+Bîbera zengilê, tomato, dîl, parsley, û biskên lovage lê zêde bikin.
+Xwê û çêjên xwe lê zêde bikin. Avê lê zêde bikin heta ku hemû bit di bin avê de bin. Baş tevlihev bikin.
+Piştî ku av dest bi kelandinê kir, bi qasî 10(?) deqeyan bihêlin ku bikele.
+Çavê sobê vemirînin. Bihêlin bi qasî 20-30 hûrdeman rûnin.
+
+Macronutrient: _macro\1.json
+
+Xwarinên mîkro: _mikro\1.json

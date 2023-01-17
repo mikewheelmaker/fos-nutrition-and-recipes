@@ -1,0 +1,51 @@
+Aha: ofe akwukwo nri
+
+Obodo amụrụ: Romania
+
+Akụkụ: 12
+
+Oge nkwadebe: 1.5h - 2.5h
+
+Efrata:
+Nduku | 2000 g
+mgbọrọgwụ Celery | 0.5x (=?g)
+mgbọrọgwụ Parsnip | 1x (=?g)
+Karọt | 3x (=?g)
+Peas akwụkwọ ndụ akwụkwọ ndụ juru | 450g
+Mpekere akwụkwọ ndụ akwụkwọ ndụ juru | 400g
+Red mgbịrịgba ose | 1x (=?g)
+Green mgbịrịgba ose | 1x (=?g)
+Odo mgbịrịgba ose | 1x (=?g)
+Tomato | 5x (=?g)
+dil | 3x (=?g)
+Pasili | 3x (=?g)
+Lovehụnanya | 3x (=?g)
+Nnu | Dị ka uto si dị ( akwadoro ?g)
+Condiments | Dị ka uto
+
+Ngwa kichin achọrọ:
+Ite nwere oke kacha nta nke 10L
+Otu ngaji (ọkacha mma osisi) na ogologo kacha nta nke 20cm
+Mma
+Ịcha osisi
+
+Usoro nkwadebe:
+Bee, dị ọcha ma belata akwụkwọ nri. Iberibe ndị ahụ kwesịrị ịbụ nke ọkara maka obere oge esi mmiri.
+Tinye otu lita mmiri n'ime ite ahụ. Jiri anya stovu buru ibu.
+Tinye celery na ibe n'ibe parsnip.
+Gbanwuo anya stovu. Jiri oke ọkụ ma ọ bụ oke okpomọkụ nhọrọ.
+Mgbe mmiri ahụ malitechara, hapụ ka o sie ihe dị ka nkeji iri (?).
+Tinye iberi karọt. Tinye mmiri ruo mgbe ihe niile ga-ejupụta. Gwakọta nke ọma.
+Hapụ ka obụpde ihe dịka nkeji iri (?).
+Tinye ibe n'ibe nduku. Tinye mmiri ruo mgbe ihe niile ga-ejupụta. Gwakọta nke ọma.
+Hapụ ka obụpde ihe dịka nkeji iri abụọ (?).
+Tinye peas akwụkwọ ndụ akwụkwọ ndụ mkpọkọrọ na pọd akwụkwọ ndụ akwụkwọ ndụ. Tinye mmiri ruo mgbe ihe niile ga-ejupụta. Gwakọta nke ọma.
+Mgbe mmiri ahụ malitechara, hapụ ka o sie ihe dị ka nkeji ise (?).
+Tinye ose mgbịrịgba, tomato, dil, pasili, na ibe lovage.
+Tinye nnu na condiments. Tinye mmiri ruo mgbe ihe niile ga-ejupụta. Gwakọta nke ọma.
+Mgbe mmiri ahụ malitechara, hapụ ka o sie ihe dị ka nkeji iri (?).
+Gbanyụọ anya stovu. Hapụ ka ọ nọdụ ala ihe dịka nkeji 20-30.
+
+Ihe oriri: _macro\1.json
+
+Micronutrients: _micro\1.json

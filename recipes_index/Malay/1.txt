@@ -1,0 +1,51 @@
+Tajuk: Sup sayur
+
+Negara asal: Romania
+
+Bahagian: 12
+
+Masa penyediaan: 1.5j - 2.5j
+
+bahan-bahan:
+Kentang | 2000g
+Akar saderi | 0.5x (=?g)
+Akar parsnip | 1x (=?g)
+Lobak merah | 3x (=?g)
+Kacang hijau beku | 450g
+Buah hijau beku | 400g
+Lada benggala merah | 1x (=?g)
+Lada benggala hijau | 1x (=?g)
+Lada benggala kuning | 1x (=?g)
+Tomato | 5x (=?g)
+Dill | 3x (=?g)
+Parsley | 3x (=?g)
+Lovage | 3x (=?g)
+Garam | Mengikut rasa (disyorkan ?g)
+perasa | Mengikut citarasa
+
+Peralatan dapur yang diperlukan:
+Sebuah periuk dengan isipadu minimum 10L
+Satu sudu (sebaik-baiknya kayu) dengan panjang minimum 20cm
+Pisau
+Papan pemotong
+
+Langkah penyediaan:
+Kupas, bersihkan dan potong sayur-sayuran. Bit hendaklah bersaiz sederhana untuk masa mendidih yang kecil.
+Masukkan satu liter air ke dalam periuk. Gunakan mata dapur yang besar.
+Masukkan potongan saderi dan parsnip.
+Hidupkan mata dapur. Gunakan pilihan nyalaan tinggi atau suhu tinggi.
+Selepas air mula mendidih, biarkan mendidih selama lebih kurang 10(?) minit.
+Masukkan bit lobak merah. Masukkan air sehingga semua ketulan tenggelam. Gaul sebati.
+Biarkan mendidih selama lebih kurang 10(?) minit.
+Masukkan potongan kentang. Masukkan air sehingga semua ketulan tenggelam. Gaul sebati.
+Biarkan mendidih selama lebih kurang 20(?) minit.
+Masukkan kacang hijau beku dan buah hijau. Masukkan air sehingga semua ketulan tenggelam. Gaul sebati.
+Selepas air mula mendidih, biarkan mendidih selama lebih kurang 5(?) minit.
+Masukkan lada benggala, tomato, dill, pasli, dan bit lovage.
+Masukkan garam dan perasa. Masukkan air sehingga semua ketulan tenggelam. Gaul sebati.
+Selepas air mula mendidih, biarkan mendidih selama lebih kurang 10(?) minit.
+Matikan mata dapur. Biarkan selama lebih kurang 20-30 minit.
+
+Makronutrien: _macro\1.json
+
+Mikronutrien: _micro\1.json

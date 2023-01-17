@@ -1,0 +1,51 @@
+Title: Muto wemuriwo
+
+Nyika yekubva: Romania
+
+Zvikamu: 12
+
+Nguva yekugadzirira: 1.5h - 2.5h
+
+Ingredients:
+Mbatata | 2000g
+Celery mudzi | 0.5x (=?g)
+Parsnip mudzi | 1x (=?g)
+Karoti | 3x (=?g)
+Congealed green peas | 450g
+Congealed green pods | 400g
+Red bhero mhiripiri | 1x (=?g)
+Green bell pepper | 1x (=?g)
+Yellow bell pepper | 1x (=?g)
+Tomato | 5x (=?g)
+Dill | 3x (=?g)
+Parsley | 3x (=?g)
+Lovage | 3x (=?g)
+Munyu | Maererano nekuravira (inokurudzirwa ?g)
+Condiments | Maererano nekuravira
+
+Midziyo yekicheni inodiwa:
+Hari ine huwandu hushoma hwe10L
+Chipunu (zvichida matanda) ine hurefu hushoma hwe20cm
+Banga
+Kucheka bhodhi
+
+Matanho ekugadzirira:
+Peel, chenesa uye ucheke miriwo. Mabhiti acho anofanira kunge ari epakati nepakati kwenguva diki yekubikira.
+Isa litre yemvura mupoto. Shandisa ziso guru rechitofu.
+Wedzera celery uye parsnip bits.
+Batidza ziso rechitofu. Shandisa murazvo wakakwira kana tembiricha yakakwira.
+Mushure mekunge mvura yatanga kufashaira, siya kuti ifashaire kweanenge maminetsi gumi (?).
+Wedzera zvimedu zvekaroti. Wedzera mvura kusvikira zvimedu zvose zvanyura. Sanganisa zvakanaka.
+Rega zvifashaire kwemaminitsi angangoita gumi (?)
+Wedzera zvimedu zvembatatisi. Wedzera mvura kusvikira zvidimbu zvose zvanyura. Sanganisa zvakanaka.
+Siya zvifashaire kweanenge maminitsi makumi maviri (?)
+Wedzera peas dzakakora uye mapodhi egirini. Wedzera mvura kusvikira zvimedu zvose zvanyura. Sanganisa zvakanaka.
+Mushure mekunge mvura yatanga kufashaira, siyai kubikira kweanenge 5(?) maminitsi.
+Wedzera bell pepper, tomate, dill, parsley, uye lovage bits.
+Wedzera munyu uye condiments. Wedzera mvura kusvikira zvimedu zvose zvanyura. Sanganisa zvakanaka.
+Mushure mekunge mvura yatanga kufashaira, siya kuti ifashaire kweanenge maminetsi gumi (?).
+Dzima ziso rechitofu. Siya kuti ugare kwemaminitsi anenge 20-30.
+
+Macronutrients: _macro\1.json
+
+Micronutrients: _micro\1.json

@@ -1,0 +1,51 @@
+Title: Hupa huawhenua
+
+Whenua taketake: Romania
+
+Wahi: 12
+
+Te wa whakarite: 1.5h - 2.5h
+
+Kai:
+Riwai | 2000g
+pakiaka herewi | 0.5x (=?g)
+Puakaa Parsnip | 1x (=?g)
+Kāreti | 3x (=?g)
+Pī kākāriki congealed | 450g
+Poaka kakariki kua whakapoapoa | 400g
+Pepa pere whero | 1x (=?g)
+Pepa pere kakariki | 1x (=?g)
+Pepa pere kowhai | 1x (=?g)
+Tomato | 5x (=?g)
+Te pi | 3x (=?g)
+Pahiri | 3x (=?g)
+Lovage | 3x (=?g)
+Tote | E ai ki te reka (e taunakitia ana ?g)
+Nga mea kakara | E ai ki te reka
+
+Nga taputapu kihini e hiahiatia ana:
+He kohua me te iti rawa o te 10L
+He koko (he rakau pai ake) me te 20cm te roa
+Naihi
+Papa tapahi
+
+Te takahanga:
+Tihorea, horoia ka tapahia nga huawhenua. Me rahi te rahi o nga paraka mo te wa poto e koropupu ana.
+Hoatu he rita wai ki roto i te kohua. Whakamahia te kanohi umu nui.
+Tāpirihia te herewi me nga paraka parani.
+Whakakāhia te kanohi umu. Whakamahia te rama teitei, te whiringa pāmahana teitei ranei.
+Ka timata te koropuke o te wai, waiho kia koropuke mo te 10(?) meneti.
+Tāpirihia ngā paraka kāroti. Tāpirihia te wai kia rukuhia nga paraire katoa. Whakaranu pai.
+Waiho kia koropupu mo te 10(?) meneti.
+Tāpirihia nga paraka riwai. Tāpirihia te wai kia rukuhia nga paraire katoa. Whakaranu pai.
+Waiho kia koropupu mo te 20(?) meneti.
+Tāpirihia te pī kākāriki me ngā pākākano kaakaariki. Taapirihia he wai kia ruku katoa nga paraka. Whakaranu pai.
+Ka timata te wai kia koropupuke, waiho kia koropupuke mo te 5(?) meneti.
+Tāpirihia te pepa pere, te tōmato, te kumine, te pāhiri, me ngā paraire lovage.
+Tāpirihia te tote me nga mea kakara. Tāpirihia te wai kia rukuhia nga paraire katoa. Whakaranu pai.
+Ka timata te koropuke o te wai, waiho kia koropuke mo te 10(?) meneti.
+Whakawetohia te kanohi umu. Waiho kia noho mo te 20-30 meneti pea.
+
+Macronutrients: _macro\1.json
+
+Nga matūriki moroiti: _micro\1.json

@@ -1,0 +1,51 @@
+Teideal: Anraith glasraí
+
+Tír tionscnaimh: An Rómáin
+
+Codanna: 12
+
+Am ullmhúcháin: 1.5h - 2.5h
+
+Comhábhair:
+Prátaí | 2000g
+Fréamh soilire | 0.5x (=?g)
+Fréamh meacain bhána | 1x (=?g)
+Cairéad | 3x (=?g)
+Piseanna glasa congealed | 450g
+Podóga glasa congealed | 400g
+Piobar clog dearg | 1x (=?g)
+Piobar cloigín glas | 1x (=?g)
+Piobar cloiginn buí | 1x (=?g)
+Trátaí | 5x (=?g)
+Dill | 3x (=?g)
+Peirsil | 3x (=?g)
+Lobhadh | 3x (=?g)
+Salann | De réir blas (molta ?g)
+Tarsainn | De réir blas
+
+Uirlisí cistine riachtanacha:
+Pota le toirt íosta de 10L
+Spúnóg (adhmad b'fhearr) le fad íosta 20cm
+Scian
+Bord gearrtha
+
+Céimeanna ullmhúcháin:
+Peel, glan agus gearr na glasraí. Ba chóir go mbeadh na giotáin de mheánmhéid ar feadh tréimhse fiuchphointe beag.
+Cuir lítear amháin uisce sa phota. Bain úsáid as an tsúil sorn mór.
+Cuir na píosaí soilire agus parsnip leis.
+Cas ar an tsúil sorn. Bain úsáid as an rogha ard-lasair nó teocht ard.
+Tar éis don uisce tosú ag fiuchadh, fág é a fhiuchadh ar feadh thart ar 10(?) nóiméad.
+Cuir na píosaí cairéad leis. Cuir uisce leis go dtí go mbeidh na giotáin go léir báite. Measc go maith.
+Fág é a fhiuchadh ar feadh thart ar 10(?) nóiméad.
+Cuir na píosaí prátaí leis. Cuir uisce leis go dtí go bhfuil na giotán go léir báite. Measc go maith.
+Fág é a fhiuchadh ar feadh thart ar 20(?) nóiméad.
+Cuir na piseanna glasa congealed agus na pods glasa leis. Cuir uisce leis go dtí go mbeidh na giotáin go léir báite. Measc go maith.
+Tar éis don uisce tosú ag fiuchadh, fág é a fhiuchadh ar feadh thart ar 5(?) nóiméad.
+Cuir an clog piobar, trátaí, dill, peirsil, agus píosaí lovage leis.
+Cuir an salann agus tarsainn. Cuir uisce leis go dtí go mbeidh na giotáin go léir báite. Measc go maith.
+Tar éis don uisce tosú ag fiuchadh, fág é a fhiuchadh ar feadh thart ar 10(?) nóiméad.
+Múch an tsúil sorn. Fág chun suí ar feadh thart ar 20-30 nóiméad.
+
+Macrachothaitheacha: _macro\1.json
+
+Micreathruithe: _micro\1.json

@@ -1,0 +1,51 @@
+Paulo: Sopas ti nateng
+
+Pagilian a nagtaudan: Romania
+
+Dagiti Paset: 12
+
+Oras ti panagsagana: 1.5h - 2.5h
+
+Dagiti laok:
+Patatas nga | 2000g nga
+Ramut ti api | 0.5x (=?g) nga .
+Ramut ti parsnip | 1x (=?g) nga .
+Carrot nga | 3x (=?g) nga .
+Natangken a berde a gisantes | 450g nga
+Nalukneng a berde a bukel | 400g nga
+Nalabaga a sili ti kampana | 1x (=?g) nga .
+Berde nga sili ti kampana | 1x (=?g) nga .
+Duyaw nga sili ti kampana | 1x (=?g) nga .
+Kamatis nga | 5x (=?g) nga .
+Dill | 3x (=?g) nga .
+Perehil | 3x (=?g) nga .
+Lovage nga | 3x (=?g) nga .
+Asin nga | Segun iti panagraman (mairekomendar ?g) .
+Dagiti Rekado | Segun iti panagraman
+
+Masapul nga alikamen iti kosina:
+Maysa a kaldero nga addaan iti minimum volume a 10L
+Maysa a kutsara (nasaysayaat no kayo) nga addaan iti kabassitan a kaatiddog a 20cm
+Kutsilyo
+Tabla a pagputed
+
+Addang ti panagsagana:
+Ukisan, dalusan ken putden dagiti nateng. Rumbeng a kalalainganna ti kadakkel dagiti bits iti bassit a panawen ti panagburek.
+Ikabil ti maysa a litro a danum iti kaldero. Usaren ti dakkel a mata ti paglutuan.
+Inayon ti celery ken parsnip bits.
+Iddepen ti mata ti paglutuan. Usaren ti pagpilian a nangato a gil-ayab wenno nangato a temperatura.
+Kalpasan a mangrugin nga agburek ti danum, bay-an nga agburek iti agarup 10(?) a minuto.
+Inayon ti carrot bits. Inayon ti danum agingga a mailumlom amin a pedaso. Paglalaoken a nasayaat.
+Bay-an nga agburek iti agarup 10(?) a minuto.
+Inayon ti patatas a pedaso. Inayon ti danum agingga a mailumlom amin a pedaso. Paglalaoken a nasayaat.
+Bay-an nga agburek iti agarup 20(?) a minuto.
+Inayon ti congealed green peas ken green pods. Inayon ti danum agingga a mailumlom amin a pedaso. Paglalaoken a nasayaat.
+Kalpasan a mangrugin nga agburek ti danum, bay-an nga agburek iti agarup 5(?) a minuto.
+Inayon ti bell pepper, kamatis, eneldo, perehil, ken lovage bits.
+Inayon ti asin ken condiment. Inayon ti danum agingga a mailumlom amin a pedaso. Paglalaoken a nasayaat.
+Kalpasan a mangrugin nga agburek ti danum, bay-an nga agburek iti agarup 10(?) a minuto.
+Iddepen ti mata ti paglutuan. Bay-an nga agtugaw iti agarup 20-30 a minuto.
+
+Dagiti makronutriente: _macro\1.json
+
+Dagiti mikronutriente: _micro\1.json

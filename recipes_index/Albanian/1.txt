@@ -1,0 +1,51 @@
+Titulli: Supë me perime
+
+Vendi i origjinës: Rumani
+
+Porcionet: 12
+
+Koha e përgatitjes: 1.5h - 2.5h
+
+Përbërësit:
+Patate | 2000 g
+Rrënja e selinos | 0,5x (=?g)
+Rrënja e majdanozit | 1x (=?g)
+Karrota | 3x (=?g)
+Bizele të gjelbra të ngjizura | 450 g
+Bishtaja të gjelbra të ngjizura | 400 gr
+Piper i kuq zile | 1x (=?g)
+Piper zile jeshile | 1x (=?g)
+Piper zile të verdhë | 1x (=?g)
+Domate | 5x (=?g)
+Kopra | 3x (=?g)
+Majdanoz | 3x (=?g)
+Lovage | 3x (=?g)
+Kripë | Sipas shijes (rekomandohet ?g)
+Erëza | Sipas shijes
+
+Pajisjet e nevojshme të kuzhinës:
+Një tenxhere me një vëllim minimal prej 10L
+Një lugë (mundësisht prej druri) me gjatësi minimale 20 cm
+Thikë
+Dërrasë prerëse
+
+Hapat e përgatitjes:
+Qëroni, pastroni dhe prisni perimet. Copat duhet të jenë të madhësisë mesatare për një kohë të vogël zierjeje.
+Hidhni një litër ujë në tenxhere. Përdorni syrin e madh të sobës.
+Shtoni copat e selinos dhe majdanozit.
+Ndizni syrin e sobës. Përdorni opsionin me flakë të lartë ose temperaturë të lartë.
+Pasi uji të fillojë të vlojë, lëreni të ziejë përafërsisht 10(?) minuta.
+Shtoni copat e karotës. Shtoni ujë derisa të gjitha pjesët të zhyten në ujë. Përziejini mirë.
+Lëreni të ziejë për rreth 10(?) minuta.
+Shtoni copat e patateve. Shtoni ujë derisa të gjitha pjesët të zhyten në ujë. Përziejini mirë.
+Lëreni të ziejë për rreth 20(?) minuta.
+Shtoni bizelet e gjelbra të ngjizura dhe bishtajat jeshile. Shtoni ujë derisa të gjitha pjesët të zhyten në ujë. Përziejini mirë.
+Pasi uji të fillojë të vlojë, lëreni të ziejë për rreth 5(?) minuta.
+Shtoni specin zile, domatet, koprën, majdanozin dhe copat e lopës.
+Shtoni kripën dhe erëzat. Shtoni ujë derisa të gjitha pjesët të zhyten në ujë. Përziejini mirë.
+Pasi uji të fillojë të vlojë, lëreni të ziejë përafërsisht 10(?) minuta.
+Fikni syrin e sobës. Lëreni të qëndrojë për rreth 20-30 minuta.
+
+Makronutrientët: _makro\1.json
+
+Mikroushqyesit: _mikro\1.json

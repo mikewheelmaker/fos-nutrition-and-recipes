@@ -1,0 +1,51 @@
+Sarlavha: Sabzavotli sho'rva
+
+Ishlab chiqarilgan mamlakat: Ruminiya
+
+Porsiyalar: 12
+
+Tayyorlash vaqti: 1,5-2,5 soat
+
+Tarkibi:
+Kartoshka | 2000 gr
+Selderey ildizi | 0,5x (=?g)
+Parsnip ildizi | 1x (=?g)
+Sabzi | 3x (=?g)
+Qovurilgan yashil no'xat | 450g
+Qovurilgan yashil dukkaklar | 400g
+Qizil bolgar qalampiri | 1x (=?g)
+Yashil bolgar qalampiri | 1x (=?g)
+Sariq bolgar qalampiri | 1x (=?g)
+Pomidor | 5x (=?g)
+Dereotu | 3x (=?g)
+Petrushka | 3x (=?g)
+Sevgi | 3x (=?g)
+Tuz | Ta'mga ko'ra (tavsiya etiladi ?g)
+Ziravorlar | Ta'mga ko'ra
+
+Kerakli oshxona anjomlari:
+Minimal hajmi 10 litr bo'lgan idish
+Minimal uzunligi 20 sm bo'lgan qoshiq (yaxshisi yog'och).
+Pichoq
+Kesish taxtasi
+
+Tayyorgarlik bosqichlari:
+Sabzavotlarni tozalang, tozalang va kesib oling. Bitlar kichik qaynash vaqti uchun o'rtacha kattalikda bo'lishi kerak.
+Idishga bir litr suv quying. Katta pechka ko'zidan foydalaning.
+Selderey va parsnip bitlarini qo'shing.
+Pechka ko'zini yoqing. Yuqori olov yoki yuqori harorat variantidan foydalaning.
+Suv qaynay boshlagandan so'ng, taxminan 10 (?) daqiqa qaynatish uchun qoldiring.
+Sabzi bo'laklarini qo'shing. Barcha bitlar suvga botilguncha suv qo'shing. Yaxshilab aralashtiramiz.
+Taxminan 10(?) daqiqa qaynatish uchun qoldiring.
+Kartoshka bo'laklarini qo'shing. Barcha bitlar suvga botilguncha suv qo'shing. Yaxshilab aralashtiramiz.
+Taxminan 20(?) daqiqa qaynatish uchun qoldiring.
+Qovurilgan yashil no'xat va yashil dukkaklilarni qo'shing. Barcha bitlar suvga botilguncha suv qo'shing. Yaxshilab aralashtiramiz.
+Suv qaynay boshlagandan so'ng, taxminan 5 (?) daqiqa qaynatish uchun qoldiring.
+Bolgar qalampiri, pomidor, arpabodiyon, maydanoz va loviya qo'shing.
+Tuz va ziravorlar qo'shing. Barcha bitlar suvga botilguncha suv qo'shing. Yaxshilab aralashtiramiz.
+Suv qaynay boshlagandan so'ng, taxminan 10 (?) daqiqa qaynatish uchun qoldiring.
+Pechka ko'zini o'chiring. Taxminan 20-30 daqiqa o'tirish uchun qoldiring.
+
+Makronutrientlar: _macro\1.json
+
+Mikroelementlar: _micro\1.json

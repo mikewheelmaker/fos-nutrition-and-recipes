@@ -1,0 +1,51 @@
+Pealkiri: Köögiviljasupp
+
+Päritoluriik: Rumeenia
+
+Portsjonid: 12
+
+Valmistamisaeg: 1,5h - 2,5h
+
+Koostis:
+Kartulid | 2000g
+Selleri juur | 0,5x (=?g)
+Pastinaagijuur | 1x (=?g)
+Porgand | 3x (=?g)
+Tardunud rohelised herned | 450 g
+Tardunud rohelised kaunad | 400g
+Punane paprika | 1x (=?g)
+Roheline paprika | 1x (=?g)
+Kollane paprika | 1x (=?g)
+Tomat | 5x (=?g)
+Till | 3x (=?g)
+Petersell | 3x (=?g)
+Lovage | 3x (=?g)
+Sool | Vastavalt maitsele (soovitatav ?g)
+Maitseained | Vastavalt maitsele
+
+Vajalikud kööginõud:
+Pott minimaalse mahuga 10L
+Lusikas (soovitavalt puidust), mille minimaalne pikkus on 20 cm
+Nuga
+Lõikelaud
+
+Ettevalmistuse etapid:
+Koorige, puhastage ja tükeldage köögiviljad. Bitid peaksid olema väikese keemisaja jaoks keskmise suurusega.
+Valage potti üks liiter vett. Kasutage suurt pliidisilma.
+Lisa seller ja pastinaagitükid.
+Lülitage pliidisilm sisse. Kasutage kõrge leegi või kõrge temperatuuri valikut.
+Kui vesi hakkab keema, lase keeda umbes 10(?) minutit.
+Lisa porganditükid. Lisage vett, kuni kõik osad on vee all. Sega hästi.
+Lase keeda umbes 10(?) minutit.
+Lisa kartulitükid. Lisage vett, kuni kõik osad on vee all. Sega hästi.
+Lase keeda umbes 20(?) minutit.
+Lisa tardunud rohelised herned ja rohelised kaunad. Lisage vett, kuni kõik osad on vee all. Sega hästi.
+Kui vesi hakkab keema, lase keeda umbes 5(?) minutit.
+Lisage paprika, tomatid, till, petersell ja limiiditükid.
+Lisa sool ja maitseained. Lisage vett, kuni kõik osad on vee all. Sega hästi.
+Kui vesi hakkab keema, lase keeda umbes 10(?) minutit.
+Lülitage pliidisilm välja. Jäta umbes 20-30 minutiks seisma.
+
+Makrotoitained: _macro\1.json
+
+Mikroelemendid: _micro\1.json

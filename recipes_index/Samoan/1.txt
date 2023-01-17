@@ -1,0 +1,51 @@
+Ulutala: Supa fualaau faisua
+
+Atunuu na afua mai ai: Romania
+
+Vaega: 12
+
+Taimi sauniuni: 1.5h - 2.5h
+
+mea fa'aoga:
+Pateta | 2000g
+A'a seleni | 0.5x (=?g)
+A'a pa'u | 1x (=?g)
+Karoti | 3x (=?g)
+Pi'i lanu meamata fa'afefe | 450g
+Pepa lanu meamata fa'afefe | 400g
+Pepa logo mumu | 1x (=?g)
+Pepa logo lanu meamata | 1x (=?g)
+Pepa logo samasama | 1x (=?g)
+Tomato | 5x (=?g)
+Dill | 3x (=?g)
+Pasili | 3x (=?g)
+Lovage | 3x (=?g)
+masima | E tusa ai ma le tofo (fautua ?g)
+mea manogi | E tusa ai ma le tofo
+
+Mea faigaluega umukuka mana'omia:
+Ose ulo e la'ititi le 10L
+Se sipuni (sili i le laupapa) ma le umi ole 20cm
+naifi
+laupapa tipi
+
+Laasaga o sauniuniga:
+Aveese, faamama ma tipi fualaau faisua. E tatau ona feololo le lapopoa mo sina taimi pupuna.
+Tuu le lita o le vai i totonu o le ulo. Fa'aaoga le mata ogaumu tele.
+Fa'aopoopo le seleni ma fasi pasi.
+Ki le mata ogaumu. Fa'aaoga le afi maualuga po'o le maualuga o le vevela filifiliga.
+A uma ona fa'apuna le vai, tu'u e fa'apuna pe tusa ma le 10(?) minute.
+Fa'aopoopo fasi kāloti. Fa'aopoopo le vai se'ia magoto uma vaega. Faafefiloi lelei.
+Tu'u e fa'apuna pe tusa ma le 10(?) minute.
+Fa'aopoopo fasi pateta. Fa'aopoopo le vai se'ia magoto uma vaega. Faafefiloi lelei.
+Tu'u e fa'apuna pe tusa ma le 20(?) minute.
+Fa'aopoopo i ai pi lanumeamata fa'afefeteina ma pulu lanu meamata. Fa'aopoopo le vai se'ia magoto uma vaega. Faafefiloi lelei.
+A uma ona fa'apuna le vai, tu'u e fa'apuna pe tusa ma le 5(?) minute.
+Faaopopo le pepa logo, tamato, dill, pasili, ma fasi lovage.
+Faaopopo le masima ma mea manogi. Fa'aopoopo le vai se'ia magoto uma vaega. Faafefiloi lelei.
+A uma ona fa'apuna le vai, tu'u e fa'apuna pe tusa ma le 10(?) minute.
+Tape le mata ogaumu. Tuu e nofo pe a ma le 20-30 minute.
+
+Macronutrients: _macro\1.json
+
+Micronutrients: _micro\1.json

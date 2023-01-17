@@ -1,0 +1,51 @@
+Sehlogo: Sopo ya merogo
+
+Naga ya setlogo: Romania
+
+Dikarolo: 12
+
+Nako ya go lokišetša: 1.5h - 2.5h
+
+Ditswaki:
+Ditapola tša | 2000g ya go swana le
+Modu wa celery | 0,5x (=? g) .
+Modu wa parsnip | 1x (=?g) .
+Kharote ya | 3x (=?g) .
+Dierekisi tše tala tše di kgomaretšego | 450g ya go
+Diphotlwa tše tala tše di kgomaretšego | 400g ya go
+Pepere e khubelu ya tšepe | 1x (=?g) .
+Pepere e tala ya tšepe | 1x (=?g) .
+Pepere ya tšepe ye serolane | 1x (=?g) .
+Tamati | 5x (=?g) .
+Dill | 3x (=?g) .
+Parsley ya | 3x (=?g) .
+Lovage ya go rata | 3x (=?g) .
+Letswai | Go ya ka tatso (e kgothaletšwago ?g) .
+Ditswaki | Go ya ka tatso
+
+Didirišwa tša ka khitšhing tše di nyakegago:
+Pitša yeo e nago le bophagamo bja fasefase bja 10L
+Khaba (ka go tlhaolega lehong) le bonyane bolelele ba 20cm
+Thipa
+Boto ya go sega
+
+Megato ya go lokišetša:
+Peel, hloekisa le ho khaola meroho. Dikotwana di swanetše go ba tša bogolo bja magareng ka nako ye nnyane ya go bela.
+Tsenya litara e le nngwe ya meetse ka pitšeng. Diriša leihlo le legolo la setofo.
+Kenya celery le parsnip dikotwana tse.
+Bulela leihlo la setofo. Diriša kgetho ya kgabo ya godimo goba ya themperetšha ya godimo.
+Ka morago ga ge meetse a thomile go bela, a tlogele a bela metsotso ye e ka bago ye 10(?).
+Oketša dikotwana tša karoti. Oketša meetse go fihlela diripana ka moka di nweletše ka meetseng. Hlakanya gabotse.
+Tlogela go bela metsotso ye e ka bago ye 10(?).
+Oketša dikotwana tša ditapola. Oketša meetse go fihlela diripana ka moka di nweletše ka meetseng. Hlakanya gabotse.
+Tlogela go bela metsotso ye e ka bago ye 20(?).
+Oketša dierekisi tše tala tše di kgomaretšego le diphotlwa tše tala. Oketša meetse go fihlela diripana ka moka di nweletše ka meetseng. Hlakanya gabotse.
+Ka morago ga ge meetse a thomile go bela, a tlogele a bela metsotso ye e ka bago ye 5(?).
+Oketša pherefere ya tšhipi, ditamati, dill, parsley le dikotwana tša lovage.
+Kenya letsoai le condiments. Oketša meetse go fihlela diripana ka moka di nweletše ka meetseng. Hlakanya gabotse.
+Ka morago ga ge meetse a thomile go bela, a tlogele a bela metsotso ye e ka bago ye 10(?).
+Tima leihlo la setofo. Tlogela go dula metsotso ye e ka bago ye 20-30.
+
+Diphepo tša makro: _macro \ 1.json
+
+Diphepo tše nnyane: _micro\1.json

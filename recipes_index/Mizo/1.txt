@@ -1,0 +1,51 @@
+Title: Thlai chi hrang hrang ei tur
+
+A lo chhuahna ram: Romania
+
+A ṭhen hrang hrang: 12
+
+Inbuatsaihna hun: 1.5h - 2.5h
+
+Thil telh:
+Alu | 2000g a ni
+Celery zung chu | 0.5x (=?g) a ni.
+Parsnip zung chu | 1x (=?g) a ni.
+Carrot a ni | 3x (=?g) a ni.
+A hring hring (congealed green peas) | 450g a ni
+A hring hring (congealed green pods) | 400g a ni
+Red bell pepper | 1x (=?g) a ni.
+Green bell pepper a ni | 1x (=?g) a ni.
+Bell pepper sen hring | 1x (=?g) a ni.
+Tomato atanga chhuak | 5x (=?g) a ni.
+Dill | 3x (=?g) a ni.
+Parsley a ni | 3x (=?g) a ni.
+Hmangaihna | 3x (=?g) a ni.
+Chi | A thlum dan azirin (recommended ?g) .
+Thil chi hrang hrang | Taste a zirin
+
+Kitchen hmanrua mamawh: 1.1.
+Pot pakhat, a volume tlem ber 10L
+Spoon (thinga siam a tha ber) a sei ber chu 20cm a ni
+Chemte
+Cutting board a ni
+
+Inbuatsaihna tur: 1.1.
+Thlai chu peel la, tifai la, cut rawh. Bits te hi a boil hun tlemte chhung chu medium size a ni tur a ni.
+Tui litre khat chu bêl chhungah dah la. Stove eye lian tak chu hmang rawh.
+Celery leh parsnip bits te chu a chhungah dah la.
+Stove eye chu on rawh. High flame emaw high temperature emaw option hmang la.
+Tui a lum tan hnuah minute 10(?) vel a lum turin dah la.
+Carrot bits te chu a chhungah dah la. Bit zawng zawng a tuiah a pil vek thlengin tui dah la. Mix tha rawh.
+Minute 10(?) vel a lum turin dah la.
+Potato bits chu a chhungah dah la. Bit zawng zawng a tuiah a pil vek thlengin tui dah la. Mix tha rawh.
+Minute 20(?) vel a lum turin dah la.
+A congealed green peas leh green pods te chu a chhungah dah la. Bit zawng zawng a tuiah a pil vek thlengin tui dah la. Mix tha rawh.
+Tui a lum tan hnuah minute 5(?) vel a lum turin dah la.
+Bell pepper, tomato, dill, parsley, leh lovage bits te chu dah la.
+Salt leh condiments te chu a chhungah dah la. Bit zawng zawng a tuiah a pil vek thlengin tui dah la. Mix tha rawh.
+Tui a lum tan hnuah minute 10(?) vel a lum turin dah la.
+Stove eye chu off rawh. Minute 20-30 vel thut tir tur a ni.
+
+Macronutrients: _macro\1.json te chu a tha hle
+
+Micronutrients: _micro\1.json te hi a awm a

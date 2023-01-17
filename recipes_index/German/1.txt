@@ -1,0 +1,51 @@
+Titel: Gemüsesuppe
+
+Herkunftsland: Rumänien
+
+Portionen: 12
+
+Zubereitungszeit: 1,5h - 2,5h
+
+Zutaten:
+Kartoffeln | 2000g
+Selleriewurzel | 0,5x (=?g)
+Pastinakenwurzel | 1x (=?g)
+Karotte | 3x (=?g)
+Eingefrorene grüne Erbsen | 450gr
+Erstarrte grüne Schoten | 400gr
+Rote Paprika | 1x (=?g)
+Grüne Paprika | 1x (=?g)
+Gelbe Paprika | 1x (=?g)
+Tomate | 5x (=?g)
+Dill | 3x (=?g)
+Petersilie | 3x (=?g)
+Liebstöckel | 3x (=?g)
+Salz | Je nach Geschmack (empfohlen ?g)
+Gewürze | Je nach Geschmack
+
+Erforderliche Küchenutensilien:
+Ein Topf mit einem Mindestvolumen von 10L
+Ein Löffel (am besten aus Holz) mit einer Mindestlänge von 20 cm
+Messer
+Schneidbrett
+
+Vorbereitungsschritte:
+Gemüse schälen, putzen und schneiden. Die Bits sollten für eine kurze Kochzeit von mittlerer Größe sein.
+Geben Sie einen Liter Wasser in den Topf. Verwenden Sie das große Ofenauge.
+Sellerie- und Pastinakenstücke dazugeben.
+Schalten Sie das Herdauge ein. Verwenden Sie die Option mit hoher Flamme oder hoher Temperatur.
+Nachdem das Wasser zu kochen beginnt, lassen Sie es etwa 10 (?) Minuten kochen.
+Fügen Sie die Karottenstücke hinzu. Fügen Sie Wasser hinzu, bis alle Bits untergetaucht sind. Gut mischen.
+Etwa 10 (?) Minuten kochen lassen.
+Fügen Sie die Kartoffelstücke hinzu. Fügen Sie Wasser hinzu, bis alle Bits untergetaucht sind. Gut mischen.
+Etwa 20 (?) Minuten kochen lassen.
+Fügen Sie die geronnenen grünen Erbsen und grünen Schoten hinzu. Fügen Sie Wasser hinzu, bis alle Bits untergetaucht sind. Gut mischen.
+Nachdem das Wasser zu kochen beginnt, lassen Sie es etwa 5 (?) Minuten kochen.
+Paprika, Tomaten, Dill, Petersilie und Liebstöckelstücke zugeben.
+Salz und Gewürze hinzufügen. Fügen Sie Wasser hinzu, bis alle Bits untergetaucht sind. Gut mischen.
+Nachdem das Wasser zu kochen beginnt, lassen Sie es etwa 10 (?) Minuten kochen.
+Schalten Sie das Herdauge aus. Etwa 20-30 Minuten ruhen lassen.
+
+Makronährstoffe: _macro\1.json
+
+Mikronährstoffe: _micro\1.json

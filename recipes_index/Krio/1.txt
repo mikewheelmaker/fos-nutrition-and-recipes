@@ -1,0 +1,51 @@
+Taytul: Vejitebul sup
+
+Di kɔntri usay dɛn kɔmɔt: Romɛnia
+
+Di pat dɛn: 12
+
+Di tɛm fɔ pripia: 1.5h - 2.5h
+
+Tin dɛn we de insay:
+Potato dɛn we de na di | 2000g we dɛn mek
+Seleri rut | 0,5x (=?g) .
+Parsnip rut na | 1x (=?g) .
+Karɔt na | 3x (=?g) .
+Grin pis we dɔn kɔnjɛl | 450g we yu de yuz
+Grin pod dɛn we dɔn kɔnjɛl | 400g we yu de yuz
+Rɛd bɛl pepa | 1x (=?g) .
+Grin bel pepper | 1x (=?g) .
+Yɔlɔ bɛl pepa | 1x (=?g) .
+Tomato we dɛn kɔl | 5x (=?g) .
+Dill | 3x (=?g) .
+Paslɛy | 3x (=?g) .
+Lɔvɛj | 3x (=?g) .
+Sɔl we de na di | Akɔdin to di teist (dɛn rɛkɔmɛnd ?g) .
+Di tin dɛn we dɛn kin yuz fɔ mek tin dɛn | Akɔdin to wetin dɛn lɛk
+
+Di tin dɛn we dɛn nid fɔ yuz na di kichin:
+Wan pɔt we gɛt minim volyum we na 10L
+Wan spun (i bεtεh fכ wud) wit 20cm lεngth
+Nɛf
+Bod we de kɔt
+
+Di tin dɛn we yu fɔ du fɔ pripia:
+Pil, klin ɛn kɔt di vɛjitebul dɛn. Di bit dɛn fɔ gɛt midul saiz fɔ smɔl tɛm we dɛn de bɔl.
+Put wan lita wata insay di pɔt. Yuz di big stov ay.
+Ad di seleri ɛn di parsnip bit dɛn.
+On di stov yay. Yuz di opshɔn we gɛt ay flaym ɔ ay tɛmpracha.
+Afta di wata bigin fɔ bɔl, lɛf am fɔ bɔl fɔ lɛk 10(?) minit.
+Ad di karɔt bit dɛn. Ad wata te ɔl di bit dɛn go ɔnda wata. Miks am fayn fayn wan.
+Lɛf am fɔ bɔl fɔ lɛk 10(?) minit.
+Ad di potato bits. Ad wata te ɔl di bit dɛn go ɔnda wata. Miks am fayn fayn wan.
+Lɛf am fɔ bɔl fɔ lɛk 20(?) minit.
+Ad di grɛn pis we dɔn kol ɛn di grɛn pɔd dɛn. Ad wata te ɔl di bit dɛn go ɔnda wata. Miks am fayn fayn wan.
+Afta di wata bigin fɔ bɔl, lɛf am fɔ bɔl fɔ lɛk 5(?) minit.
+Ad di bɛl pepa, tomato, dil, pasli, ɛn lovage bits.
+Ad di sɔl ɛn di kɔndimɛnt dɛn. Ad wata te ɔl di bit dɛn go ɔnda wata. Miks am fayn fayn wan.
+Afta di wata bigin fɔ bɔl, lɛf am fɔ bɔl fɔ lɛk 10(?) minit.
+Ɔf di stov yay. Lɛf am fɔ sidɔm fɔ lɛk 20-30 minit.
+
+Makronutriɛnt dɛn: _makro\1.json
+
+Maykronutriɛnt dɛn: _maykro\1.json

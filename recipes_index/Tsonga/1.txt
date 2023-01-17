@@ -1,0 +1,51 @@
+Title: Supu ya miroho
+
+Tiko ra masungulo: Romania
+
+Swiphemu: 12
+
+Nkarhi wo lunghiselela: 1.5h - 2.5h
+
+Swinyunyeteri:
+Timbatata | 2000g
+Rimitsu ra seleri | 0.5x (=?g) .
+Rimitsu ra parsnip | 1x (=?g) .
+Kharoti | 3x (=?g) .
+Ti peas ta rihlaza leti titimelaka | 450g
+Ti pods ta rihlaza leti pfalekeke | 400g
+Xiphepherhele xo tshwuka xa bell | 1x (=?g) .
+Xiphepherhele xa rihlaza xa bell | 1x (=?g) .
+Xiphepherhele xo tshwuka xa bell | 1x (=?g) .
+Matamatisi | 5x (=?g) .
+Dill | 3x (=?g) .
+Parsley ya xirhendzevutani | 3x (=?g) .
+Lovage | 3x (=?g) .
+Munyu | Hi ku ya hi nantswo (leswi ringanyetiweke ?g) .
+Swilo swo nandzihisa | Hi ku ya hi ku navela
+
+Switirhisiwa swa le khixini leswi lavekaka:
+Mbita leyingana volume yale hansi ya 10L
+Xipunu (swikahle kuva xa mapulanga) lexinga leha 20cm
+Mukwana
+Bodo yo tsema
+
+Magoza yo lunghiselela:
+Hluvula, basisa u tlhela u tsema miroho. Ti bits tifanele kuva ta vukulu byale xikarhi kuringana nkarhi nyana wo vila.
+Veka litara yin’we ya mati embiteni. Tirhisa tihlo lerikulu ra xitofu.
+Engeta swiphemu swa celery na parsnip.
+Vulavula hi tihlo ra xitofu. Tirhisa ndlela ya malangavi yale henhla kumbe ya mahiselo yale henhla.
+Endzhaku kaloko mati yasungule ku vila, ma tshika ya vila kuringana kwalomu ka 10(?) wa timinete.
+Engeta swiphemu swa kharoti. Engeta mati kufikela loko swiphemu hinkwaswo swi nghena ehansi ka mati. Hlanganisa kahle.
+Yi tshike yi vila kuringana kwalomu ka 10(?) wa timinete.
+Engeta swiphemu swa matamatisi. Engeta mati kufikela loko swiphemu hinkwaswo swi nghena ehansi ka mati. Hlanganisa kahle.
+Yi tshike yi vila kuringana kwalomu ka 20(?) wa timinete.
+Engeta ti green peas letinga titimela na ti green pods. Engeta mati kufikela loko swiphemu hinkwaswo swi nghena ehansi ka mati. Hlanganisa kahle.
+Endzhaku kaloko mati yasungule ku vila, ma tshika ya vila kuringana kwalomu ka 5(?) wa timinete.
+Hlanganisa bell pepper, matamatisi, dill, parsley na swiphemu swa lovage.
+Engeta munyu na swin’wana swo nandzihisa. Engeta mati kufikela loko swiphemu hinkwaswo swi nghena ehansi ka mati. Hlanganisa kahle.
+Endzhaku kaloko mati yasungule ku vila, ma tshika ya vila kuringana kwalomu ka 10(?) wa timinete.
+Tima tihlo ra xitofu. Yi tshike yitshama kuringana kwalomu ka 20-30 wa timinete.
+
+Swiaki swa swakudya leswikulu: _macro\1.json
+
+Swiaki swa swakudya leswitsongo: _micro\1.json

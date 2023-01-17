@@ -1,0 +1,51 @@
+Názov: Zeleninová polievka
+
+Krajina pôvodu: Rumunsko
+
+Porcie: 12
+
+Čas prípravy: 1,5h - 2,5h
+
+Ingrediencie:
+Zemiaky | 2000 g
+Koreň zeleru | 0,5x (=?g)
+Koreň paštrnáka | 1x (=?g)
+Mrkva | 3x (=?g)
+Mrazený zelený hrášok | 450 g
+Zmrznuté zelené struky | 400 g
+Červená paprika | 1x (=?g)
+Zelená paprika | 1x (=?g)
+Žltá paprika | 1x (=?g)
+Paradajka | 5x (=?g)
+Kôpor | 3x (=?g)
+Petržlen | 3x (=?g)
+Ľubovník | 3x (=?g)
+Soľ | Podľa chuti (odporúčané ?g)
+Korenie | Podľa chuti
+
+Požadované kuchynské náčinie:
+Hrniec s minimálnym objemom 10L
+Lyžica (najlepšie drevená) s minimálnou dĺžkou 20 cm
+Nôž
+Doska na krájanie
+
+Kroky prípravy:
+Zeleninu ošúpeme, očistíme a nakrájame. Kusy by mali byť stredne veľké na krátky čas varu.
+Do hrnca nalejte jeden liter vody. Použite veľké oko sporáka.
+Pridajte kúsky zeleru a paštrnáka.
+Zapnite oko sporáka. Použite možnosť vysokého plameňa alebo vysokej teploty.
+Keď voda začne vrieť, necháme vrieť približne 10(?) minút.
+Pridajte kúsky mrkvy. Pridávajte vodu, kým nie sú všetky kúsky ponorené. Dobre premiešajte.
+Nechajte variť približne 10 (?) minút.
+Pridajte kúsky zemiakov. Pridávajte vodu, kým nie sú všetky kúsky ponorené. Dobre premiešajte.
+Nechajte variť približne 20 (?) minút.
+Pridajte stuhnutý zelený hrášok a zelené struky. Pridávajte vodu, kým nie sú všetky kúsky ponorené. Dobre premiešajte.
+Keď voda začne vrieť, necháme vrieť približne 5(?) minút.
+Pridajte papriku, paradajky, kôpor, petržlenovú vňať a kúsky ľubovníka.
+Pridajte soľ a korenie. Pridávajte vodu, kým nie sú všetky kúsky ponorené. Dobre premiešajte.
+Keď voda začne vrieť, necháme vrieť približne 10(?) minút.
+Vypnite oko sporáka. Nechajte pôsobiť približne 20-30 minút.
+
+Makronutrienty: _macro\1.json
+
+Mikroživiny: _micro\1.json

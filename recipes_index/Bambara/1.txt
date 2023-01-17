@@ -1,0 +1,51 @@
+Title: Nakɔfɛnw ka soup
+
+Jamana min Bɔra: Rumani
+
+Yɔrɔw: 12
+
+Labɛn waati: 1,5h - 2,5h
+
+Nafɛnw:
+Pomitoro | 2000g
+Seleri jirisunba | 0,5x (=?g) ye.
+Parsnip jirisun | 1x (=?g) ye.
+Karɔti | 3x (=?g) ye.
+Pois verts congéliés | 450g ye
+Pods verts congéliés | 400g ye
+Pepinɛri bilenman | 1x (=?g) ye.
+Pepinɛri vert | 1x (=?g) ye.
+Pepini bell jaune | 1x (=?g) ye.
+Tomati | 5x (=?g) ye.
+Dill | 3x (=?g) ye.
+Peresidan | 3x (=?g) ye.
+Lovage ka | 3x (=?g) ye.
+Kɔgɔ | Ka kɛɲɛ ni dumuni duman ye (a laadilen don ?g) .
+Condiments (fɛnw) | Ka kɛɲɛ ni dumuni duman ye
+
+Cuisini minɛn minnu wajibiyalen don:
+daga min ka dɔgɔn ni 10L ye
+Kuyɛri (a ka fisa ni jiri ye) min janya ka dɔgɔn ni santimɛtɛrɛ 20 ye
+Muru
+Tigɛ-tabali
+
+Labɛncogo minnu bɛ kɛ:
+Aw bɛ nakɔfɛnw bɔ, ka u saniya ani ka u tigɛ. Bitikiw ka kan ka kɛ cɛmancɛ ye fo ka se tobili waati fitinin ma.
+Aw bɛ ji litiri kelen kɛ daga kɔnɔ. Aw bɛ baara kɛ ni tasumamugu ɲɛ belebele ye.
+Aw bɛ seleri ni parsnip bitikiw fara a kan.
+Aw bɛ tasumamugu ɲɛ da. Aw bɛ tasuma caman walima funteni caman sugandicogo kɛ.
+Ji mana tobili daminɛ kɔfɛ, aw bɛ a tobi miniti 10(?) ɲɔgɔn.
+Aw bɛ karɔti bitikiw fara a kan. Aw bɛ ji kɛ a la fo a bitikiw bɛɛ ka jigin. Aw bɛ a ɲagami ka ɲɛ.
+Aw bɛ a tobi fo miniti 10(?) ɲɔgɔn.
+Aw bɛ pɔmitɛri bitikiw fara a kan. Aw bɛ ji kɛ a la fo a bitikiw bɛɛ ka jigin. Aw bɛ a ɲagami ka ɲɛ.
+Aw bɛ a tobi fo miniti 20(?) ɲɔgɔn.
+Aw bɛ shɔ jɛmanw ni jiribulu jɛmanw fara a kan. Aw bɛ ji kɛ a la fo a bitikiw bɛɛ ka jigin. Aw bɛ a ɲagami ka ɲɛ.
+Ji mana tobili daminɛ kɔfɛ, aw bɛ a tobi miniti 5(?) ɲɔgɔn.
+Aw bɛ bɛlɛkisɛ, tomati, dili, peresidan ani lovage bitikiw fara a kan.
+Aw bɛ kɔgɔ ni fɛnɲɛnamafagalanw fara a kan. Aw bɛ ji kɛ a la fo a bitikiw bɛɛ ka jigin. Aw bɛ a ɲagami ka ɲɛ.
+Ji mana tobili daminɛ kɔfɛ, aw bɛ a tobi miniti 10(?) ɲɔgɔn.
+Aw bɛ tasumamugu ɲɛ faga. Aw bɛ a to a ka sigi miniti 20-30 ɲɔgɔn.
+
+Balo nafama minnu bɛ sɔrɔ: _macro\1.json
+
+Balofɛn fitininw: _micro\1.json

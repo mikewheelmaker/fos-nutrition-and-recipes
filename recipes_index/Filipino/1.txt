@@ -1,0 +1,51 @@
+Pamagat: Sabaw ng gulay
+
+Bansang pinagmulan: Romania
+
+Mga bahagi: 12
+
+Oras ng paghahanda: 1.5h - 2.5h
+
+Mga sangkap:
+Patatas | 2000g
+ugat ng kintsay | 0.5x (=?g)
+Parsnip root | 1x (=?g)
+Karot | 3x (=?g)
+Naninigas na berdeng mga gisantes | 450g
+Namumuong berdeng pods | 400g
+Pulang kampanilya | 1x (=?g)
+Green bell pepper | 1x (=?g)
+Yellow bell pepper | 1x (=?g)
+Kamatis | 5x (=?g)
+Dill | 3x (=?g)
+Parsley | 3x (=?g)
+Lovage | 3x (=?g)
+asin | Ayon sa panlasa (inirerekomenda ?g)
+Mga pampalasa | Ayon sa panlasa
+
+Mga kinakailangang kagamitan sa kusina:
+Isang palayok na may pinakamababang dami ng 10L
+Isang kutsara (mas mabuti na gawa sa kahoy) na may pinakamababang haba na 20cm
+kutsilyo
+Sangkalan
+
+Mga hakbang sa paghahanda:
+Balatan, linisin at gupitin ang mga gulay. Ang mga piraso ay dapat na may katamtamang laki para sa isang maliit na oras ng pagkulo.
+Maglagay ng isang litro ng tubig sa palayok. Gamitin ang malaking stove eye.
+Idagdag ang celery at parsnip bits.
+Buksan ang mata ng kalan. Gamitin ang opsyon na mataas ang apoy o mataas na temperatura.
+Pagkatapos kumulo ang tubig, hayaang kumulo nang humigit-kumulang 10(?) minuto.
+Idagdag ang carrot bits. Magdagdag ng tubig hanggang sa lumubog ang lahat ng mga piraso. Haluing mabuti.
+Hayaang kumulo ng humigit-kumulang 10(?) minuto.
+Idagdag ang patatas bits. Magdagdag ng tubig hanggang sa lumubog ang lahat ng mga piraso. Haluing mabuti.
+Hayaang kumulo ng humigit-kumulang 20(?) minuto.
+Idagdag ang congealed green peas at green pods. Magdagdag ng tubig hanggang sa lumubog ang lahat ng mga piraso. Haluing mabuti.
+Pagkatapos kumulo ang tubig, hayaang kumulo ng humigit-kumulang 5(?) minuto.
+Idagdag ang bell pepper, kamatis, dill, parsley, at lovage bits.
+Magdagdag ng asin at pampalasa. Magdagdag ng tubig hanggang sa lumubog ang lahat ng mga piraso. Haluing mabuti.
+Pagkatapos kumulo ang tubig, hayaang kumulo nang humigit-kumulang 10(?) minuto.
+Patayin ang mata ng kalan. Iwanan upang umupo nang humigit-kumulang 20-30 minuto.
+
+Mga Macronutrients: _macro\1.json
+
+Mga Micronutrients: _micro\1.json

@@ -1,0 +1,51 @@
+Pavadinimas: Daržovių sriuba
+
+Kilmės šalis: Rumunija
+
+Porcijos: 12
+
+Paruošimo laikas: 1,5h - 2,5h
+
+Ingridientai:
+Bulvės | 2000 g
+Salierų šaknis | 0,5x (=?g)
+Pastarnoko šaknis | 1x (=?g)
+Morkos | 3x (=?g)
+Sustingę žalieji žirneliai | 450 g
+Sustingusios žalios ankštys | 400g
+Raudonoji paprika | 1x (=?g)
+Žalioji paprika | 1x (=?g)
+Geltonoji paprika | 1x (=?g)
+Pomidoras | 5x (=?g)
+Krapai | 3x (=?g)
+Petražolės | 3x (=?g)
+Lovage | 3x (=?g)
+Druska | Pagal skonį (rekomenduojama ?g)
+Prieskoniai | Pagal skonį
+
+Reikalingi virtuvės reikmenys:
+Puodas, kurio minimalus tūris yra 10 l
+Šaukštas (geriausia medinis), kurio ilgis ne mažesnis kaip 20 cm
+Peilis
+Pjaustymo lentelė
+
+Paruošimo žingsniai:
+Daržoves nulupkite, nuvalykite ir supjaustykite. Biteliai turi būti vidutinio dydžio, kad virimo laikas būtų trumpas.
+Į puodą įpilkite vieną litrą vandens. Naudokite didelę viryklės ąsą.
+Sudėkite salierą ir pastarnoko gabalėlius.
+Įjunkite viryklės akį. Naudokite aukštos liepsnos arba aukštos temperatūros parinktį.
+Vandeniui pradėjus virti, palikite virti maždaug 10(?) minučių.
+Sudėkite morkų gabaliukus. Įpilkite vandens, kol visi gabalėliai apsems. Gerai ismaisyti.
+Palikite virti maždaug 10(?) minučių.
+Sudėkite bulvių gabaliukus. Įpilkite vandens, kol visi gabalėliai apsems. Gerai ismaisyti.
+Palikite virti maždaug 20(?) minučių.
+Suberkite sustingusius žaliuosius žirnelius ir žalias ankštis. Įpilkite vandens, kol visi gabalėliai apsems. Gerai ismaisyti.
+Vandeniui pradėjus virti, palikite virti maždaug 5(?) minutes.
+Įpilkite paprikos, pomidorų, krapų, petražolių ir lukšto gabaliukų.
+Įpilkite druskos ir prieskonių. Įpilkite vandens, kol visi gabalėliai apsems. Gerai ismaisyti.
+Vandeniui pradėjus virti, palikite virti maždaug 10(?) minučių.
+Išjunkite viryklės akį. Palikite sėdėti maždaug 20-30 minučių.
+
+Makroelementai: _macro\1.json
+
+Mikroelementai: _micro\1.json

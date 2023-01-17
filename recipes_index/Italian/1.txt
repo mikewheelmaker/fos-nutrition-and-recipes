@@ -1,0 +1,51 @@
+Titolo: Zuppa di verdure
+
+Paese di origine: Romania
+
+Porzioni: 12
+
+Tempo di preparazione: 1.5h - 2.5h
+
+Ingredienti:
+Patate | 2000 g
+Radice di sedano | 0,5x (=? g)
+Radice di pastinaca | 1x (=?g)
+Carota | 3x (=?g)
+Piselli surgelati | 450 g
+Baccelli verdi congelati | 400 g
+Peperone rosso | 1x (=?g)
+Peperone verde | 1x (=?g)
+Peperone giallo | 1x (=?g)
+Pomodoro | 5x (=?g)
+Aneto | 3x (=?g)
+Prezzemolo | 3x (=?g)
+Levistico | 3x (=?g)
+Sale | A piacere (consigliato ?g)
+Condimenti | Secondo il gusto
+
+Utensili da cucina necessari:
+Una pentola con un volume minimo di 10L
+Un cucchiaio (preferibilmente di legno) con una lunghezza minima di 20 cm
+Coltello
+Tagliere
+
+Fasi di preparazione:
+Sbucciare, pulire e tagliare le verdure. I pezzi dovrebbero essere di medie dimensioni per un breve tempo di ebollizione.
+Metti un litro d'acqua nella pentola. Usa il grande occhio del fornello.
+Aggiungere i pezzetti di sedano e pastinaca.
+Accendi l'occhio della stufa. Utilizzare l'opzione alta fiamma o alta temperatura.
+Dopo che l'acqua inizia a bollire, lasciare bollire per circa 10 (?) minuti.
+Aggiungere i pezzetti di carota. Aggiungere acqua fino a quando tutti i pezzi sono sommersi. Mescolare bene.
+Lasciare bollire per circa 10(?) minuti.
+Aggiungere i pezzetti di patate. Aggiungere acqua fino a quando tutti i pezzi sono sommersi. Mescolare bene.
+Lasciar bollire per circa 20(?) minuti.
+Aggiungere i piselli congelati e i baccelli verdi. Aggiungere acqua fino a quando tutti i pezzi sono sommersi. Mescolare bene.
+Dopo che l'acqua inizia a bollire, lasciare bollire per circa 5 (?) minuti.
+Aggiungere il peperone, i pomodori, l'aneto, il prezzemolo e i pezzetti di levistico.
+Aggiungere il sale e i condimenti. Aggiungere acqua fino a quando tutti i pezzi sono sommersi. Mescolare bene.
+Dopo che l'acqua inizia a bollire, lasciare bollire per circa 10 (?) minuti.
+Spegni l'occhio della stufa. Lasciare riposare per circa 20-30 minuti.
+
+Macronutrienti: _macro\1.json
+
+Micronutrienti: _micro\1.json

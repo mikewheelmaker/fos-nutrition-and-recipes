@@ -1,0 +1,51 @@
+Título: Sopa de verduras
+
+País de orixe: Romanía
+
+Porcións: 12
+
+Tempo de preparación: 1,5h - 2,5h
+
+Ingredientes:
+Patacas | 2000 g
+raíz de apio | 0,5x (=?g)
+Raíz de pastinaca | 1x (=?g)
+Cenoria | 3x (=?g)
+Chícharos conxelados | 450 g
+Vainas verdes conxeladas | 400 g
+Pemento vermello | 1x (=?g)
+Pemento verde | 1x (=?g)
+Pemento amarelo | 1x (=?g)
+Tomate | 5x (=?g)
+Endro | 3x (=?g)
+Perexil | 3x (=?g)
+Lovaxe | 3x (=?g)
+Sal | Segundo gusto (recomendado ?g)
+Condimentos | Segundo o gusto
+
+Utensilios de cociña necesarios:
+Un pote cun volume mínimo de 10 l
+Unha culler (preferentemente de madeira) cunha lonxitude mínima de 20 cm
+Coitelo
+Táboa de cortar
+
+Pasos de preparación:
+Pelar, limpar e cortar as verduras. Os anacos deben ser de tamaño medio durante un pequeno tempo de ebulición.
+Poñer un litro de auga na pota. Use o ollo grande da cociña.
+Engade os anacos de apio e de pastinaca.
+Acende o ollo da cociña. Use a opción de chama alta ou alta temperatura.
+Despois de que a auga comece a ferver, deixe ferver durante aproximadamente 10 (?) minutos.
+Engade os anacos de cenoria. Engade auga ata que todos os anacos estean mergullados. Mestura ben.
+Deixar ferver uns 10(?) minutos.
+Engade os anacos de pataca. Engade auga ata que todos os anacos estean mergullados. Mestura ben.
+Deixar ferver uns 20(?) minutos.
+Engade os chícharos conxelados e as vainas verdes. Engade auga ata que todos os anacos estean mergullados. Mestura ben.
+Despois de que a auga comece a ferver, deixe ferver durante aproximadamente 5 (?) minutos.
+Engade o pemento morrón, os tomates, o endro, o perexil e os anacos de leba.
+Engade o sal e os condimentos. Engade auga ata que todos os anacos estean mergullados. Mestura ben.
+Despois de que a auga comece a ferver, deixe ferver durante aproximadamente 10 (?) minutos.
+Apague o ollo da cociña. Deixar repousar uns 20-30 minutos.
+
+Macronutrientes: _macro\1.json
+
+Micronutrientes: _micro\1.json

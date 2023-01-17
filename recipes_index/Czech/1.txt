@@ -1,0 +1,51 @@
+Název: Zeleninová polévka
+
+Země původu: Rumunsko
+
+Porce: 12
+
+Doba přípravy: 1,5h - 2,5h
+
+Ingredience:
+Brambory | 2000 g
+Celer kořen | 0,5x (=?g)
+Kořen pastináku | 1x (=?g)
+Mrkev | 3x (=?g)
+Ztuhlý zelený hrášek | 450 g
+Ztuhlé zelené lusky | 400 g
+Červená paprika | 1x (=?g)
+Zelená paprika | 1x (=?g)
+Žlutá paprika | 1x (=?g)
+Rajče | 5x (=?g)
+Kopr | 3x (=?g)
+Petržel | 3x (=?g)
+Libeček | 3x (=?g)
+Sůl | Podle chuti (doporučeno ?g)
+Koření | Podle chuti
+
+Potřebné kuchyňské náčiní:
+Hrnec o minimálním objemu 10L
+Lžíce (nejlépe dřevěná) o minimální délce 20 cm
+Nůž
+Prkénko
+
+Kroky přípravy:
+Zeleninu oloupeme, očistíme a nakrájíme. Kousky by měly být střední velikosti na krátkou dobu varu.
+Do hrnce dejte jeden litr vody. Použijte velké oko vařiče.
+Přidejte kousky celeru a pastináku.
+Zapněte oko sporáku. Použijte možnost vysokého plamene nebo vysoké teploty.
+Poté, co se voda začne vařit, nechte vařit asi 10 (?) minut.
+Přidejte kousky mrkve. Přidávejte vodu, dokud nejsou všechny kousky ponořené. Dobře promíchejte.
+Nechte vařit asi 10(?) minut.
+Přidejte kousky brambor. Přidávejte vodu, dokud nejsou všechny kousky ponořené. Dobře promíchejte.
+Nechte vařit asi 20 (?) minut.
+Přidejte ztuhlý zelený hrášek a zelené lusky. Přidávejte vodu, dokud nebudou všechny kousky ponořené. Dobře promíchejte.
+Poté, co se voda začne vařit, nechte vařit asi 5 (?) minut.
+Přidejte papriku, rajčata, kopr, petržel a kousky libeček.
+Přidejte sůl a koření. Přidávejte vodu, dokud nejsou všechny kousky ponořené. Dobře promíchejte.
+Poté, co se voda začne vařit, nechte vařit asi 10 (?) minut.
+Vypněte oko sporáku. Nechte sedět asi 20-30 minut.
+
+Makronutrienty: _macro\1.json
+
+Mikroživiny: _micro\1.json

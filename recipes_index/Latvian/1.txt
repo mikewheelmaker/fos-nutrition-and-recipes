@@ -1,0 +1,51 @@
+Nosaukums: Dārzeņu zupa
+
+Izcelsmes valsts: Rumānija
+
+Porcijas: 12
+
+Gatavošanas laiks: 1,5h - 2,5h
+
+Sastāvdaļas:
+Kartupeļi | 2000g
+Selerijas sakne | 0,5 x (=?g)
+Pastinaka sakne | 1x (=?g)
+Burkāns | 3x (=?g)
+Sarecējuši zaļie zirnīši | 450g
+Sastingušas zaļas pākstis | 400g
+Sarkanie paprika | 1x (=?g)
+Zaļie paprika | 1x (=?g)
+Dzeltenā paprika | 1x (=?g)
+Tomāts | 5x (=?g)
+Dilles | 3x (=?g)
+Pētersīļi | 3x (=?g)
+Lovage | 3x (=?g)
+Sāls | Pēc garšas (ieteicams ?g)
+Garšvielas | Pēc gaumes
+
+Nepieciešamie virtuves piederumi:
+Katls ar minimālo tilpumu 10L
+Karote (vēlams koka), kuras garums ir vismaz 20 cm
+Nazis
+Virtuves dēlis
+
+Sagatavošanas soļi:
+Dārzeņus nomizo, notīra un sagriež. Mazu viršanas laiku gabaliņiem jābūt vidēja izmēra.
+Ielej katlā vienu litru ūdens. Izmantojiet lielo plīts aci.
+Pievienojiet selerijas un pastinaka gabaliņus.
+Ieslēdziet plīts aci. Izmantojiet augstas liesmas vai augstas temperatūras opciju.
+Kad ūdens sāk vārīties, ļaujiet tai vārīties apmēram 10 (?) minūtes.
+Pievienojiet burkānu gabaliņus. Pievienojiet ūdeni, līdz visi gabali ir iegremdēti. Kārtīgi samaisa.
+Atstāj vārīties apmēram 10(?) minūtes.
+Pievienojiet kartupeļu gabaliņus. Pievienojiet ūdeni, līdz visi gabali ir iegremdēti. Kārtīgi samaisa.
+Atstāj vārīties apmēram 20(?) minūtes.
+Pievienojiet sarecējušos zaļos zirnīšus un zaļās pākstis. Pievienojiet ūdeni, līdz visi gabali ir iegremdēti. Kārtīgi samaisa.
+Kad ūdens sāk vārīties, ļaujiet tai vārīties apmēram 5(?) minūtes.
+Pievienojiet papriku, tomātus, dilles, pētersīļus un zaļumus.
+Pievienojiet sāli un garšvielas. Pievienojiet ūdeni, līdz visi gabali ir iegremdēti. Kārtīgi samaisa.
+Kad ūdens sāk vārīties, ļaujiet tai vārīties apmēram 10 (?) minūtes.
+Izslēdziet plīts aci. Atstājiet nostāvēties apmēram 20-30 minūtes.
+
+Makroelementi: _macro\1.json
+
+Mikroelementi: _micro\1.json

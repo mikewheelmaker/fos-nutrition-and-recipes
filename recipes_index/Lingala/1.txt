@@ -1,0 +1,51 @@
+Titre: Supu ya ndunda
+
+Mboka ya ebandeli: Roumanie
+
+Biteni: 12
+
+Ntango ya kobongisa: 1,5h - 2.5h
+
+Biloko:
+Ba pomme de terre | 2000g
+Mosuni ya céleri | 0,5x (=?g) ya .
+Mosuni ya parsnip | 1x (=?g) ya .
+Carottes | 3x (=?g) ya .
+Pois verts congelées | 450g
+Ba gousses verts congelées | 400g
+Piliment rouge ya mbila | 1x (=?g) ya .
+Piment ya vert ya vert | 1x (=?g) ya .
+Piliment ya jaune ya jaune | 1x (=?g) ya .
+Tomate | 5x (=?g) ya .
+Aneth | 3x (=?g) ya .
+Persil ya kosala | 3x (=?g) ya .
+Lovage ya bolingo | 3x (=?g) ya .
+Mungwa | Engebene na elengi (recommandé ?g) .
+Ba condiments ya | Engebene elengi
+
+Bisaleli ya kuku oyo esengeli:
+Nzungu oyo ezali na volume minimum ya 10L
+Cuillère (preferablement ya mabaya) na longueur minimum ya 20cm
+Mbeli
+Etanda ya kokata
+
+Matambe ya komibongisa:
+Kolongola ndunda, kosukola mpe kokata ndunda. Biteni esengeli kozala na bonene ya katikati mpo na mwa ntango ya kotɔka.
+Tia litre moko ya mayi na kati ya nzungu. Salelá liso ya monene ya fulu.
+Bakisa ba bits ya céleri na parsnip.
+Bofungola liso ya fulu. Salelá option ya mɔ́tɔ makasi to molunge makasi.
+Nsima wana mai ebandi kotɔka, tiká yango etɔka na boumeli ya miniti soki 10(?).
+Bakisa biteni ya carottes. Bakisa mai tii ntango biteni nyonso ekozinda na mai. Sangisa yango malamu.
+Tika yango etɔka na boumeli ya miniti soki 10(?).
+Bobakisa biteni ya pomme de terre. Bakisa mai tii ntango biteni nyonso ekozinda na mai. Sangisa yango malamu.
+Tika yango etɔka na boumeli ya miniti soki 20(?).
+Bakisa ba pois ya vert oyo ekangami na ba gousses ya vert. Bakisa mai tii ntango biteni nyonso ekozinda na mai. Sangisa yango malamu.
+Nsima wana mai ebandi kotɔka, tiká yango etɔka na boumeli ya miniti soki 5(?).
+Bakisa pilipili, tomati, aneth, persil, mpe biteni ya lovage.
+Bobakisa mungwa na ba condiments. Bakisa mai tii ntango biteni nyonso ekozinda na mai. Sangisa yango malamu.
+Nsima wana mai ebandi kotɔka, tiká yango etɔka na boumeli ya miniti soki 10(?).
+Boma liso ya fulu. Tika yango efanda pene na miniti 20-30.
+
+Ba macronutriments: _macro\1.json
+
+Ba micronutriments: _micro\1.json

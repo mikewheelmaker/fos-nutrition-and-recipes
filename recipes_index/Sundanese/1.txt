@@ -1,0 +1,51 @@
+Judul: Sup sayur
+
+Nagara asal: Romania
+
+Porsi: 12
+
+waktos Persiapan: 1.5h - 2.5h
+
+bahan:
+Kentang | 2000g
+Akar seledri | 0,5x (=?g)
+Akar parsnip | 1x (=?g)
+Wortel | 3x (=?g)
+Kacang héjo congealed | 450g
+Congealed pods héjo | 400 g
+cabé beureum | 1x (=?g)
+cabé héjo | 1x (=?g)
+cabé konéng | 1x (=?g)
+Tomat | 5x (=?g)
+Dill | 3x (=?g)
+peterseli | 3x (=?g)
+Lovage | 3x (=?g)
+uyah | Numutkeun rasa (dianjurkeun ?g)
+bumbu | Nurutkeun rasa
+
+parabot dapur diperlukeun:
+Pot kalayan volume minimum 10L
+Hiji sendok (preferably kai) kalayan panjang minimum 20cm
+péso
+Papan motong
+
+Léngkah persiapan:
+Mesek, beresih jeung potong sayuran. Bit kedah ukuran sedeng pikeun waktos ngagolak leutik.
+Nempatkeun hiji liter cai dina pot. Paké panon kompor badag.
+Tambahkeun seledri sarta parsnip bit.
+Hurungkeun panon kompor. Anggo pilihan seuneu luhur atanapi suhu luhur.
+Sanggeus caina mimiti ngagolak, ninggalkeun nepi ka kulub salila kurang leuwih 10(?) menit.
+Tambahkeun bit wortel. Tambahkeun cai nepi ka sakabéh bit anu submerged. Campur ogé.
+Ninggalkeun kulub salila kurang leuwih 10(?) menit.
+Tambahkeun bit kentang. Tambahkeun cai nepi ka sakabéh bit anu submerged. Campur ogé.
+Ninggalkeun kulub salila kurang leuwih 20(?) menit.
+Tambahkeun kacang héjo congealed sarta pods héjo. Tambahkeun cai nepi ka sakabéh bit anu submerged. Campur ogé.
+Sanggeus caina mimiti ngagolak, ninggalkeun nepi ka kulub salila kurang leuwih 5(?) menit.
+Tambahkeun bel cabe, tomat, Dill, peterseli, sarta bit lovage.
+Tambahkeun uyah jeung bumbu. Tambahkeun cai nepi ka sakabéh bit anu submerged. Campur ogé.
+Sanggeus caina mimiti ngagolak, ninggalkeun nepi ka kulub salila kurang leuwih 10(?) menit.
+Pareuman panon kompor. Ninggalkeun diuk salila kurang leuwih 20-30 menit.
+
+Macronutrients: _macro\1.json
+
+Mikronutrien: _micro\1.json

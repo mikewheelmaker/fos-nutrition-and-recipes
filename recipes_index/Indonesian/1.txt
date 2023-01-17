@@ -1,0 +1,51 @@
+Judul: Sup sayur
+
+Negara asal: Rumania
+
+Porsi: 12
+
+Waktu persiapan: 1,5 jam - 2,5 jam
+
+Bahan:
+Kentang | 2000g
+Akar seledri | 0,5x (=?g)
+Akar parsnip | 1x (=?g)
+wortel | 3x (=?g)
+Kacang hijau beku | 450g
+polong hijau beku | 400g
+paprika merah | 1x (=?g)
+Paprika hijau | 1x (=?g)
+paprika kuning | 1x (=?g)
+Tomat | 5x (=?g)
+adas | 3x (=?g)
+Peterseli | 3x (=?g)
+Cinta | 3x (=?g)
+Garam | Sesuai selera (recommended ?g)
+bumbu | Sesuai selera
+
+Peralatan dapur yang dibutuhkan:
+Panci dengan volume minimal 10L
+Sendok (sebaiknya kayu) dengan panjang minimal 20cm
+Pisau
+Talenan
+
+Langkah persiapan:
+Kupas, bersihkan, dan potong sayuran. Bit harus berukuran sedang untuk waktu mendidih kecil.
+Masukkan satu liter air ke dalam panci. Gunakan mata kompor yang besar.
+Tambahkan potongan seledri dan parsnip.
+Nyalakan mata kompor. Gunakan opsi nyala api tinggi atau suhu tinggi.
+Setelah air mulai mendidih, biarkan mendidih selama kurang lebih 10(?) menit.
+Tambahkan potongan wortel. Tambahkan air sampai semua bit terendam. Campur dengan baik.
+Biarkan mendidih selama kurang lebih 10(?) menit.
+Tambahkan potongan kentang. Tambahkan air sampai semua bit terendam. Campur dengan baik.
+Biarkan mendidih selama kurang lebih 20(?) menit.
+Tambahkan kacang hijau beku dan polong hijau. Tambahkan air sampai semua bit terendam. Campur dengan baik.
+Setelah air mulai mendidih, biarkan mendidih selama kurang lebih 5(?) menit.
+Tambahkan paprika, tomat, dill, peterseli, dan bit lovage.
+Tambahkan garam dan bumbu. Tambahkan air sampai semua bit terendam. Campur dengan baik.
+Setelah air mulai mendidih, biarkan mendidih selama kurang lebih 10(?) menit.
+Matikan mata kompor. Diamkan selama kurang lebih 20-30 menit.
+
+Makronutrien: _macro\1.json
+
+Mikronutrien: _micro\1.json

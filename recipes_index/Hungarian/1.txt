@@ -1,0 +1,51 @@
+Cím: Zöldségleves
+
+Származási ország: Románia
+
+Adagok: 12
+
+Elkészítési idő: 1,5-2,5 óra
+
+Hozzávalók:
+Burgonya | 2000g
+Zeller gyökér | 0,5x (=?g)
+Paszternák gyökér | 1x (=?g)
+Sárgarépa | 3x (=?g)
+Dermedt zöldborsó | 450g
+Megdermedt zöld hüvelyek | 400g
+Piros kaliforniai paprika | 1x (=?g)
+Zöld kaliforniai paprika | 1x (=?g)
+Sárga kaliforniai paprika | 1x (=?g)
+Paradicsom | 5x (=?g)
+Kapor | 3x (=?g)
+Petrezselyem | 3x (=?g)
+Lovage | 3x (=?g)
+Só | Ízlés szerint (ajánlott ?g)
+Fűszerek | Ízlés szerint
+
+Szükséges konyhai eszközök:
+Minimum 10 literes edény
+Legalább 20 cm hosszú kanál (lehetőleg fa).
+Kés
+Vágódeszka
+
+Az előkészítés lépései:
+Hámozzuk meg, tisztítsuk meg és vágjuk fel a zöldségeket. A daraboknak közepes méretűnek kell lenniük, rövid forrásig.
+Tegyünk egy liter vizet az edénybe. Használja a nagy tűzhelyszemet.
+Adjuk hozzá a zeller- és a paszternák darabokat.
+Kapcsolja be a tűzhely szemet. Használja a magas láng vagy a magas hőmérséklet opciót.
+Miután a víz elkezd forrni, hagyja forrni körülbelül 10 (?) percig.
+Adjuk hozzá a sárgarépa darabokat. Addig adjunk hozzá vizet, amíg az összes darab el nem merül. Jól összekeverni.
+Körülbelül 10(?) percig forraljuk.
+Adjuk hozzá a burgonyadarabokat. Addig adjunk hozzá vizet, amíg az összes darab el nem merül. Jól összekeverni.
+Hagyjuk forrni körülbelül 20(?) percig.
+Hozzáadjuk a megdermedt zöldborsót és a zöldhüvelyeket. Addig adjunk hozzá vizet, amíg az összes darab el nem merül. Jól összekeverni.
+Miután a víz elkezd forrni, hagyja forrni körülbelül 5 (?) percig.
+Hozzáadjuk a kaliforniai paprikát, a paradicsomot, a kaprot, a petrezselymet és a levesszeleteket.
+Adjuk hozzá a sót és a fűszereket. Addig adjunk hozzá vizet, amíg az összes darab el nem merül. Jól összekeverni.
+Miután a víz elkezd forrni, hagyja forrni körülbelül 10 (?) percig.
+Kapcsolja ki a tűzhely szemet. Hagyja ülni körülbelül 20-30 percig.
+
+Makrotápanyagok: _macro\1.json
+
+Mikrotápanyagok: _micro\1.json

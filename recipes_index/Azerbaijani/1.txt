@@ -1,0 +1,51 @@
+Başlıq: Tərəvəz şorbası
+
+Mənşə ölkəsi: Rumıniya
+
+Porsiyalar: 12
+
+Hazırlanma vaxtı: 1,5-2,5 saat
+
+Tərkibi:
+Kartof | 2000 q
+Kərəviz kökü | 0,5x (=?g)
+Parsnip kökü | 1x (=?g)
+Kök | 3x (=?g)
+Qatılaşdırılmış yaşıl noxud | 450 q
+Qatılaşdırılmış yaşıl qabıqlar | 400q
+Qırmızı bolqar bibəri | 1x (=?g)
+Yaşıl bolqar bibəri | 1x (=?g)
+Sarı bolqar bibəri | 1x (=?g)
+Pomidor | 5x (=?g)
+Şüyüd | 3x (=?g)
+Cəfəri | 3x (=?g)
+Sevgi | 3x (=?g)
+Duz | Zövqə görə (tövsiyə olunur ?g)
+Ədviyyatlar | Zövqə görə
+
+Tələb olunan mətbəx ləvazimatları:
+Minimum həcmi 10 litr olan bir qazan
+Minimum uzunluğu 20 sm olan bir qaşıq (tercihen taxta).
+Bıçaq
+Doğrama taxtası
+
+Hazırlıq mərhələləri:
+Tərəvəzləri soyun, təmizləyin və kəsin. Kiçik bir qaynama müddəti üçün bitlər orta ölçülü olmalıdır.
+Qazana bir litr su qoyun. Böyük soba gözündən istifadə edin.
+Kərəviz və parsnip bitlərini əlavə edin.
+Sobanın gözünü yandırın. Yüksək alov və ya yüksək temperatur seçimindən istifadə edin.
+Su qaynamağa başlayandan sonra təxminən 10(?) dəqiqə qaynamağa buraxın.
+Kök parçaları əlavə edin. Bütün bitlər suya batırılana qədər su əlavə edin. Yaxşı qarışdır.
+Təxminən 10(?) dəqiqə qaynamağa buraxın.
+Kartof dilimlərini əlavə edin. Bütün bitlər suya batırılana qədər su əlavə edin. Yaxşı qarışdır.
+Təxminən 20(?) dəqiqə qaynamağa buraxın.
+Qatılaşdırılmış yaşıl noxud və yaşıl qabıqları əlavə edin. Bütün bitlər suya batırılana qədər su əlavə edin. Yaxşı qarışdır.
+Su qaynamağa başlayandan sonra təxminən 5(?) dəqiqə qaynamağa buraxın.
+Bolqar bibəri, pomidor, şüyüd, cəfəri və lovage bit əlavə edin.
+Duz və ədviyyatlar əlavə edin. Bütün bitlər suya batırılana qədər su əlavə edin. Yaxşı qarışdır.
+Su qaynamağa başlayandan sonra təxminən 10(?) dəqiqə qaynamağa buraxın.
+Sobanın gözünü söndürün. Təxminən 20-30 dəqiqə oturmağa buraxın.
+
+Makronutrientlər: _macro\1.json
+
+Mikronutrientlər: _micro\1.json

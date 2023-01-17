@@ -1,0 +1,51 @@
+Titulus: pulmentum
+
+Patria originis: Romania
+
+Portiones: 12
+
+Praeparatio temporis: 1.5h - 2.5h
+
+Ingredientia:
+Potatoes | 2000g
+Radix apium | 0.5x (=?g)
+Pastinaca radix | 1x (=?g)
+Carrot | 3x (=?g)
+Congelatae pisae viridis | 450g
+Siliquae viridis congelatae | 400g
+Piper rubrum campana | 1x (=?g)
+piperis campani viridis | 1x (=?g)
+Flavus campana piper | 1x (=?g)
+Tomato | 5x (=?g)
+Dill | 3x (=?g)
+Apium | 3x (=?g)
+Ligusticum | 3x (=?g)
+Sal | Secundum gustum (suadetur g)
+Condiciones | Secundum gustum
+
+Requiritur utensilia coquina:
+Olla cum minimo volumine 10L
+Ligula (potissimum lignea) cum minimam longitudinem 20cm
+Cultrum
+Sectione tabula
+
+gradus praeparationis:
+Cortices, munda et olera secant. Frena debent esse mediae magnitudinis pro parvo tempore ferventi.
+Unum sextarium aquae in olla. Camino magno utere oculo.
+adde apium et pastinaca frena.
+Verte in camini oculum. Utere alta flamma vel caliditas optionis.
+Post aquam ferventem incipit, permitte fervere per X circiter (?) minutas.
+daucum frena add. Aquam adde, donec omnia frusta demergantur. Misce bene.
+Fervere circiter X minutas (?).
+annuum frena add. Aquam adde, donec omnia frusta demergantur. Misce bene.
+Dimitte fervere circiter XX (?) minuta.
+Adde fabam viridem, et siliquam viridem. Aquam adde, donec omnia frusta demergantur. Misce bene.
+Post aquam ferventem incipit, permitte bullire per 5 circiter (?) minutas.
+Adde piperis campanam, tomatoes, anetum, apium, ligusticum.
+Adde salem et conditum. Aquam adde, donec omnia frusta demergantur. Misce bene.
+Post aquam ferventem incipit, permitte fervere per X circiter (?) minutas.
+Caminum averte oculum. Disce sedere circiter 20-30 minuta.
+
+Macronutrients: _macro\1.json
+
+Micronutrientia: _micro\1.json

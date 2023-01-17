@@ -1,0 +1,51 @@
+Tit: Soup legim
+
+Peyi orijin: Woumani
+
+Pòsyon: 12
+
+Tan preparasyon: 1.5h - 2.5h
+
+Engredyan:
+Pòmdetè | 2000g
+rasin seleri | 0.5x (=?g)
+Rasin pane | 1x (=?g)
+Kawòt | 3x (=?g)
+Pwa vèt konje | 450g
+gous vèt konje | 400g
+Piman wouj | 1x (=?g)
+Piman vèt | 1x (=?g)
+Piman jòn | 1x (=?g)
+Tomat | 5x (=?g)
+Dill | 3x (=?g)
+pèsi | 3x (=?g)
+Lovage | 3x (=?g)
+Sèl | Dapre gou (rekòmande ?g)
+Kondiman | Dapre gou
+
+istansil kwizin obligatwa:
+Yon po ak yon volim minimòm de 10L
+Yon kiyè (de preferans an bwa) ak yon longè minimòm de 20cm
+kouto
+Koupe tablo
+
+Etap preparasyon:
+Peel, netwaye epi koupe legim yo. Bits yo ta dwe gwosè mwayen pou yon ti tan bouyi.
+Mete yon lit dlo nan po a. Sèvi ak gwo je recho a.
+Ajoute seleri ak ti moso pane.
+Limen je recho a. Sèvi ak flanm dife segondè oswa opsyon tanperati ki wo.
+Apre dlo a kòmanse bouyi, kite bouyi pou apeprè 10(?) minit.
+Ajoute ti moso kawòt yo. Ajoute dlo jiskaske tout ti moso yo plonje. Melanje byen.
+Kite bouyi pou apeprè 10(?) minit.
+Ajoute ti moso pòmdetè yo. Ajoute dlo jiskaske tout ti moso yo plonje. Melanje byen.
+Kite bouyi pou apeprè 20(?) minit.
+Ajoute pwa vèt konjele yo ak gous vèt. Ajoute dlo jiskaske tout ti moso yo plonje. Melanje byen.
+Apre dlo a kòmanse bouyi, kite bouyi pou apeprè 5(?) minit.
+Ajoute piman an, tomat, Dill, pèsi, ak ti moso lovage.
+Ajoute sèl la ak kondiman. Ajoute dlo jiskaske tout ti moso yo plonje. Melanje byen.
+Apre dlo a kòmanse bouyi, kite bouyi pou apeprè 10(?) minit.
+Fèmen je recho a. Kite chita pou apeprè 20-30 minit.
+
+Makronutriman: _macro\1.json
+
+Mikronutriman: _micro\1.json

@@ -1,0 +1,51 @@
+Isihloko: Isobho lemifino
+
+Izwe lokudabuka: Romania
+
+Izingxenye: 12
+
+Isikhathi sokulungiselela: 1.5h - 2.5h
+
+Izithako:
+Amazambane | 2000g
+Isilimo esidliwayo esinamagatsha anamanzi | 0.5x (=?g)
+Izimpande zeParsnip | 1x (=?g)
+Ikarothi | 3x (=?g)
+Uphizi oluhlaza okotshani | 450g
+Izindebe eziluhlaza ezijiyile | 400g
+Upelepele obomvu | 1x (=?g)
+Upelepele oluhlaza | 1x (=?g)
+Upelepele ophuzi | 1x (=?g)
+Utamatisi | 5x (=?g)
+Dili | 3x (=?g)
+Iparsley | 3x (=?g)
+Lovage | 3x (=?g)
+Usawoti | Ngokuvumelana nokunambitha (kunconyiwe ?g)
+Izinongo | Ngokusho ukunambitheka
+
+Izitsha zasekhishini ezidingekayo:
+Ibhodwe elinomthamo omncane ongu-10L
+Isipuni (mhlawumbe sokhuni) esinobude obuncane obungama-20cm
+Umbese
+Ibhodi lokusika
+
+Izinyathelo zokulungiselela:
+Ikhasi, hlanza futhi usike imifino. Izingcezu kufanele zibe usayizi ophakathi isikhathi esincane sokubilisa.
+Faka ilitha lamanzi ebhodweni. Sebenzisa iso lesitofu esikhulu.
+Engeza isilimo esidliwayo esinamagatsha anamanzi kanye ne-parsnip.
+Vula iso lesitofu. Sebenzisa ilangabi eliphezulu noma izinga lokushisa eliphezulu.
+Ngemva kokuba amanzi eseqale ukubila, shiya ukuthi abile cishe imizuzu eyi-10(?).
+Engeza izingcezu ze-carrot. Engeza amanzi kuze kube yilapho zonke izingcezu zicwilisiwe. Xuba kahle.
+Shiya ukuthi ubilise cishe imizuzu eyi-10(?).
+Engeza izingcezu zamazambane. Engeza amanzi kuze kube yilapho zonke izingcezu zicwilisiwe. Xuba kahle.
+Shiya ukuthi ubilise cishe imizuzu engama-20(?).
+Engeza uphizi oluhlaza ojiyile kanye nama-pods aluhlaza. Engeza amanzi kuze kube yilapho zonke izingcezu zicwilisiwe. Xuba kahle.
+Ngemuva kokuthi amanzi eqale ukubila, shiya ukuthi ubilise cishe imizuzu emi-5(?).
+Engeza i-bell pepper, utamatisi, i-dill, i-parsley, ne-lovage bits.
+Faka usawoti nezinongo. Engeza amanzi kuze kube yilapho zonke izingcezu zicwilisiwe. Xuba kahle.
+Ngemva kokuba amanzi eseqale ukubila, shiya ukuthi abile cishe imizuzu eyi-10(?).
+Vala iso lesitofu. Shiya ukuhlala cishe imizuzu engama-20-30.
+
+Ama-macronutrients: _macro\1.json
+
+Izakhamzimba ezincane: _micro\1.json

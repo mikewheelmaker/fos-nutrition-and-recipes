@@ -1,0 +1,51 @@
+Titel: Geméiszopp
+
+Hierkonftsland: Rumänien
+
+Portiounen: 12
+
+Virbereedung Zäit: 1.5h - 2.5h
+
+Zutaten:
+Gromperen | 2000g
+Sellerie Wuerzel | 0,5x (=?g)
+Parsnip Wuerzel | 1x (=?g)
+Karotten | 3x (=?g)
+Gesteelt gréng Erbsen | 450g vun
+Geklomm gréng pods | 4 00g
+Rout Paprika | 1x (=?g)
+Gréng Paprika | 1x (=?g)
+Giel Paprika | 1x (=?g)
+Tomaten | 5x (=?g)
+Dill | 3x (=?g)
+Petersilie | 3x (=?g)
+Léiw | 3x (=?g)
+Salz | No Goût (recommandéiert ?g)
+Gewierzer | No Goût
+
+Néideg Kichengeschir:
+E Pot mat engem Minimum Volume vun 10L
+Ee Läffel (am léifsten hëlzent) mat enger Minimum Längt vun 20cm
+Messer
+Schneidbrett
+
+Virbereedung Schrëtt:
+D'Geméis schielen, botzen a schneiden. D'Bits solle vu mëttlerer Gréisst fir eng kleng Kachzäit sinn.
+Gitt e Liter Waasser an de Pot. Benotzt de groussen Uewen Auge.
+Füügt d'Sellerie a Pastinake Stécker.
+Maacht den Uewen Auge op. Benotzt déi héich Flam oder héich Temperatur Optioun.
+Nodeems d'Waasser ufänkt ze kachen, léisst et ongeféier 10(?) Minutten kachen.
+Füügt d'Muert Stécker. Füügt Waasser bis all d'Bits ënner Waasser sinn. Mix gutt.
+Ongeféier 10(?) Minutten kachen loossen.
+Füügt d'Kartoffelstécker derbäi. Füügt Waasser bis all d'Bits ënner Waasser sinn. Mix gutt.
+Ongeféier 20(?) Minutten kachen loossen.
+Füügt déi gestuelte gréng Erbsen a gréng Hënn. Füügt Waasser bis all d'Bits ënner Waasser sinn. Mix gutt.
+Nodeems d'Waasser ufänkt ze kachen, léisst et ongeféier 5(?) Minutten kachen.
+Füügt de Klackespär, Tomaten, Dill, Petersilie a Lovage Stécker.
+D'Salz an d'Gewierzer addéieren. Füügt Waasser bis all d'Bits ënner Waasser sinn. Mix gutt.
+Nodeems d'Waasser ufänkt ze kachen, léisst et ongeféier 10(?) Minutten kachen.
+Maacht den Uewen Auge aus. Loosst fir ongeféier 20-30 Minutten sëtzen.
+
+Macronutrients: _macro\1.json
+
+Mikronährstoffer: _micro\1.json

@@ -1,0 +1,51 @@
+Lohateny: lasopy legioma
+
+Firenena niaviany: Romania
+
+Ampahany: 12
+
+Fotoana fanomanana: 1.5h - 2.5h
+
+Fangaro:
+ovy | 2000g
+Fakan'ny seleria | 0,5x (=?g)
+Parsnip root | 1x (=?g)
+Karaoty | 3x (=?g)
+Voanjo maitso mivohitra | 450g
+Voankazo maitso mivohitra | 400g
+lakolosy mena | 1x (=?g)
+lakolosy maitso | 1x (=?g)
+lakolosy mavo | 1x (=?g)
+Tomato | 5x (=?g)
+Dill | 3x (=?g)
+persily | 3x (=?g)
+Lovage | 3x (=?g)
+sira | Araky ny tsirony (naroso ?g)
+Condiments | Araka ny tsirony
+
+Fitaovana an-dakozia ilaina:
+Tavoahangy misy 10L farafahakeliny
+sotro (tsara kokoa ny hazo) manana halavany farafahakeliny 20cm
+antsy
+Tapa-kazo
+
+Dingana fanomanana:
+Peel, diovy ary tapaho ny legioma. Ny bits dia tokony ho antonony habe mandritra ny fotoana mangotraka kely.
+Asio rano iray litatra ao anaty vilany. Ampiasao ny maso fatana lehibe.
+Ampio ny seleria sy ny parsnip bit.
+Alefaso ny maso fatana. Ampiasao ny safidy lelafo avo na hafanana avo.
+Rehefa manomboka mangotraka ny rano dia avela hangotraka mandritra ny 10(?) minitra eo ho eo.
+Ampio ny karaoty. Ampio rano mandra-pahatonga ny bitro rehetra ho difotra. Afangaro tsara.
+Avela hangotraka mandritra ny 10(?) minitra eo ho eo.
+Ampio ny ovy bits. Ampio rano mandra-pahatonga ny bitro rehetra ho difotra. Afangaro tsara.
+Avela hangotraka mandritra ny 20(?) minitra eo ho eo.
+Ampio ny voanjo maitso mivohitra sy ny poti-maitso. Ampio rano mandra-pahatonga ny bitro rehetra ho difotra. Afangaro tsara.
+Rehefa manomboka mangotraka ny rano dia avela hangotraka mandritra ny 5(?) minitra eo ho eo.
+Ampio ny tongolobe, voatabia, aneta, persily ary lovage bits.
+Ampio ny sira sy ny zava-manitra. Ampio rano mandra-pahatonga ny bitro rehetra ho difotra. Afangaro tsara.
+Rehefa manomboka mangotraka ny rano dia avela hangotraka mandritra ny 10(?) minitra eo ho eo.
+Vonoy ny maso fatana. Avela hipetraka mandritra ny 20-30 minitra eo ho eo.
+
+Macronutrients: _macro\1.json
+
+Micronutrients: _micro\1.json

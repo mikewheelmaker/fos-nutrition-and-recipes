@@ -1,0 +1,51 @@
+Title: Nnuadewa a wɔde yɛ aduan
+
+Ɔman a wofi mu: Romania
+
+Afã horow: 12
+
+Ahosiesie bere: 1.5h - 2.5h
+
+Akadeɛ:
+Ɛmo a wɔde yɛ | 2000g na ɛwɔ hɔ
+Celery ntini | 0.5x (=?g) na ɛwɔ hɔ.
+Parsnip ntini | 1x (=?g) na ɛyɛ.
+Karɔt a wɔde yɛ | 3x (=?g) na ɛyɛ.
+Peas a ɛyɛ ahabammono a ayɛ nwini | 450g na ɛyɛ
+Nnua a ɛyɛ ahabammono a ayɛ den | 400g na ɛyɛ
+Red bell pepper | 1x (=?g) na ɛyɛ.
+Green bell pepper a ɛyɛ ahabammono | 1x (=?g) na ɛyɛ.
+Yellow bell pepper a ɛyɛ kɔkɔɔ | 1x (=?g) na ɛyɛ.
+Tomato | 5x (=?g) na ɛyɛ.
+Dill | 3x (=?g) na ɛyɛ.
+Parsley a wɔde yɛ nneɛma | 3x (=?g) na ɛyɛ.
+Lovage | 3x (=?g) na ɛyɛ.
+Nkyene | Sɛnea dɛ te (wɔkamfo kyerɛ ?g) .
+Nneɛma a wɔde yɛ aduan | Sɛnea dɛ te
+
+Nnwinnade a wɔhwehwɛ wɔ adididan mu:
+Kuku a ne dodow a ɛba fam koraa yɛ 10L
+Spon (ɛbɛyɛ papa sɛ wɔde nnua) a ne tenten anyɛ yiye koraa no yɛ 20cm
+Sekan
+Twitwa board
+
+Ahosiesie ho anammɔn:
+Peel, tew na twa nhabannuru no. Ɛsɛ sɛ asinasin no yɛ nea ne kɛse yɛ mfinimfini bere tiaa bi a ɛbobɔ.
+Fa nsu lita biako gu kuku no mu. Fa fononoo aniwa kɛse no di dwuma.
+Fa celery ne parsnip bits no ka ho.
+Dane stove aniwa no. Fa ogyaframa a ɛkɔ soro anaa ɔhyew a ɛkɔ soro a wobɛpaw no di dwuma.
+Sɛ nsu no fi ase bow wie a, gyaw ma ɛnnoa bɛyɛ simma 10(?).
+Fa karɔt asinasin no ka ho. Fa nsu gu mu kosi sɛ asinasin no nyinaa bɛkɔ nsu ase. Fa fra yiye.
+Gyae ma ɛnnoa bɛyɛ simma 10(?).
+Fa ɛmo asinasin no ka ho. Fa nsu gu mu kosi sɛ asinasin no nyinaa bɛkɔ nsu ase. Fa fra yiye.
+Gyae ma ɛnnoa bɛyɛ simma 20(?).
+Fa peas a ɛyɛ ahabammono a ayɛ nwini ne nnuadewa a ɛyɛ ahabammono no ka ho. Fa nsu gu mu kosi sɛ asinasin no nyinaa bɛkɔ nsu ase. Fa fra yiye.
+Sɛ nsu no fi ase bow wie a, gyaw ma ɛnnoa bɛyɛ simma 5(?).
+Fa ɛmo, tomato, dill, parsley, ne lovage bits no ka ho.
+Fa nkyene ne nneɛma a wɔde yɛ aduan no ka ho. Fa nsu gu mu kosi sɛ asinasin no nyinaa bɛkɔ nsu ase. Fa fra yiye.
+Sɛ nsu no fi ase bow wie a, gyaw ma ɛnnoa bɛyɛ simma 10(?).
+Dum stov aniwa no. Gyae ma ɛntra hɔ bɛyɛ simma 20-30.
+
+Aduannuru akɛse: _macro\1.json
+
+Nnuannuru nketenkete: _micro\1.json

@@ -1,0 +1,51 @@
+Titolu: Soppa tal-ħaxix
+
+Pajjiż ta' oriġini: ir-Rumanija
+
+Porzjonijiet: 12
+
+Ħin ta 'preparazzjoni: 1.5h - 2.5h
+
+Ingredjenti:
+Patata | 2000g
+Għerq tal-karfus | 0.5x (=?g)
+Għerq tal-pasnipp | 1x (=?g)
+Zunnarija | 3x (=?g)
+Piżelli ħodor maħlula | 450g
+Imżiewed ħodor maħlula | 400g
+Bżar qampiena aħmar | 1x (=?g)
+Bżar aħdar | 1x (=?g)
+Bżar qampiena isfar | 1x (=?g)
+Tadam | 5x (=?g)
+Xibt | 3x (=?g)
+Tursin | 3x (=?g)
+Lovage | 3x (=?g)
+Melħ | Skont it-togħma (rakkomandat ?g)
+Kondimenti | Skont it-togħma
+
+Utensili tal-kċina meħtieġa:
+Borma b'volum minimu ta '10L
+Mgħarfa (preferibbilment injam) b'tul minimu ta '20cm
+Sikkina
+Bord tat-tqattigħ
+
+Passi tal-preparazzjoni:
+Qaxxar, naddaf u aqta 'l-ħaxix. Il-bits għandhom ikunu ta 'daqs medju għal ħin żgħir ta' togħlija.
+Poġġi litru ilma fil-borma. Uża l-għajn kbira stufi.
+Żid il-karfus u l-bits tal-pasnip.
+Ixgħel l-għajn stufi. Uża l-għażla ta 'fjamma għolja jew temperatura għolja.
+Wara li l-ilma jibda jagħli, ħalli jagħli għal madwar 10(?) minuti.
+Żid il-bits tal-karrotti. Żid l-ilma sakemm il-bits kollha jkunu mgħaddsa. Ħallat sew.
+Ħallih jagħli għal madwar 10(?) minuti.
+Żid il-biċċiet tal-patata. Żid l-ilma sakemm il-bits kollha jkunu mgħaddsa. Ħallat sew.
+Ħallih jagħli għal madwar 20(?) minuta.
+Żid il-piżelli ħodor maħlula u l-imżiewed ħodor. Żid l-ilma sakemm il-bits kollha jkunu mgħaddsa. Ħallat sew.
+Wara li l-ilma jibda jagħli, ħalli jagħli għal madwar 5(?) minuti.
+Żid il-bżar, it-tadam, ix-xibt, it-tursin u l-biċċiet tal-lovage.
+Żid il-melħ u l-kondimenti. Żid l-ilma sakemm il-bits kollha jkunu mgħaddsa. Ħallat sew.
+Wara li l-ilma jibda jagħli, ħalli jagħli għal madwar 10(?) minuti.
+Itfi l-għajn tal-istufi. Ħallih joqgħod għal madwar 20-30 minuta.
+
+Makronutrijenti: _macro\1.json
+
+Mikronutrijenti: _micro\1.json

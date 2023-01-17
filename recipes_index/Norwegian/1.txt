@@ -1,0 +1,51 @@
+Tittel: Grønnsakssuppe
+
+Opprinnelsesland: Romania
+
+Porsjoner: 12
+
+Forberedelsestid: 1,5 t - 2,5 t
+
+Ingredienser:
+Poteter | 2000g
+Sellerirot | 0,5x (=?g)
+Pastinakkrot | 1x (=?g)
+Gulrot | 3x (=?g)
+Stivnede grønne erter | 450 g
+Stivnede grønne belger | 400 g
+Rød paprika | 1x (=?g)
+Grønn paprika | 1x (=?g)
+Gul paprika | 1x (=?g)
+Tomat | 5x (=?g)
+Dill | 3x (=?g)
+Persille | 3x (=?g)
+Lovage | 3x (=?g)
+Salt | Etter smak (anbefalt ?g)
+Krydderier | Etter smak
+
+Nødvendig kjøkkenutstyr:
+En gryte med et minimumsvolum på 10L
+En skje (helst av tre) med en minimumslengde på 20 cm
+Kniv
+Skjærefjøl
+
+Forberedelsestrinn:
+Skrell, rens og kutt grønnsakene. Bitene skal være av middels størrelse for en liten koketid.
+Ha en liter vann i kjelen. Bruk det store komfyrøyet.
+Tilsett selleri og pastinakkbiter.
+Slå på komfyrøyet. Bruk alternativet høy flamme eller høy temperatur.
+Etter at vannet begynner å koke, la det koke i ca. 10(?) minutter.
+Tilsett gulrotbitene. Tilsett vann til alle bitene er nedsenket. Bland godt.
+La koke i ca. 10(?) minutter.
+Tilsett potetbitene. Tilsett vann til alle bitene er nedsenket. Bland godt.
+La det koke i ca. 20(?) minutter.
+Tilsett de stivnede grønne ertene og de grønne belgene. Tilsett vann til alle bitene er nedsenket. Bland godt.
+Etter at vannet begynner å koke, la det koke i ca. 5(?) minutter.
+Tilsett paprika, tomater, dill, persille og løvstikkbiter.
+Tilsett salt og krydder. Tilsett vann til alle bitene er nedsenket. Bland godt.
+Etter at vannet begynner å koke, la det koke i ca. 10(?) minutter.
+Slå av komfyrøyet. La stå i ca 20-30 minutter.
+
+Makronæringsstoffer: _macro\1.json
+
+Mikronæringsstoffer: _micro\1.json

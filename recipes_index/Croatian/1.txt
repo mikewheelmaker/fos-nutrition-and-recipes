@@ -1,0 +1,51 @@
+Naslov: Juha od povrća
+
+Zemlja porijekla: Rumunjska
+
+Porcije: 12
+
+Vrijeme pripreme: 1,5h - 2,5h
+
+Sastojci:
+Krumpir | 2000g
+Korijen celera | 0,5x (=?g)
+Korijen pastrnjaka | 1x (=?g)
+Mrkva | 3x (=?g)
+Smrznuti zeleni grašak | 450 g
+Zgrušane zelene mahune | 400 g
+Crvena paprika | 1x (=?g)
+Zelena paprika | 1x (=?g)
+Žuta paprika | 1x (=?g)
+rajčica | 5x (=?g)
+Kopar | 3x (=?g)
+peršin | 3x (=?g)
+Ljupak | 3x (=?g)
+sol | Po ukusu (preporučeno ?g)
+Začini | Prema ukusu
+
+Potreban kuhinjski pribor:
+Lonac minimalne zapremine 10L
+Žlica (po mogućnosti drvena) minimalne duljine 20 cm
+Nož
+Daska za rezanje
+
+Koraci pripreme:
+Povrće ogulite, očistite i narežite. Komadići trebaju biti srednje veličine za kratko vrijeme vrenja.
+U lonac stavite jednu litru vode. Koristite veliko oko štednjaka.
+Dodajte komadiće celera i pastrnjaka.
+Uključite oko štednjaka. Koristite opciju jakog plamena ili visoke temperature.
+Nakon što voda počne ključati, ostavite kuhati otprilike 10 (?) minuta.
+Dodajte komadiće mrkve. Dodajte vodu dok svi komadići ne budu potopljeni. Dobro promiješajte.
+Ostavite da kuha otprilike 10 (?) minuta.
+Dodajte komadiće krumpira. Dodajte vodu dok svi komadići ne budu potopljeni. Dobro promiješajte.
+Ostavite da kuha oko 20(?) minuta.
+Dodajte zgusnuti zeleni grašak i zelene mahune. Dodajte vodu dok svi komadići ne budu potopljeni. Dobro promiješajte.
+Nakon što voda počne ključati, ostavite da kuha otprilike 5(?) minuta.
+Dodajte papriku, rajčice, kopar, peršin i komadiće ljupčaca.
+Dodajte sol i začine. Dodajte vodu dok svi komadići ne budu potopljeni. Dobro promiješajte.
+Nakon što voda počne ključati, ostavite kuhati otprilike 10 (?) minuta.
+Isključite oko štednjaka. Ostavite da odstoji otprilike 20-30 minuta.
+
+Makronutrijenti: _macro\1.json
+
+Mikronutrijenti: _micro\1.json

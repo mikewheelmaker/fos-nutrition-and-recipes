@@ -1,0 +1,51 @@
+Naslov: Supa od povrća
+
+Zemlja porijekla: Rumunija
+
+Porcije: 12
+
+Vrijeme pripreme: 1.5h - 2.5h
+
+Sastojci:
+Krompir | 2000g
+Korijen celera | 0,5x (=?g)
+Korijen pastrnjaka | 1x (=?g)
+Šargarepa | 3x (=?g)
+Smrznuti zeleni grašak | 450g
+Zaleđene zelene mahune | 400g
+Crvena paprika | 1x (=?g)
+Zelena paprika | 1x (=?g)
+Žuta paprika | 1x (=?g)
+Paradajz | 5x (=?g)
+Dill | 3x (=?g)
+Peršin | 3x (=?g)
+Lovage | 3x (=?g)
+Sol | Prema ukusu (preporučeno ?g)
+Začini | Po ukusu
+
+Potreban kuhinjski pribor:
+Lonac minimalne zapremine 10L
+Kašika (po mogućnosti drvena) minimalne dužine 20 cm
+Knife
+Daska za rezanje
+
+Pripremni koraci:
+Povrće ogulite, očistite i narežite. Bitovi bi trebali biti srednje veličine za kratko vrijeme ključanja.
+U šerpu stavite jedan litar vode. Koristite veliko oko štednjaka.
+Dodajte komadiće celera i pastrnjaka.
+Upali oko peći. Koristite opciju visokog plamena ili visoke temperature.
+Nakon što voda proključa, ostavite da ključa oko 10(?) minuta.
+Dodajte komadiće šargarepe. Dodajte vodu dok svi komadići ne budu potopljeni. Dobro promiješajte.
+Ostavite da ključa oko 10(?) minuta.
+Dodajte komadiće krompira. Dodajte vodu dok svi komadići ne budu potopljeni. Dobro promiješajte.
+Ostavite da ključa oko 20(?) minuta.
+Dodajte ohlađeni zeleni grašak i zelene mahune. Dodajte vodu dok svi komadići ne budu potopljeni. Dobro promiješajte.
+Nakon što voda proključa, ostavite da ključa oko 5(?) minuta.
+Dodajte papriku, paradajz, kopar, peršun i komadiće ljupke.
+Dodajte so i začine. Dodajte vodu dok svi komadići ne budu potopljeni. Dobro promiješajte.
+Nakon što voda proključa, ostavite da ključa oko 10(?) minuta.
+Isključite oko štednjaka. Ostavite da odstoji otprilike 20-30 minuta.
+
+Makronutrijenti: _macro\1.json
+
+Mikronutrijenti: _micro\1.json

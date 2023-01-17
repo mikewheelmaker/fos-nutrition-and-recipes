@@ -1,0 +1,51 @@
+Título: Sopa verdura rehegua
+
+Tetã ypykue: Rumania
+
+Porciones: 12. Ñe’ẽpoty ha ñe’ẽpoty
+
+Oñembosako’i aravo: 1,5h - 2,5h
+
+Porupyrã:
+Papa | 2000g rehegua
+Apio ra'ỹi | 0,5x (=?g) rehegua.
+Parsnip ra'ỹi | 1x (=?g) rehegua.
+Zanahoria rehegua | 3x (=?g) rehegua .
+Arvejas verdes congeladas | 450g rehegua
+Vainas verdes congeladas | 400g rehegua
+Pimiento campanilla pytã | 1x (=?g) rehegua.
+Pimiento campanilla verde | 1x (=?g) rehegua.
+Pimiento campanilla hovy | 1x (=?g) rehegua.
+Tomate | 5x (=?g) rehegua.
+Eneldo | 3x (=?g) rehegua .
+Perejil rehegua | 3x (=?g) rehegua .
+Lovage rehegua | 3x (=?g) rehegua .
+Juky | Según sabor (oñemoñe’ẽva ?g) .
+Condimentos rehegua | Según sabor
+
+Umi tembiporu oñeikotevẽva cocina-pe: 1.1.
+Peteĩ olla orekóva volumen mínimo 10L
+Peteĩ cuchara (iporãvéva yvyrágui ojejapóva) ipukúva mínimo 20cm
+Kyse
+Tablero de corte rehegua
+
+Umi mba’e ojejapóva oñembosako’i haguã:
+Ojepe’a, oñemopotĩ ha oñeikytĩ umi ka’avo. Umi pedazo ha e va era mediano petet tiempo opupu hagua michtvape.
+Oñemoĩ peteĩ litro y pe mba’yrúpe. Eipuru pe estufa resa tuicháva.
+Oñemoĩ pype apio ha pastinaca pehẽngue.
+Ombogue pe estufa resa. Eipuru pe opción tatatĩ yvate térã temperatura yvate.
+Oñepyrũ rire opupu y, ojeheja opupu 10(?) minuto rupi.
+Oñemoĩ pype umi zanahoria pehẽngue. Oñemoĩ y oñembohypa peve opaite umi pedazo. Oñembojehe’a porã.
+Jaheja topupu 10(?) minuto rupi.
+Oñemoĩ pype papa pehẽngue. Oñemoĩ y oñembohypa peve opaite umi pedazo. Oñembojehe’a porã.
+Jaheja topupu 20(?) minuto rupi.
+Oñemoĩ pype umi guisante verde congelado ha vaina verde. Oñemoĩ y oñembohypa peve opaite umi pedazo. Oñembojehe’a porã.
+Oñepyrũ rire opupu y, ojeheja opupu 5(?) minuto rupi.
+Oñemoĩ pype pimiento campanilla, tomate, eneldo, perejil ha lovage pedazo.
+Oñemoĩ pype juky ha condimento. Oñemoĩ y oñembohypa peve opaite umi pedazo. Oñembojehe’a porã.
+Oñepyrũ rire opupu y, ojeheja opupu 10(?) minuto rupi.
+Ombogue pe estufa resa. Jaheja oguapy 20-30 minuto rupi.
+
+Macronutrientekuéra: _macro\1.json
+
+Micronutrientekuéra: _micro\1.json

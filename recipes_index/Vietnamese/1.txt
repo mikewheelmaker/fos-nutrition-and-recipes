@@ -1,0 +1,51 @@
+Tiêu đề: Súp rau
+
+Nước xuất xứ: Ru-ma-ni
+
+Khẩu phần: 12
+
+Thời gian chuẩn bị: 1,5h - 2,5h
+
+Thành phần:
+Khoai tây | 2000g
+Củ cần tây | 0,5x (=?g)
+Củ cải vàng | 1x (=? g)
+Cà rốt | 3x (=?g)
+Đậu xanh tắc | 450g
+tắc vỏ xanh | 400g
+Ớt chuông đỏ | 1x (=?g)
+Ớt chuông xanh | 1x (=? g)
+Ớt chuông vàng | 1x (=?g)
+cà chua | 5x (=?g)
+thì là | 3x (=? g)
+Mùi tây | 3x (=? g)
+Tình yêu | 3x (=?g)
+Muối | Theo khẩu vị (khuyên dùng ?g)
+Gia vị | Theo khẩu vị
+
+Đồ dùng nhà bếp cần thiết:
+Nồi có thể tích tối thiểu 10L
+Một chiếc thìa (tốt nhất là bằng gỗ) có chiều dài tối thiểu 20cm
+Dao
+Thớt
+
+Các bước chuẩn bị:
+Gọt vỏ, làm sạch và cắt rau. Các bit phải có kích thước trung bình trong thời gian sôi nhỏ.
+Cho một lít nước vào nồi. Sử dụng mắt bếp lớn.
+Thêm các bit cần tây và rau mùi tây.
+Bật mắt bếp. Sử dụng tùy chọn ngọn lửa cao hoặc nhiệt độ cao.
+Sau khi nước bắt đầu sôi, để sôi khoảng 10(?) phút.
+Thêm các bit cà rốt. Thêm nước cho đến khi tất cả các bit ngập trong nước. Trộn đều.
+Để sôi trong khoảng 10(?) phút.
+Thêm các miếng khoai tây. Thêm nước cho đến khi tất cả các bit ngập trong nước. Trộn đều.
+Để sôi trong khoảng 20(?) phút.
+Thêm đậu xanh đông đặc và vỏ xanh. Thêm nước cho đến khi tất cả các bit ngập trong nước. Trộn đều.
+Sau khi nước bắt đầu sôi, để sôi khoảng 5(?) phút.
+Thêm ớt chuông, cà chua, thì là, rau mùi tây và các mẩu yêu thương.
+Thêm muối và gia vị. Thêm nước cho đến khi tất cả các bit ngập trong nước. Trộn đều.
+Sau khi nước bắt đầu sôi, để sôi khoảng 10(?) phút.
+Tắt bếp mắt. Để yên trong khoảng 20-30 phút.
+
+Chất dinh dưỡng đa lượng: _macro\1.json
+
+Vi chất dinh dưỡng: _micro\1.json

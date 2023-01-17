@@ -1,0 +1,51 @@
+Ciwaanka: maraq khudradeed
+
+Dalka asal ahaan: Romania
+
+Qaybaha: 12
+
+Waqtiga diyaarinta: 1.5h - 2.5h
+
+Waxyaabaha ay ka kooban yihiin:
+Baradhada | 2000g
+Xidid Celery | 0.5x (=?g)
+Xidid parsnip | 1x (=?g)
+Karootada | 3x (=?g)
+Digirta cagaaran oo la qariyay | 450g
+Duubyo cagaar ah oo la qariyay | 400g
+Basbaaska dawanka cas | 1x (=?g)
+Basbaaska dawanka cagaaran | 1x (=?g)
+Basbaaska Jaallaha ah | 1x (=?g)
+Tamaandho | 5x (=?g)
+Dill | 3x (=?g)
+Parsley | 3x (=?g)
+Jacaylka | 3x (=?g)
+milix | Marka loo eego dhadhanka (lagu taliyay ?g)
+Cunnooyinka | Sida dhadhanka
+
+Alaabta jikada ee loo baahan yahay:
+Dheri leh mugga ugu yar ee 10L
+Qaado (doorbidayaa alwaax) oo dhererkeedu yahay ugu yaraan 20cm
+Mindi
+Goynta looxa
+
+Talaabooyinka diyaarinta:
+Diir, nadiifi oo jar khudaarta. Qaybaha waa inay ahaadaan cabbir dhexdhexaad ah wakhti yar oo karkaraya.
+Ku rid hal litir oo biyo ah dheriga. Isticmaal isha shooladda weyn.
+Ku dar selery iyo xabbado dhir ah.
+Daar isha shooladda. Isticmaal ololka sare ama doorashada heerkulka sare.
+Ka dib marka biyuhu bilaabaan karkarinta, u daa inay karkariyaan qiyaastii 10 (?) daqiiqo.
+Ku dar qajaarka karootada. Ku dar biyo ilaa ay dhammaan qashin-qubka biyaha hoostooda ku shubaan. Si fiican isku qas.
+U daa inuu karkariyo qiyaastii 10 (?) daqiiqo.
+Ku dar maraqa baradhada. Ku dar biyo ilaa ay dhammaan qashin-qubka biyaha hoostooda ku shubaan. Si fiican isku qas.
+U daa inuu karkariyo qiyaastii 20 (?) daqiiqo.
+Ku dar digir cagaaran oo la shiilay iyo caws cagaaran. Ku dar biyo ilaa ay dhammaan qashin-qubka biyaha hoostooda ku shubaan. Si fiican isku qas.
+Ka dib marka biyuhu bilaabaan karkarinta, u daa inay karkariyaan qiyaastii 5 (?) daqiiqo.
+Ku dar basbaaska gambaleelka, yaanyada, dill, dhir, iyo xabbado kalgacal leh.
+Ku dar milix iyo xawaashyo. Ku dar biyo ilaa ay dhammaan qashin-qubka biyaha hoostooda ku shubaan. Si fiican isku qas.
+Ka dib marka biyuhu bilaabaan karkarinta, u daa inay karkariyaan qiyaastii 10 (?) daqiiqo.
+Demi isha shooladda. U dhaaf inaad fadhiiso qiyaastii 20-30 daqiiqo.
+
+Macro-nutrients: _macro\1.json
+
+Nafaqeeyayaalka yar yar: _micro\1.json

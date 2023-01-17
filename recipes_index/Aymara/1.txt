@@ -1,0 +1,51 @@
+Titulo: Ch’uxña achunaka sopa
+
+Uka markajj akhamawa: Rumania
+
+Tʼaqanakapa: 12
+
+Wakichaña pacha: 1,5h - 2,5h
+
+Wakiskirinaka:
+Ch’uqixa | 2000g
+Apio saphixa | 0,5x (=?g) ukhamawa.
+Parsnip saphi | 1x (=?g) ukhamawa.
+Zanahoria ukaxa | 3x (=?g) ukhamawa.
+Ch’uxña guisantes congeladas | 450g ukhawa
+Ch’uxña vainas congeladas | 400g ukhawa
+Wila ch’uqi ch’uqi | 1x (=?g) ukhamawa.
+Ch’uxña campana piminta | 1x (=?g) ukhamawa.
+Q’illu ch’uqi ch’uqi | 1x (=?g) ukhamawa.
+Tomate | 5x (=?g) ukhamawa.
+Eneldo | 3x (=?g) ukhamawa.
+Perejil ukax | 3x (=?g) ukhamawa.
+Lovage ukax | 3x (=?g) ukhamawa.
+Salt | Ukhama sawurani (recomendada ?g) .
+Condimentos ukaxa | Ukhama sawurani
+
+Cocinan yänakapax wakisiwa:
+Mä manq’aña mä volúmen mínimo 10L
+Mä cuchara (wali sumawa lawa) ukaxa mä jisk’a largo 20cm
+Tumi
+Cutting board ukaxa mä juk’a pachanakwa lurasi
+
+Wakichañataki lurañanaka:
+Ch’uxña achunaka ch’uqi ch’uñuyaña, q’umachaña ukatsti khuchhuña. Uka jisk’a t’ant’anakaxa mä jisk’a t’ant’a pachatakixa medio tamaño ukhamawa.
+Mä litro uma phukhuru uchaña. Jach’a estufa nayra apnaqaña.
+Ukhama apio ukat parsnip bits ukanakampi.
+Uka estufa nayraxa turkañawa. Ukaxa jach’a nina jan ukaxa jach’a temperatura ukanakampiwa lurataraki.
+Umaxa t’amt’añ qalltxipana, niya 10(?) t’ijturjama jaytaña.
+Ukhama zanahoria ch’uqimpi. Umampiwa taqpacha ch’uqi ch’uqimpi ch’uñuyaña. Suma mistuña.
+Ukhama niya 10(?) t’ijturjama jaytaña.
+Ukhama ch’uqi ch’uqimpi. Umampiwa taqpacha ch’uqi ch’uqimpi ch’uñuyaña. Suma mistuña.
+Ukhama niya 20(?) t’ijturjama phayaña.
+Ukhama ch’uxña guisantes congeladas ukatsti ch’uxña vainas ukanakampi. Umampiwa taqpacha ch’uqi ch’uqimpi ch’uñuyaña. Suma mistuña.
+Umaxa t’amt’añ qalltxipana, niya 5(?) t’ijturjama jaytaña.
+Ukhama campanilla, tomate, eneldo, perejil, ukatsti lovage bits ukanakampi.
+Ukhama ch’uñumpi ukatsti condimentos ukanakampi. Umampiwa taqpacha ch’uqi ch’uqimpi ch’uñuyaña. Suma mistuña.
+Umaxa t’amt’añ qalltxipana, niya 10(?) t’ijturjama jaytaña.
+Uka estufa nayra jist’antaña. Ukhama qunt’asiñapataki niya 20-30 t’ijturjama.
+
+Macronutrientes ukaxa: _macro\1.json
+
+Micronutrientes ukaxa: _micro\1.json

@@ -1,0 +1,51 @@
+Isihloko: Isuphu yemifuno
+
+Ilizwe lemvelaphi: eRomania
+
+Izahlulo: 12
+
+Ixesha lokulungiselela: 1.5h - 2.5h
+
+Izithako:
+Iitapile | 2000g
+Ingcambu yeCelery | 0.5x (=?g)
+Ingcambu yeParsnip | 1x (=?g)
+Ikherothi | 3x (=?g)
+Iiertyisi eziluhlaza ezijiweyo | 450g
+Imidumba eluhlaza ejiyileyo | 400g
+Intsimbi ebomvu ipepile | 1x (=?g)
+Ipepile yentsimbi eluhlaza | 1x (=?g)
+Ipepile yentsimbi etyheli | 1x (=?g)
+Itumato | 5x (=?g)
+Dill | 3x (=?g)
+Iparsley | 3x (=?g)
+Lovage | 3x (=?g)
+Ityuwa | Ngokwencasa (kucetyiswa ?g)
+Iziqholo | Ngokwencasa
+
+Izixhobo zasekhitshini ezifunekayo:
+Imbiza enomthamo omncinci we-10L
+Icephe (ngokukhethekileyo iplanga) enobude obuncinci be-20cm
+Imela
+Ibhodi yokusika
+
+Amanyathelo okulungiselela:
+I-Peel, ihlambulule kwaye usike imifuno. Iibhithi kufuneka zibe nobukhulu obuphakathi ngexesha elincinci lokubilisa.
+Faka ilitha enye yamanzi embizeni. Sebenzisa iliso lesitovu esikhulu.
+Yongeza i-celery kunye ne-parsnip bits.
+Vula iliso lesitovu. Sebenzisa idangatye eliphezulu okanye ukhetho lobushushu obuphezulu.
+Emva kokuba amanzi eqalise ukubila, yiyeke ukuba abile malunga nemizuzu eyi-10(?).
+Yongeza amasuntswana ekherothi. Yongeza amanzi de zonke iintwana zintywiliselwe. Xuba kakuhle.
+Yiyeke ibile malunga nemizuzu eyi-10(?).
+Yongeza amasuntswana amazambane. Yongeza amanzi de zonke iintwana zintywiliselwe. Xuba kakuhle.
+Yiyeke ibile malunga nemizuzu engama-20 (?).
+Yongeza i-peas eluhlaza kunye neepods eziluhlaza. Yongeza amanzi de zonke iintwana zintywiliselwe. Xuba kakuhle.
+Emva kokuba amanzi eqalise ukubila, yiyeke ukuba abile malunga nemizuzu emi-5 (?).
+Yongeza i-bell pepper, iitumato, idill, iparsley, kunye ne-lovage bits.
+Yongeza ityuwa kunye ne-condiments. Yongeza amanzi de zonke iintwana zintywiliselwe. Xuba kakuhle.
+Emva kokuba amanzi eqalise ukubila, yiyeke ukuba abile malunga nemizuzu eyi-10(?).
+Cima iliso lesitovu. Yiyeke ukuhlala malunga nemizuzu engama-20-30.
+
+Ii-macronutrients: _macro\1.json
+
+Izondlo ezincinci: _micro\1.json

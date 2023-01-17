@@ -1,0 +1,51 @@
+Título: Sopa de verduras
+
+País de origen: Rumania
+
+Porciones: 12
+
+Tiempo de preparación: 1,5h - 2,5h
+
+Ingredientes:
+Patatas | 2000g
+Raíz de apio | 0.5x (=?g)
+Raíz de chirivía | 1x (=? g)
+Zanahoria | 3x (=? g)
+Guisantes verdes congelados | 450g
+Vainas verdes congeladas | 400g
+pimiento rojo | 1x (=? g)
+Pimiento verde | 1x (=? g)
+pimiento amarillo | 1x (=? g)
+Tomate | 5x (=? g)
+Eneldo | 3x (=? g)
+perejil | 3x (=? g)
+Apio | 3x (=? g)
+sal | Según gusto (recomendado ?g)
+Condimentos | Según gusto
+
+Utensilios de cocina necesarios:
+Una olla con un volumen mínimo de 10L
+Una cuchara (preferiblemente de madera) con una longitud mínima de 20 cm.
+Cuchillo
+tabla de cortar
+
+Pasos de preparación:
+Pelar, limpiar y cortar las verduras. Los trozos deben ser de tamaño mediano para un tiempo de ebullición pequeño.
+Poner un litro de agua en la olla. Use el ojo grande de la estufa.
+Agregue los trocitos de apio y chirivía.
+Encienda el ojo de la estufa. Use la opción de llama alta o temperatura alta.
+Después de que el agua comience a hervir, déjelo hervir durante aproximadamente 10 (?) minutos.
+Agrega los trocitos de zanahoria. Agregue agua hasta que todos los pedazos estén sumergidos. Mezclar bien.
+Dejar hervir durante aproximadamente 10(?) minutos.
+Añadir los trocitos de patata. Agregue agua hasta que todos los pedazos estén sumergidos. Mezclar bien.
+Dejar hervir durante aproximadamente 20(?) minutos.
+Añadir los guisantes verdes congelados y las vainas verdes. Agregue agua hasta que todos los pedazos estén sumergidos. Mezclar bien.
+Después de que el agua comience a hervir, déjelo hervir durante aproximadamente 5 (?) minutos.
+Agregue el pimiento, los tomates, el eneldo, el perejil y los trocitos de apio de monte.
+Agregue la sal y los condimentos. Agregue agua hasta que todos los pedazos estén sumergidos. Mezclar bien.
+Después de que el agua comience a hervir, déjelo hervir durante aproximadamente 10 (?) minutos.
+Apague el ojo de la estufa. Dejar reposar durante aproximadamente 20-30 minutos.
+
+Macronutrientes: _macro\1.json
+
+Micronutrientes: _micro\1.json

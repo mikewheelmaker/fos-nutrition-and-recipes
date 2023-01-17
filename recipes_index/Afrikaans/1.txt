@@ -1,0 +1,51 @@
+Titel: Groentesop
+
+Land van herkoms: Roemenië
+
+Porsies: 12
+
+Voorbereidingstyd: 1.5h - 2.5h
+
+Bestanddele:
+Aartappels | 2000g
+Selderywortel | 0,5x (=?g)
+Pastinaakwortel | 1x (=?g)
+Wortel | 3x (=?g)
+Gestolde groen ertjies | 450g
+Gestolde groen peule | 400g
+Rooi soetrissie | 1x (=?g)
+Groen soetrissie | 1x (=?g)
+Geel soetrissie | 1x (=?g)
+Tamatie | 5x (=?g)
+Dille | 3x (=?g)
+Pietersielie | 3x (=?g)
+Lovage | 3x (=?g)
+Sout | Volgens smaak (aanbeveel ?g)
+Speserye | Volgens smaak
+
+Vereiste kombuisgereedskap:
+'n Pot met 'n minimum volume van 10L
+'n Lepel (verkieslik hout) met 'n minimum lengte van 20cm
+Mes
+Sny bord
+
+Voorbereidingstappe:
+Skil, maak skoon en sny die groente. Die stukkies moet van medium grootte wees vir 'n klein kooktyd.
+Gooi een liter water in die pot. Gebruik die groot stoofoog.
+Voeg die seldery en pastinaak stukkies by.
+Skakel die stoofoog aan. Gebruik die hoë vlam of hoë temperatuur opsie.
+Nadat die water begin kook, laat dit vir ongeveer 10(?) minute kook.
+Voeg die stukkies wortel by. Voeg water by totdat al die stukkies ondergedompel is. Meng goed.
+Laat kook vir ongeveer 10(?) minute.
+Voeg die aartappel stukkies by. Voeg water by totdat al die stukkies ondergedompel is. Meng goed.
+Laat kook vir ongeveer 20(?) minute.
+Voeg die gestolde groen ertjies en groen peule by. Voeg water by totdat al die stukkies ondergedompel is. Meng goed.
+Nadat die water begin kook, laat dit vir ongeveer 5(?) minute kook.
+Voeg die soetrissie, tamaties, dille, pietersielie en stukkies lavas by.
+Voeg die sout en speserye by. Voeg water by totdat al die stukkies ondergedompel is. Meng goed.
+Nadat die water begin kook, laat dit vir ongeveer 10(?) minute kook.
+Skakel die stoofoog af. Laat staan vir ongeveer 20-30 minute.
+
+Makronutriënte: _macro\1.json
+
+Mikrovoedingstowwe: _micro\1.json

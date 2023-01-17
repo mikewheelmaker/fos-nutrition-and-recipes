@@ -1,0 +1,51 @@
+Title: Ewebe bimo
+
+Orilẹ-ede abinibi: Romania
+
+Awọn ipin: 12
+
+Akoko igbaradi: 1.5h - 2.5h
+
+Awọn eroja:
+Ọdunkun | 2000g
+Seleri root | 0.5x (=?g)
+root Parsnip | 1x (=?g)
+Karooti | 3x (=?g)
+Congealed alawọ ewe Ewa | 450g
+Congealed alawọ ewe pods | 400g
+Ata pupa agogo | 1x (=?g)
+Green Belii ata | 1x (=?g)
+Ata ata ilẹ ofeefee | 1x (=?g)
+tomati | 5x (=?g)
+Dill | 3x (=?g)
+Parsley | 3x (=?g)
+Lovage | 3x (=?g)
+Iyọ | Ni ibamu si itọwo (a ṣe iṣeduro ?g)
+Condiments | Ni ibamu si itọwo
+
+Awọn ohun elo ibi idana ounjẹ ti a beere:
+Ikoko ti o kere ju 10l
+Sibi kan (pelu igi) pẹlu ipari ti o kere ju 20cm
+Ọbẹ
+Ige ọkọ
+
+Awọn igbesẹ igbaradi:
+Peeli, nu ati ge awọn ẹfọ naa. Awọn ege yẹ ki o jẹ ti iwọn alabọde fun akoko gbigbo kekere.
+Fi lita kan ti omi sinu ikoko. Lo oju adiro nla naa.
+Fi seleri ati awọn ege parsnip kun.
+Tan adiro oju. Lo ina giga tabi aṣayan iwọn otutu giga.
+Lẹhin ti omi bẹrẹ farabale, fi silẹ lati sise fun isunmọ 10 (?) iṣẹju.
+Fi awọn ege karọọti kun. Fi omi kun titi gbogbo awọn ege yoo fi wọ inu omi. Illa daradara.
+Fi silẹ lati sise fun isunmọ 10 (?) iṣẹju.
+Fi awọn ọdunkun ọdunkun kun. Fi omi kun titi gbogbo awọn ege yoo fi wọ inu omi. Illa daradara.
+Fi silẹ lati sise fun isunmọ 20 (?) iṣẹju.
+Fi awọn Ewa alawọ ewe congealed ati awọn pods alawọ ewe kun. Fi omi kun titi gbogbo awọn ege yoo fi wọ inu omi. Illa daradara.
+Lẹhin ti omi bẹrẹ farabale, fi silẹ lati sise fun isunmọ 5 (?) iṣẹju.
+Fi ata beli, awọn tomati, dill, parsley, ati awọn ege lovage kun.
+Fi iyo ati condiments kun. Fi omi kun titi gbogbo awọn ege yoo fi wọ inu omi. Illa daradara.
+Lẹhin ti omi bẹrẹ farabale, fi silẹ lati sise fun isunmọ 10 (?) iṣẹju.
+Pa oju adiro naa. Fi silẹ lati joko fun awọn iṣẹju 20-30.
+
+Awọn eroja: _macro \ 1.json
+
+Micronutrients: _micro \ 1.json

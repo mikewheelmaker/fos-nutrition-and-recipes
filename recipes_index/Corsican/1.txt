@@ -1,0 +1,51 @@
+Titre : Zuppa di verdura
+
+Paese d'origine: Romania
+
+Porzioni: 12
+
+Tempu di preparazione: 1.5h - 2.5h
+
+Ingredienti:
+patate | 2000 g
+radice di sedano | 0,5x (=?g)
+radice di pastinaca | 1x (=?g)
+Carota | 3x (=?g)
+Piselli congelati | 450 g
+Baccelli verdi congelati | 400 g
+Peperonu rossu | 1x (=?g)
+Peperone verde | 1x (=?g)
+Peperoncino giallu | 1x (=?g)
+Tomate | 5x (=?g)
+aneto | 3x (=?g)
+prezzemolo | 3x (=?g)
+Lovage | 3x (=?g)
+sali | Sicondu u gustu (consigliatu ?g)
+Cundimenti | Sicondu u gustu
+
+Utensili di cucina richiesti:
+Una pignatta cù un voluminu minimu di 10 L
+Una cucchiara (preferibile di legnu) cù una durata minima di 20 cm
+cuteddu
+Tavola di taglio
+
+Passi di preparazione:
+Sbuccia, pulisce e taglia le verdure. I pezzi deve esse di grandezza media per un pocu tempu di ebollizione.
+Mettite un litru d'acqua in a pignatta. Aduprate u grande ochju di stufa.
+Aghjunghjite u sedano è i pezzi di pastinaca.
+Accende l'ochju di stufa. Aduprate l'opzione di fiamma alta o alta temperatura.
+Dopu chì l'acqua cumencia à bolliri, lasciate à fogghiu per circa 10 (?) minuti.
+Aghjunghjite i pezzi di carota. Aghjunghjite l'acqua finu à chì tutti i pezzi sò sottumessi. Imbulighjate bè.
+Lasciate fogghiu per circa 10 (?) minuti.
+Aghjunghjite i pezzi di patata. Aghjunghjite l'acqua finu à chì tutti i pezzi sò sottumessi. Imbulighjate bè.
+Lasciate fogghiu per circa 20 (?) minuti.
+Aggiungi i piselli verdi congelati è i baccelli verdi. Aghjunghjite l'acqua finu à chì tutti i pezzi sò sottumessi. Imbulighjate bè.
+Dopu chì l'acqua cumencia à fogghiu, lasciate à fogghi per circa 5 (?) minuti.
+Aghjunghjite u peperone, i pumati, l'aneto, u prezzemolo è i pezzi di lovage.
+Aghjunghjite u salinu è i cundimenti. Aghjunghjite l'acqua finu à chì tutti i pezzi sò sottumessi. Imbulighjate bè.
+Dopu chì l'acqua cumencia à bolliri, lasciate à fogghiu per circa 10 (?) minuti.
+Spegne l'ochju di stufa. Lasciate à pusà per circa 20-30 minuti.
+
+Macronutrienti: _macro\1.json
+
+Micronutrienti: _micro\1.json

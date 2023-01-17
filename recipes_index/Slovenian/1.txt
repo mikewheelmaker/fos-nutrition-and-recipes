@@ -1,0 +1,51 @@
+Naslov: Zelenjavna juha
+
+Država izvora: Romunija
+
+Porcije: 12
+
+Čas priprave: 1,5h - 2,5h
+
+Sestavine:
+Krompir | 2000g
+Korenina zelene | 0,5x (=?g)
+Korenina pastinaka | 1x (=?g)
+Korenček | 3x (=?g)
+Zmrznjen zeleni grah | 450 g
+Strjeni zeleni stroki | 400 g
+Rdeča paprika | 1x (=?g)
+Zelena paprika | 1x (=?g)
+Rumena paprika | 1x (=?g)
+Paradižnik | 5x (=?g)
+Koper | 3x (=?g)
+peteršilj | 3x (=?g)
+Ljubezen | 3x (=?g)
+Sol | Po okusu (priporočljivo ?g)
+Začimbe | Po okusu
+
+Obvezna kuhinjska posoda:
+Lonec z minimalno prostornino 10L
+Žlico (po možnosti leseno) dolžine najmanj 20 cm
+Nož
+Rezalna deska
+
+Pripravljalni koraki:
+Zelenjavo olupimo, očistimo in narežemo. Koščki naj bodo srednje veliki za kratek čas vrenja.
+V lonec nalijte en liter vode. Uporabite veliko oko pečice.
+Dodajte koščke zelene in pastinaka.
+Vklopite oko za peč. Uporabite možnost močnega ognja ali visoke temperature.
+Ko voda začne vreti, pustite vreti približno 10 (?) minut.
+Dodajte koščke korenja. Dodajte vodo, dokler niso vsi koščki potopljeni. Dobro premešaj.
+Pustite vreti približno 10 (?) minut.
+Dodajte koščke krompirja. Dodajte vodo, dokler niso vsi koščki potopljeni. Dobro premešaj.
+Pustite vreti približno 20 (?) minut.
+Dodamo strjen zeleni grah in zelene stroke. Dodajte vodo, dokler niso vsi koščki potopljeni. Dobro premešaj.
+Ko voda začne vreti, pustite vreti približno 5 (?) minut.
+Dodajte papriko, paradižnik, koper, peteršilj in koščke lovage.
+Dodajte sol in začimbe. Dodajte vodo, dokler niso vsi koščki potopljeni. Dobro premešaj.
+Ko voda začne vreti, pustite vreti približno 10 (?) minut.
+Izklopite oko za peč. Pustite stati približno 20-30 minut.
+
+Makrohranila: _macro\1.json
+
+Mikrohranila: _micro\1.json

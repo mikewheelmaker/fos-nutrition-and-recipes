@@ -1,0 +1,51 @@
+Title: Sopa huaʻai
+
+ʻĀina kumu: Romania
+
+Mahele: 12
+
+Ka manawa hoʻomākaukau: 1.5h - 2.5h
+
+Nā mea hoʻohui:
+Uala | 2000g
+Aʻa Celery | 0.5x (=?g)
+ʻAʻa Parsnip | 1x (=?g)
+Kāroti | 3x (=?g)
+Piʻi ʻōmaʻomaʻo congealed | 450g
+ʻO nā pua ʻōmaʻomaʻo i hoʻopaʻa ʻia | 400g
+Pepa bele ulaula | 1x (=?g)
+Pepa bele omaomao | 1x (=?g)
+Pepa bele melemele | 1x (=?g)
+Tomato | 5x (=?g)
+Dill | 3x (=?g)
+Parsley | 3x (=?g)
+Lovage | 3x (=?g)
+Paakai | E like me ka ʻono (manaʻo ʻia ?g)
+Nā mea ʻono | E like me ka ono
+
+Pono nā lako kīhini:
+ʻO kahi ipu me ka liʻiliʻi liʻiliʻi o 10L
+He puna (ʻoi aku ka lāʻau) me ka liʻiliʻi loa o 20cm
+Pahi
+Papa ʻoki
+
+Nā ʻanuʻu hoʻomākaukau:
+Peel, hoʻomaʻemaʻe a ʻokiʻoki i nā mea kanu. Pono ka nui o nā ʻāpana no kahi manawa hoʻolapalapa liʻiliʻi.
+E kau i hoʻokahi lita o ka wai i loko o ka ipu hao. E hoʻohana i ka maka umu nui.
+E hoʻohui i ka celery a me ka parsnip bits.
+E ho'ā i ka maka kapuahi. E hoʻohana i ka lapalapa kiʻekiʻe a i ʻole ke koho wela wela.
+Ma hope o ka hoʻomaka ʻana o ka hoʻolapalapa ʻana o ka wai, e waiho e hoʻolapalapa no kahi o 10(?) mau minuke.
+E hoʻohui i nā ʻāpana kāloti. E hoʻohui i ka wai a pau nā ʻāpana. Hui maikaʻi.
+E waiho i ka paila no 10(?) mau minuke.
+E hoʻohui i nā ʻuala. E hoʻohui i ka wai a pau nā ʻāpana. Hui maikaʻi.
+E waiho i ka paila no 20(?) minuke.
+E hoʻohui i nā pī'ōmaʻomaʻo congealed a me nā'ōmaʻomaʻo'ōmaʻomaʻo. E hoʻohui i ka wai a pau nā ʻāpana. Hui maikaʻi.
+Ma hope o ka hoʻomaka ʻana o ka paila ʻana o ka wai, waiho ʻia e hoʻolapalapa no 5(?) mau minuke.
+E hoʻohui i ka pepa bele, nā ʻōmato, ka dill, ka pā paʻi, a me nā ʻāpana lovage.
+E hoʻohui i ka paʻakai a me nā meaʻono. E hoʻohui i ka wai a pau nā ʻāpana. Hui maikaʻi.
+Ma hope o ka hoʻomaka ʻana o ka hoʻolapalapa ʻana o ka wai, e waiho e hoʻolapalapa no kahi o 10(?) mau minuke.
+E hoʻopau i ka maka kapuahi. E waiho e noho no kahi o 20-30 mau minuke.
+
+Nā mea waiwai nui: _macro\1.json
+
+Micronutrients: _micro\1.json

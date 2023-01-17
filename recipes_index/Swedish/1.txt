@@ -1,0 +1,51 @@
+Titel: Grönsakssoppa
+
+Ursprungsland: Rumänien
+
+Portioner: 12
+
+Förberedelsetid: 1,5h - 2,5h
+
+Ingredienser:
+Potatis | 2000g
+Rotselleri | 0,5x (=?g)
+Palsternackarot | 1x (=?g)
+Morot | 3x (=?g)
+Stelnade gröna ärtor | 450 g
+Stelnade gröna baljor | 400 g
+Röd paprika | 1x (=?g)
+Grön paprika | 1x (=?g)
+Gul paprika | 1x (=?g)
+Tomat | 5x (=?g)
+Dill | 3x (=?g)
+Persilja | 3x (=?g)
+Lovage | 3x (=?g)
+Salt | Efter smak (rekommenderas ?g)
+Smaktillsatser | Efter smak
+
+Köksredskap som krävs:
+En kastrull med en minsta volym på 10L
+En sked (helst av trä) med en minsta längd på 20 cm
+Kniv
+Skärbräda
+
+Förberedelsesteg:
+Skala, rengör och skär grönsakerna. Bitarna ska vara medelstora under en liten koktid.
+Häll en liter vatten i grytan. Använd den stora spisöglan.
+Tillsätt sellerin och palsternackabitarna.
+Slå på spisöglan. Använd alternativet hög låga eller hög temperatur.
+Efter att vattnet börjar koka, låt koka i cirka 10(?) minuter.
+Tillsätt morotsbitarna. Tillsätt vatten tills alla bitar är nedsänkta. Blanda väl.
+Låt koka i cirka 10(?) minuter.
+Tillsätt potatisbitarna. Tillsätt vatten tills alla bitar är nedsänkta. Blanda väl.
+Låt koka i cirka 20(?) minuter.
+Tillsätt de stelnade gröna ärterna och gröna baljorna. Tillsätt vatten tills alla bitar är nedsänkta. Blanda väl.
+Efter att vattnet börjar koka, låt koka i cirka 5(?) minuter.
+Tillsätt paprika, tomater, dill, persilja och libbstickor.
+Tillsätt saltet och kryddorna. Tillsätt vatten tills alla bitar är nedsänkta. Blanda väl.
+Efter att vattnet börjar koka, låt koka i cirka 10(?) minuter.
+Stäng av spisöglan. Låt sitta i cirka 20-30 minuter.
+
+Makronäringsämnen: _macro\1.json
+
+Mikronäringsämnen: _micro\1.json

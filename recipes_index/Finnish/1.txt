@@ -1,0 +1,51 @@
+Otsikko: Kasviskeitto
+
+Alkuperämaa: Romania
+
+Annokset: 12
+
+Valmistusaika: 1,5h - 2,5h
+
+Ainesosat:
+Perunat | 2000g
+Sellerijuuri | 0,5x (=?g)
+Palsternakkajuuri | 1x (=?g)
+Porkkana | 3x (=?g)
+Jäähtyneet vihreät herneet | 450 g
+Jäähtyneet vihreät palot | 400g
+Punainen paprika | 1x (=?g)
+Vihreä paprika | 1x (=?g)
+Keltainen paprika | 1x (=?g)
+Tomaatti | 5x (=?g)
+Tilli | 3x (=?g)
+Persilja | 3x (=?g)
+Lovage | 3x (=?g)
+Suola | Maun mukaan (suositus ?g)
+Mausteet | Maun mukaan
+
+Tarvittavat keittiövälineet:
+Pannu, jonka tilavuus on vähintään 10 litraa
+Lusikka (mieluiten puinen), jonka pituus on vähintään 20 cm
+Veitsi
+Leikkuulauta
+
+Valmisteluvaiheet:
+Kuori, puhdista ja leikkaa vihannekset. Bittien tulee olla keskikokoisia lyhyen kiehumisajan ajaksi.
+Laita kattilaan litra vettä. Käytä suurta uunisilmää.
+Lisää selleri- ja palsternakkapalat.
+Kytke lieden silmukka päälle. Käytä vaihtoehtoa korkea liekki tai korkea lämpötila.
+Kun vesi alkaa kiehua, anna kiehua noin 10(?) minuuttia.
+Lisää porkkanapalat. Lisää vettä, kunnes kaikki palat ovat veden alla. Sekoita hyvin.
+Anna kiehua noin 10(?) minuuttia.
+Lisää perunapalat. Lisää vettä, kunnes kaikki palat ovat veden alla. Sekoita hyvin.
+Anna kiehua noin 20(?) minuuttia.
+Lisää jähmettyneet vihreät herneet ja vihreät palot. Lisää vettä, kunnes kaikki palat ovat veden alla. Sekoita hyvin.
+Kun vesi alkaa kiehua, anna kiehua noin 5(?) minuuttia.
+Lisää paprika, tomaatit, tilli, persilja ja leipäpalat.
+Lisää suola ja mausteet. Lisää vettä, kunnes kaikki palat ovat veden alla. Sekoita hyvin.
+Kun vesi alkaa kiehua, anna kiehua noin 10(?) minuuttia.
+Sammuta liesi. Anna seistä noin 20-30 minuuttia.
+
+Makroravinteet: _macro\1.json
+
+Mikroravinteet: _micro\1.json

@@ -1,0 +1,51 @@
+Mata duree: Shorbaa kuduraa
+
+Biyya ka'umsaa: Rumaaniyaa
+
+Kutaalee: 12
+
+Yeroo qophii: 1.5h - 2.5h
+
+Mi'a dheedhii:
+Boqqolloo | 2000g
+Hundee seelerii | 0.5x (=?g) .
+Hundee parsnip | 1x (=?g) .
+Kaarotaa | 3x (=?g) .
+Baaqelaa magariisa jajjaboo | 450g ta’a
+Poodii magariisa jajjaboo | 400g ta’a
+Burtukaana diimaa | 1x (=?g) .
+Burtukaana magariisa | 1x (=?g) .
+Burtukaana keelloo belbelaa | 1x (=?g) .
+Timaatima | 5x (=?g) .
+Dill | 3x (=?g) .
+Parsley | 3x (=?g) .
+Jaalalaa | 3x (=?g) .
+Soogidda | Akka mi’aa (gorfameetti ?g) .
+Mi'eessituuwwan | Akka mi'aatti
+
+Meeshaalee mana nyaataa barbaachisan:
+Qodaa ulfaatina xiqqaan 10L qabu
+Spoon (muka irraa yoo ta’e filatamaadha) dheerinni isaa xiqqaan 20cm
+Haaduu
+Gabatee muraa
+
+Tarkaanfiiwwan qophii: 1.1.
+Kuduraalee sana gogaa irraa baasuu, qulqulleessuu fi muraa. Bitiiwwan yeroo bullaa’uu xiqqaadhaaf guddina giddu galeessaa qabaachuu qabu.
+Bishaan liitira tokko qodaa keessa kaa'i. Ija iddoo ibiddaa guddaa fayyadamaa.
+Seelerii fi parsnip bits itti dabali.
+Ija iddoo ibiddaa qabsiisi. Filannoo abidda ol’aanaa ykn ho’a ol’aanaa fayyadami.
+Bishaan erga boba’uu jalqabee booda tilmaamaan daqiiqaa 10(?)f akka boba’u gochuu.
+Ciccitaa kaarotaa itti dabali. Hanga bittiin hundi bishaan keessa lixutti bishaan itti dabali. Akka gaariitti walitti makuu.
+Tilmaamaan daqiiqaa 10(?)f akka boba’u gochuu.
+Boqqolloo itti dabali. Hanga bittiin hundi bishaan keessa lixutti bishaan itti dabali. Akka gaariitti walitti makuu.
+Tilmaamaan daqiiqaa 20(?)f akka boba’u gochuu.
+Baaqelaa magariisa jabaatee fi pods magariisaa itti dabali. Hanga bittiin hundi bishaan keessa lixutti bishaan itti dabali. Akka gaariitti walitti makuu.
+Bishaan erga boba’uu jalqabee booda tilmaamaan daqiiqaa 5(?)f akka boba’u gochuu.
+Birbirsa, timaatima, diil, parsley fi lovage bits itti dabali.
+Soogidda fi mi'eessituu itti dabali. Hanga bittiin hundi bishaan keessa lixutti bishaan itti dabali. Akka gaariitti walitti makuu.
+Bishaan erga boba’uu jalqabee booda tilmaamaan daqiiqaa 10(?)f akka boba’u gochuu.
+Ija iddoo ibiddaa cufaa. Tilmaamaan daqiiqaa 20-30f taa'uu.
+
+Nyaata maakroo: _macro\1.json
+
+Nyaata xiqqaa: _micro\1.json

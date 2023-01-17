@@ -1,0 +1,51 @@
+Titill: Grænmetisúpa
+
+Upprunaland: Rúmenía
+
+Skammtar: 12
+
+Undirbúningstími: 1,5 klst - 2,5 klst
+
+Hráefni:
+Kartöflur | 2000g
+Sellerírót | 0,5x (=?g)
+Rót af palsnikki | 1x (=?g)
+Gulrót | 3x (=?g)
+Storknar grænar baunir | 450 g
+Storknuð græn fræbelgur | 400g
+Rauð paprika | 1x (=?g)
+Græn paprika | 1x (=?g)
+Gul paprika | 1x (=?g)
+Tómatar | 5x (=?g)
+Dill | 3x (=?g)
+Steinselja | 3x (=?g)
+Lovage | 3x (=?g)
+Salt | Eftir smekk (ráðlagt ?g)
+Krydd | Eftir smekk
+
+Nauðsynleg eldhúsáhöld:
+Pottur að lágmarki 10L
+Skeið (helst tré) með lágmarkslengd 20cm
+Hnífur
+Skurðarbretti
+
+Undirbúningsskref:
+Afhýðið, hreinsið og skerið grænmetið. Bitarnir eiga að vera meðalstórir í smá suðutíma.
+Setjið einn lítra af vatni í pottinn. Notaðu stóra eldavélaaugað.
+Bætið selleríinu og pastinip bitunum út í.
+Kveiktu á eldavélaaugunni. Notaðu valkostinn fyrir háan loga eða háan hita.
+Eftir að vatnið byrjar að sjóða, látið sjóða í um það bil 10(?) mínútur.
+Bætið gulrótarbitunum út í. Bætið við vatni þar til allir bitarnir eru á kafi. Blandið vel saman.
+Látið sjóða í um það bil 10(?) mínútur.
+Bætið kartöflubitunum út í. Bætið við vatni þar til allir bitarnir eru á kafi. Blandið vel saman.
+Látið sjóða í um það bil 20(?) mínútur.
+Bætið við steiktum grænum baunum og grænum fræbelgjum. Bætið við vatni þar til allir bitarnir eru á kafi. Blandið vel saman.
+Eftir að vatnið byrjar að sjóða, látið sjóða í um það bil 5(?) mínútur.
+Bætið við papriku, tómötum, dilli, steinselju og sleikjubitum.
+Bætið salti og kryddi saman við. Bætið við vatni þar til allir bitarnir eru á kafi. Blandið vel saman.
+Eftir að vatnið byrjar að sjóða, látið sjóða í um það bil 10(?) mínútur.
+Slökktu á eldavélaaugunni. Látið standa í um það bil 20-30 mínútur.
+
+Macronutrients: _macro\1.json
+
+Örnæringarefni: _micro\1.json

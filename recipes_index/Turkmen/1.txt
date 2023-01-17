@@ -1,0 +1,51 @@
+Ady: Gök önüm çorbasy
+
+Gelip çykan ýurdy: Rumyniýa
+
+Bölümler: 12
+
+Taýýarlyk wagty: 1.5s - 2,5s
+
+Goşundylar:
+Kartoş | 2000g
+Selderiniň kökü | 0,5x (=? G)
+Parsnip kök | 1x (=? G)
+Käşir | 3x (=? G)
+Uzyn gök nohut | 450g
+Uzaldylan ýaşyl gabyklar | 400g
+Gyzyl jaň burç | 1x (=? G)
+Greenaşyl jaň burç | 1x (=? G)
+Sary jaň burç | 1x (=? G)
+Pomidor | 5x (=? G)
+Şüweleň | 3x (=? G)
+Petruşka | 3x (=? G)
+Söýgi | 3x (=? G)
+Duz | Tagamyna görä (maslahat berilýärmi? G)
+Şertler | Tagamyna görä
+
+Gerekli aşhana gap-gaçlary:
+Iň az mukdary 10L bolan gazana
+Iň az uzynlygy 20 sm bolan çemçe (has gowusy agaç)
+Pyçak
+Kesiş tagtasy
+
+Taýýarlyk ädimleri:
+Gök önümleri gabyň, arassalaň we kesiň. Bitler az gaýnap duran wagt üçin orta ululykda bolmaly.
+Gazana bir litr suw guýuň. Uly peç gözüni ulanyň.
+Selderey we parsnip bitlerini goşuň.
+Peçiň gözüni açyň. Ameokary alaw ýa-da ýokary temperatura görnüşini ulanyň.
+Suw gaýnap başlansoň, takmynan 10 (?) Minut gaýnadyň.
+Käşir böleklerini goşuň. Thehli bitler suwa düşýänçä suw goşuň. Gowy garmaly.
+Takmynan 10 (?) Minut gaýnatmaly.
+Kartoşka böleklerini goşuň. Thehli bitler suwa düşýänçä suw goşuň. Gowy garmaly.
+Takmynan 20 (?) Minut gaýnatmaly.
+Greenaşyl nohut we ýaşyl sogan goşuň. Thehli bitler suwa düşýänçä suw goşuň. Gowy garmaly.
+Suw gaýnap başlansoň, takmynan 5 (?) Minut gaýnadyň.
+Jaň burçuny, pomidor, ukrop, petruşka we söýgüli bölekleri goşuň.
+Duz we ýakymly zatlary goşuň. Thehli bitler suwa düşýänçä suw goşuň. Gowy garmaly.
+Suw gaýnap başlansoň, takmynan 10 (?) Minut gaýnadyň.
+Peçiň gözüni öçüriň. Takmynan 20-30 minut oturmaga goýuň.
+
+Makronutrientler: _macro \ 1.json
+
+Mikroelementler: _mikro \ 1.json

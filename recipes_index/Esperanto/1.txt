@@ -1,0 +1,51 @@
+Titolo: Legoma supo
+
+Devenlando: Rumanio
+
+Porcioj: 12
+
+Prepara tempo: 1.5h - 2.5h
+
+Ingrediencoj:
+Terpomoj | 2000 g
+Celeriradiko | 0,5x (=?g)
+Pastinaka radiko | 1x (=?g)
+Karoto | 3x (=?g)
+Frostigitaj verdaj pizoj | 450 g
+Frostigitaj verdaj gusoj | 400 g
+Ruĝa pipro | 1x (=?g)
+Verda pipro | 1x (=?g)
+Flava pipro | 1x (=?g)
+Tomato | 5x (=?g)
+Aneto | 3x (=?g)
+Petroselo | 3x (=?g)
+Lovage | 3x (=?g)
+Salo | Laŭ gusto (rekomendita ?g)
+Kondimentoj | Laŭ gusto
+
+Bezonataj kuirejaj iloj:
+Poto kun minimuma volumeno de 10L
+Kulero (prefere ligna) kun minimuma longo de 20 cm
+Tranĉilo
+Tranĉtabulo
+
+Preparaj paŝoj:
+Senŝeligi, purigi kaj tranĉi la legomojn. La pecoj devas esti mezgrandaj por malgranda bolanta tempo.
+Metu unu litron da akvo en la poton. Uzu la grandan fornon okulon.
+Aldonu la celeriojn kaj pastinakajn pecojn.
+Enŝaltu la fornon okulon. Uzu la altan flamon aŭ altan temperaturon.
+Post kiam la akvo ekbolis, lasu boli dum proksimume 10(?) minutoj.
+Aldonu la karotajn pecojn. Aldonu akvon ĝis ĉiuj pecoj estas mergitaj. Miksu bone.
+Lasu boli dum proksimume 10(?) minutoj.
+Aldonu la terpompecojn. Aldonu akvon ĝis ĉiuj pecoj estas mergitaj. Miksu bone.
+Lasu boli dum proksimume 20(?) minutoj.
+Aldonu la frostigitajn verdajn pizojn kaj verdajn gusojn. Aldonu akvon ĝis ĉiuj pecoj estas mergitaj. Miksu bone.
+Post kiam la akvo ekbolis, lasu boli dum proksimume 5(?) minutoj.
+Aldonu la sonorilpipron, tomatojn, aneton, petroselolon kaj lovaj pecetojn.
+Aldonu la salon kaj kondimentojn. Aldonu akvon ĝis ĉiuj pecoj estas mergitaj. Miksu bone.
+Post kiam la akvo ekbolis, lasu boli dum proksimume 10(?) minutoj.
+Malŝaltu la fornon okulon. Lasu sidi dum proksimume 20-30 minutoj.
+
+Makronutraĵoj: _makro\1.json
+
+Mikronutraĵoj: _micro\1.json

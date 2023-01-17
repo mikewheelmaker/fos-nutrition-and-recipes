@@ -1,0 +1,51 @@
+Titel: Grøntsagssuppe
+
+Oprindelsesland: Rumænien
+
+Portioner: 12
+
+Forberedelsestid: 1,5 timer - 2,5 timer
+
+Ingredienser:
+Kartofler | 2000 g
+Selleri rod | 0,5x (=?g)
+Pastinakrod | 1x (=?g)
+Gulerod | 3x (=?g)
+Stivnede grønne ærter | 450 g
+Stivnede grønne bælg | 400 g
+Rød peber | 1x (=?g)
+Grøn peberfrugt | 1x (=?g)
+Gul peberfrugt | 1x (=?g)
+Tomat | 5x (=?g)
+Dild | 3x (=?g)
+Persille | 3x (=?g)
+Lovage | 3x (=?g)
+Salt | Efter smag (anbefalet ?g)
+Krydderier | Efter smag
+
+Nødvendige køkkenredskaber:
+En gryde med et minimumsvolumen på 10L
+En ske (helst af træ) med en minimumslængde på 20 cm
+Kniv
+Skærebræt
+
+Forberedelsestrin:
+Skræl, rens og skær grøntsagerne. Bitsene skal være mellemstore i en lille kogetid.
+Kom en liter vand i gryden. Brug det store komfurøje.
+Tilsæt selleri og pastinak stykker.
+Tænd komfurøjet. Brug muligheden for høj flamme eller høj temperatur.
+Når vandet begynder at koge, lad det koge i cirka 10(?) minutter.
+Tilsæt gulerodsstykkerne. Tilsæt vand, indtil alle stykkerne er nedsænket. Bland godt.
+Lad det koge i cirka 10(?) minutter.
+Tilsæt kartoffelstykkerne. Tilsæt vand, indtil alle stykkerne er nedsænket. Bland godt.
+Lad det koge i cirka 20(?) minutter.
+Tilsæt de stivnede grønne ærter og grønne bælg. Tilsæt vand, indtil alle stykkerne er nedsænket. Bland godt.
+Når vandet begynder at koge, lad det koge i cirka 5(?) minutter.
+Tilsæt peberfrugt, tomater, dild, persille og løvstikkestykker.
+Tilsæt salt og krydderier. Tilsæt vand, indtil alle stykkerne er nedsænket. Bland godt.
+Når vandet begynder at koge, lad det koge i cirka 10(?) minutter.
+Sluk for komfurøjet. Lad sidde i cirka 20-30 minutter.
+
+Makronæringsstoffer: _macro\1.json
+
+Mikronæringsstoffer: _micro\1.json

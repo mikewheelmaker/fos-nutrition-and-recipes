@@ -1,0 +1,51 @@
+Izenburua: Barazki zopa
+
+Jatorrizko herrialdea: Errumania
+
+Zatiak: 12
+
+Prestaketa denbora: 1,5h - 2,5h
+
+Osagaiak:
+Patatak | 2000g
+Apioa erro | 0,5x (=?g)
+Pastina sustraia | 1x (=?g)
+Azenarioa | 3x (=?g)
+Ilar berde izoztuak | 450g
+Leka berde izoztuak | 400g
+Piper gorria | 1x (=?g)
+Piper berdea | 1x (=?g)
+Piper horia | 1x (=?g)
+Tomatea | 5x (=?g)
+Aneta | 3x (=?g)
+perrexila | 3x (=?g)
+Lobaia | 3x (=?g)
+Gatza | Gustuaren arabera (gomendatua ?g)
+Kondimentuak | Gustuaren arabera
+
+Beharrezko sukaldeko tresnak:
+Gutxieneko bolumena 10L-ko lapikoa
+Koilara bat (ahal bada egurrezkoa) gutxienez 20 cm-ko luzera duena
+Aiztoa
+Ebakitzeko taula
+
+Prestaketa urratsak:
+Barazkiak zuritu, garbitu eta moztu. Bitsak tamaina ertainekoak izan behar dira irakiten denbora txikian.
+Jarri litro bat ur lapikoan. Erabili sukaldeko begi handia.
+Gehitu apioa eta pastina zatiak.
+Piztu sukaldeko begia. Erabili su altuko edo tenperatura altuko aukera.
+Ura irakiten hasi ondoren, utzi irakiten gutxi gorabehera 10(?) minutuz.
+Gehitu azenario zatiak. Gehitu ura zati guztiak urperatu arte. Ondo nahastu.
+Utzi irakiten gutxi gorabehera 10(?) minutuz.
+Gehitu patata zatiak. Gehitu ura zati guztiak urperatu arte. Ondo nahastu.
+Utzi irakiten gutxi gorabehera 20(?) minutuz.
+Gehitu izoztutako ilar berdeak eta leka berdeak. Gehitu ura zati guztiak urperatu arte. Ondo nahastu.
+Ura irakiten hasi ondoren, utzi irakiten gutxi gorabehera 5(?) minutuz.
+Gehitu piperra, tomatea, aneta, perrexila eta lovage zatiak.
+Gehitu gatza eta ongailuak. Gehitu ura zati guztiak urperatu arte. Ondo nahastu.
+Ura irakiten hasi ondoren, utzi irakiten gutxi gorabehera 10(?) minutuz.
+Itzali sukaldeko begia. Utzi esertzen 20-30 minutu gutxi gorabehera.
+
+Makronutrienteak: _macro\1.json
+
+Mikronutrienteak: _micro\1.json

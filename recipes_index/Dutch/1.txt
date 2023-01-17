@@ -1,0 +1,51 @@
+Titel: Groentesoep
+
+Land van herkomst: Roemenië
+
+Porties: 12
+
+Bereidingstijd: 1,5u - 2,5u
+
+Ingrediënten:
+Aardappelen | 2000g
+Knolselderij | 0,5x (=?g)
+Pastinaak wortel | 1x (=?g)
+Wortel | 3x (=?g)
+Gestolde groene erwten | 450g
+Gestolde groene peulen | 400g
+Rode paprika | 1x (=?g)
+Groene paprika | 1x (=?g)
+Gele paprika | 1x (=?g)
+Tomaat | 5x (=?g)
+Dille | 3x (=?g)
+Peterselie | 3x (=?g)
+Lavas | 3x (=?g)
+Zout | Naar smaak (aanbevolen ?g)
+Specerijen | Volgens smaak
+
+Benodigd keukengerei:
+Een pot met een minimale inhoud van 10L
+Een lepel (bij voorkeur van hout) met een minimale lengte van 20cm
+Mes
+Snijplank
+
+Voorbereidingsstappen:
+Schil, maak schoon en snij de groenten. De stukjes moeten van gemiddelde grootte zijn voor een korte kooktijd.
+Doe een liter water in de pot. Gebruik het grote kacheloog.
+Voeg de stukjes bleekselderij en pastinaak toe.
+Zet het kacheloog aan. Gebruik de optie hoge vlam of hoge temperatuur.
+Nadat het water begint te koken, ongeveer 10(?) minuten laten koken.
+Voeg de stukjes wortel toe. Voeg water toe tot alle stukjes onder water staan. Goed mengen.
+Laat ongeveer 10(?) minuten koken.
+Voeg de stukjes aardappel toe. Voeg water toe tot alle stukjes onder water staan. Goed mengen.
+Laat ongeveer 20(?) minuten koken.
+Voeg de gestolde groene erwten en groene peulen toe. Voeg water toe tot alle stukjes onder water staan. Goed mengen.
+Nadat het water begint te koken, ongeveer 5(?) minuten laten koken.
+Voeg de paprika, tomaten, dille, peterselie en stukjes lavas toe.
+Voeg het zout en de specerijen toe. Voeg water toe tot alle stukjes onder water staan. Goed mengen.
+Nadat het water begint te koken, ongeveer 10(?) minuten laten koken.
+Zet het kacheloog uit. Laat ongeveer 20-30 minuten zitten.
+
+Macronutriënten: _macro\1.json
+
+Micronutriënten: _micro\1.json

@@ -1,0 +1,51 @@
+Títol: Sopa de verdures
+
+País d'origen: Romania
+
+Racions: 12
+
+Temps de preparació: 1,5h - 2,5h
+
+Ingredients:
+Patates | 2000 g
+arrel d'api | 0,5x (=?g)
+Arrel de pastinaca | 1x (=?g)
+pastanaga | 3x (=?g)
+Pèsols verds congelats | 450 g
+Beines verdes congelades | 400 g
+Pebrot vermell | 1x (=?g)
+Pebrot verd | 1x (=?g)
+Pebrot groc | 1x (=?g)
+Tomàquet | 5x (=?g)
+Anet | 3x (=?g)
+julivert | 3x (=?g)
+Llovatge | 3x (=?g)
+Sal | Segons gust (recomanat ?g)
+Condiments | Segons gust
+
+Estris de cuina necessaris:
+Una olla amb un volum mínim de 10L
+Una cullera (preferiblement de fusta) amb una longitud mínima de 20 cm
+Ganivet
+Taula de tallar
+
+Passos de preparació:
+Pelar, netejar i tallar les verdures. Els trossos han de ser de mida mitjana durant un petit temps d'ebullició.
+Poseu un litre d'aigua a l'olla. Utilitzeu l'ull gran de l'estufa.
+Afegiu-hi els trossos d'api i de xirivia.
+Enceneu l'ull de l'estufa. Utilitzeu l'opció de flama alta o alta temperatura.
+Quan l'aigua comenci a bullir, deixeu-ho bullir durant uns 10 (?) minuts.
+Afegiu els trossos de pastanaga. Afegiu aigua fins que tots els trossos estiguin submergits. Barrejar bé.
+Deixar bullir uns 10(?) minuts.
+Afegiu els trossos de patata. Afegiu aigua fins que tots els trossos estiguin submergits. Barrejar bé.
+Deixar bullir uns 20(?) minuts.
+Afegiu els pèsols verds congelats i les beines verdes. Afegiu aigua fins que tots els trossos estiguin submergits. Barrejar bé.
+Quan l'aigua comenci a bullir, deixeu-ho bullir durant uns 5 (?) minuts.
+Afegiu-hi el pebrot, els tomàquets, l'anet, el julivert i els trossos de llovès.
+Afegiu-hi la sal i els condiments. Afegiu aigua fins que tots els trossos estiguin submergits. Barrejar bé.
+Quan l'aigua comenci a bullir, deixeu-ho bullir durant uns 10 (?) minuts.
+Apagueu l'ull de l'estufa. Deixar reposar uns 20-30 minuts aproximadament.
+
+Macronutrients: _macro\1.json
+
+Micronutrients: _micro\1.json

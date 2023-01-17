@@ -1,0 +1,51 @@
+Tanya: Amagbewo ƒe mɔli
+
+Dukɔ si me wotso: Romania
+
+Akpawo: 12
+
+Dzadzraɖoɣi: 1.5h - 2.5h
+
+Nuɖanuwo:
+Mɔli | 2000g
+Seleri ƒe ke | 0.5x (=?g) ƒe xexlẽme.
+Parsnip ƒe ke | 1x (=?g) ƒe xexlẽme.
+Karɔt | 3x (=?g) ƒe xexlẽme.
+Peas dama siwo xɔ dzo | 450g ƒe kpekpeme
+Congealed green pods | 400g ƒe kpekpeme
+Atadi dzĩ | 1x (=?g) ƒe xexlẽme.
+Atadi dama si woyɔna be bell pepper | 1x (=?g) ƒe xexlẽme.
+Atadi ɣie | 1x (=?g) ƒe xexlẽme.
+Tomatos | 5x (=?g) ƒe xexlẽme.
+Dill | 3x (=?g) ƒe xexlẽme.
+Parsley ƒe lãgbalẽ | 3x (=?g) ƒe xexlẽme.
+Lɔlɔ̃ na ame | 3x (=?g) ƒe xexlẽme.
+Dze | Le vivisese nu (wokafui ?g) .
+Nuɖuɖuvivinuwo | Le vivisese nu
+
+Dzodoƒenuzazã siwo hiã:
+Ze si ƒe lolome mede 10L
+Kplu (anyo wu ne wotsɔ ati wɔe) si ƒe didime nye 20cm ya teti
+Hɛ
+Lãɖeɖe ƒe ʋuƒo
+
+Dzadzraɖo ƒe afɔɖeɖewo:
+Miɖe amagbeawo ɖa, kɔ wo ŋu eye miatso wo. Ele be kakɛawo nalolo le titina hena ɣeyiɣi sue aɖe si woaƒo.
+De tsi lita ɖeka zea me. Zã dzodoƒe ƒe ŋku gã la.
+Tsɔ seleri kple parsnip ƒe akpa siwo le eme la de eme.
+Trɔ dzodoƒea ƒe ŋku. Zã dzobibi si nu sẽ alo dzoxɔxɔ si nu sẽ ƒe tiatia.
+Ne tsia dze ƒoƒo gɔme vɔ la, gblẽe ɖi wòaƒo abe miniti 10(?) ene.
+Tsɔ karɔt kakɛawo de eme. Tsɔ tsi de eme vaseɖe esime kakɛawo katã nanyrɔ ɖe tsi me. Tsɔe tsaka nyuie.
+Gblẽe ɖi wòaƒo abe miniti 10(?) ene.
+Tsɔ mɔli kakɛawo de eme. Tsɔ tsi de eme vaseɖe esime kakɛawo katã nanyrɔ ɖe tsi me. Tsɔe tsaka nyuie.
+Gblẽe ɖi wòaƒo abe miniti 20(?) ene.
+Tsɔ peas dama siwo xɔ dzo kple aŋgba damawo de eme. Tsɔ tsi de eme vaseɖe esime kakɛawo katã nanyrɔ ɖe tsi me. Tsɔe tsaka nyuie.
+Ne tsia dze ƒoƒo gɔme vɔ la, gblẽe ɖi wòaƒo abe miniti 5(?) ene.
+Tsɔ atadi, tomatos, dill, parsley, kple lovage bits de eme.
+Tsɔ dze kple nuɖuɖuvivinuwo de eme. Tsɔ tsi de eme vaseɖe esime kakɛawo katã nanyrɔ ɖe tsi me. Tsɔe tsaka nyuie.
+Ne tsia dze ƒoƒo gɔme vɔ la, gblẽe ɖi wòaƒo abe miniti 10(?) ene.
+Tsi dzodoƒea ƒe ŋku. Na wòanɔ anyi abe miniti 20-30 ene.
+
+Nunyiame gãwo: _macro\1.json
+
+Nunyiame suesuesuewo: _micro\1.json

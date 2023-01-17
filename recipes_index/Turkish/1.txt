@@ -1,0 +1,51 @@
+Başlık: sebze çorbası
+
+menşe ülke: Romanya
+
+porsiyonlar: 12
+
+Hazırlama süresi: 1,5 saat - 2,5 saat
+
+İçindekiler:
+patates | 2000g
+kereviz kökü | 0,5x (=?g)
+Yaban havucu kökü | 1x (=?g)
+havuç | 3x (=?g)
+Dondurulmuş yeşil bezelye | 450g
+Donmuş yeşil bakla | 400g
+kırmızı dolmalık biber | 1x (=?g)
+Yeşil dolmalık biber | 1x (=?g)
+Sarı dolmalık biber | 1x (=?g)
+domates | 5x (=?g)
+dereotu | 3x (=?g)
+maydanoz | 3x (=?g)
+lavaj | 3x (=?g)
+Tuz | Zevke göre (önerilen ?g)
+çeşniler | zevke göre
+
+Gerekli mutfak gereçleri:
+Minimum hacmi 10L olan bir kap
+En az 20 cm uzunluğunda bir kaşık (tercihen tahta)
+Bıçak
+Kesme tahtası
+
+Hazırlık adımları:
+Sebzeleri soyun, temizleyin ve kesin. Bitler, küçük bir kaynama süresi için orta büyüklükte olmalıdır.
+Tencereye bir litre su koyun. Büyük ocak gözünü kullanın.
+Kereviz ve yaban havucu parçalarını ekleyin.
+Ocak gözünü açın. Yüksek alev veya yüksek sıcaklık seçeneğini kullanın.
+Su kaynamaya başladıktan sonra yaklaşık 10(?) dakika kaynamaya bırakın.
+Havuç parçalarını ekleyin. Tüm bitler daldırılana kadar su ekleyin. İyice karıştırın.
+Yaklaşık 10(?) dakika kaynamaya bırakın.
+Patates parçalarını ekleyin. Tüm bitler daldırılana kadar su ekleyin. İyice karıştırın.
+Yaklaşık 20(?) dakika kaynamaya bırakın.
+Dondurulmuş yeşil bezelye ve yeşil baklaları ekleyin. Tüm bitler daldırılana kadar su ekleyin. İyice karıştırın.
+Su kaynamaya başladıktan sonra yaklaşık 5(?) dakika kaynamaya bırakın.
+Dolmalık biber, domates, dereotu, maydanoz ve lavaj parçalarını ekleyin.
+Tuz ve baharatları ekleyin. Tüm bitler daldırılana kadar su ekleyin. İyice karıştırın.
+Su kaynamaya başladıktan sonra yaklaşık 10(?) dakika kaynamaya bırakın.
+Ocak gözünü kapat. Yaklaşık 20-30 dakika oturmaya bırakın.
+
+Makro besinler: _macro\1.json
+
+Mikro besinler: _micro\1.json

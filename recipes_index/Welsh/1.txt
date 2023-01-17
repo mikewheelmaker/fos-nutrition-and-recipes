@@ -1,0 +1,51 @@
+Title: Cawl llysiau
+
+Gwlad wreiddiol: Rwmania
+
+Dognau: 12
+
+Amser paratoi: 1.5h - 2.5h
+
+Cynhwysion:
+Tatws | 2000g
+Gwraidd seleri | 0.5x (=?g)
+Gwraidd pannas | 1x (=?g)
+Moronen | 3x (=?g)
+Pys gwyrdd congealed | 450g
+Podiau gwyrdd congealed | 400g
+Pupur cloch coch | 1x (=?g)
+Pupur cloch gwyrdd | 1x (=?g)
+Pupur cloch melyn | 1x (=?g)
+Tomato | 5x (=?g)
+Dill | 3x (=?g)
+Persli | 3x (=?g)
+Cariadaeth | 3x (=?g)
+Halen | Yn ôl blas (argymhellir ?g)
+Cynfennau | Yn ôl blas
+
+Offer cegin gofynnol:
+Pot gydag isafswm cyfaint o 10L
+Llwy (pren yn ddelfrydol) gyda hyd o leiaf 20cm
+Cyllell
+Bwrdd torri
+
+Camau paratoi:
+Piliwch, glanhewch a thorrwch y llysiau. Dylai'r darnau fod o faint canolig am amser berwi bach.
+Rhowch un litr o ddŵr yn y pot. Defnyddiwch y llygad stôf fawr.
+Ychwanegwch y darnau seleri a pannas.
+Trowch ar y llygad stôf. Defnyddiwch yr opsiwn fflam uchel neu dymheredd uchel.
+Ar ôl i'r dŵr ddechrau berwi, gadewch i ferwi am tua 10(?) munud.
+Ychwanegwch y darnau moron. Ychwanegwch ddŵr nes bod yr holl ddarnau wedi'u boddi. Cymysgwch yn dda.
+Gadewch i ferwi am tua 10(?) munud.
+Ychwanegwch y darnau tatws. Ychwanegwch ddŵr nes bod yr holl ddarnau wedi'u boddi. Cymysgwch yn dda.
+Gadewch i ferwi am tua 20(?) munud.
+Ychwanegwch y pys gwyrdd congealed a'r codennau gwyrdd. Ychwanegwch ddŵr nes bod yr holl ddarnau wedi'u boddi. Cymysgwch yn dda.
+Ar ôl i'r dŵr ddechrau berwi, gadewch iddo ferwi am tua 5(?) munud.
+Ychwanegwch y pupur cloch, tomatos, dil, persli a darnau lovage.
+Ychwanegwch halen a chynfennau. Ychwanegwch ddŵr nes bod yr holl ddarnau wedi'u boddi. Cymysgwch yn dda.
+Ar ôl i'r dŵr ddechrau berwi, gadewch i ferwi am tua 10(?) munud.
+Trowch oddi ar y llygad stôf. Gadewch i eistedd am tua 20-30 munud.
+
+Macrofaethynnau: _macro\1.json
+
+Microfaetholion: _micro\1.json

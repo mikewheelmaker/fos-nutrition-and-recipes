@@ -1,0 +1,51 @@
+Sehlooho: Sopho ea meroho
+
+Naha ea tsoalo: Romania
+
+Likarolo: 12
+
+Nako ea ho itokisa: 1.5h - 2.5h
+
+Lisebelisoa:
+Litapole | 2000g
+Motso oa Celery | 0.5x (=?g)
+Motso oa Parsnip | 1x (=?g)
+Carrot | 3x (=?g)
+Lierekisi tse tala tse khotliloeng | 450g
+Liphotjana tse tala tse khotliloeng | 400g
+Pepere e khubelu ea tšepe | 1x (=?g)
+Pepere e tala | 1x (=?g)
+Pepere e mosehla | 1x (=?g)
+tamati | 5x (=?g)
+Dille | 3x (=?g)
+Parsley | 3x (=?g)
+Lovage | 3x (=?g)
+Letsoai | Ho ea ka tatso (e khothaletsoa ?g)
+Condiments | Ho latela tatso
+
+Lisebelisoa tse hlokahalang tsa kichineng:
+Pitsa e nang le boholo ba bonyane ba 10L
+Khaba (ka ho khetheha lehong) e nang le bonyane bolelele ba 20cm
+Thipa
+Boto ea ho itšeha
+
+Mehato ea ho itokisa:
+Ebola, hloekisa 'me u khaole meroho. Likotoana li lokela ho ba tsa boholo bo bohareng bakeng sa nako e nyenyane ea ho bela.
+Kenya litara e le 'ngoe ea metsi ka pitseng. Sebelisa leihlo le leholo la setofo.
+Kenya likotoana tsa celery le parsnip.
+Bulela leihlo la setofo. Sebelisa lelakabe le phahameng kapa mocheso o phahameng.
+Ka mor'a hore metsi a qale ho bela, tlohela ho pheha ka metsotso e ka bang 10 (?).
+Kenya likotoana tsa rantipole. Kenya metsi ho fihlela likotoana tsohle li qoelisoa. Kopanya hantle.
+E tlohele ho pheha metsotso e ka bang 10 (?).
+Kenya likotoana tsa litapole. Kenya metsi ho fihlela likotoana tsohle li qoelisoa. Kopanya hantle.
+E tlohele ho pheha metsotso e ka bang 20 (?).
+Kenya lierekisi tse tala tse kopantsoeng le li-pods tse tala. Kenya metsi ho fihlela likotoana tsohle li qoelisoa. Kopanya hantle.
+Ka mor'a hore metsi a qale ho bela, tlohela ho pheha ka metsotso e ka bang 5 (?).
+Eketsa pepere ea tšepe, tamati, dill, parsley le likotoana tsa lovage.
+Kenya letsoai le li-condiments. Kenya metsi ho fihlela likotoana tsohle li qoelisoa. Kopanya hantle.
+Ka mor'a hore metsi a qale ho bela, tlohela ho pheha ka metsotso e ka bang 10 (?).
+Tima leihlo la setofo. Tlohela ho lula metsotso e ka bang 20-30.
+
+Macronutrients: _macro\1.json
+
+Limatlafatsi tse nyane: _micro\1.json

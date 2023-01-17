@@ -1,0 +1,51 @@
+Omutwe: Ssupu w’enva endiirwa
+
+Ensi gye yasibuka: Romania
+
+Ebitundu: 12
+
+Obudde bw'okuteekateeka: 1.5h - 2.5h
+
+Ebirungo:
+Ebitooke | 2000g
+Ekikolo kya seleri | 0.5x (=?g) .
+Ekikolo kya parsnip | 1x (=?g) .
+Kaloti | 3x (=?g) .
+Entangawuuzi eza kiragala ezinywedde | 450g
+Ebikoola ebya kiragala ebizimba | 400g
+Entungo emmyufu | 1x (=?g) .
+Entungo eya kiragala | 1x (=?g) .
+Entungo ya kyenvu | 1x (=?g) .
+Ennyaanya | 5x (=?g) .
+Dill | 3x (=?g) .
+Parsley | 3x (=?g) .
+Lovage | 3x (=?g) .
+Omunnyo | Okusinziira ku buwoomi (ekisemba ?g) .
+Ebirungo ebiwoomerera | Okusinziira ku buwoomi
+
+Ebikozesebwa mu ffumbiro ebyetaagisa:
+Ekiyungu nga kirimu obuzito obutono ennyo obwa 10L
+Ekijiiko (ekisinga okuba eky’embaawo) nga tekirina buwanvu bwa sentimita 20
+Ekiso
+Olubaawo olusala
+
+Emitendera gy’okuteekateeka:
+Enva endiirwa zisekule, ziyonje era zisale. Ebitundutundu birina okuba nga bya sayizi ya wakati okumala akaseera katono nga bifumbiddwa.
+Teeka liita emu ey’amazzi mu kiyungu. Kozesa eriiso ly’e sitoovu ennene.
+Oluvannyuma ssaako ebitundu bya seleri ne parsnip.
+Ggyako eriiso lya sitoovu. Kozesa enkola ya high flame oba high temperature.
+Amazzi bwe gamala okutandika okufumba, galeke gafumbe okumala eddakiika nga 10(?).
+Oluvannyuma ssaako ebitundu bya kaloti. Teekamu amazzi okutuusa ng’ebitundu byonna binyweredde mu mazzi. Tabula bulungi.
+Leka efumbe okumala eddakiika nga 10(?).
+Oluvannyuma ssaako ebitundu by’amatooke. Teekamu amazzi okutuusa ng’ebitundu byonna binyweredde mu mazzi. Tabula bulungi.
+Leka efumbe okumala eddakiika nga 20(?).
+Oluvannyuma ssaako entangawuuzi eza kiragala ezinywedde n’ebikoola ebibisi. Teekamu amazzi okutuusa ng’ebitundu byonna binyweredde mu mazzi. Tabula bulungi.
+Amazzi bwe gamala okutandika okufumba, galeke gafumbe okumala eddakiika nga 5(?).
+Oluvannyuma ssaako entungo, ennyaanya, dill, parsley ne lovage bits.
+Oluvannyuma ssaako omunnyo n’ebirungo ebiwoomerera. Teekamu amazzi okutuusa ng’ebitundu byonna binyweredde mu mazzi. Tabula bulungi.
+Amazzi bwe gamala okutandika okufumba, galeke gafumbe okumala eddakiika nga 10(?).
+Ggyako eriiso lya sitoovu. Leka etuule okumala eddakiika nga 20-30.
+
+Ebiriisa ebinene: _macro\1.json
+
+Ebiriisa ebitonotono: _micro\1.json

@@ -1,0 +1,51 @@
+Título: Sopa de Legumes
+
+País de origem: Romênia
+
+Porções: 12
+
+Tempo de preparação: 1,5h - 2,5h
+
+Ingredientes:
+Batatas | 2000g
+Raiz de aipo | 0,5x (=?g)
+Raiz de pastinaca | 1x (=?g)
+Cenoura | 3x (=?g)
+Ervilhas congeladas | 450g
+Vagens verdes congeladas | 400g
+pimentão vermelho | 1x (=?g)
+pimentão verde | 1x (=?g)
+pimentão amarelo | 1x (=?g)
+Tomate | 5x (=?g)
+Endro | 3x (=?g)
+Salsa | 3x (=?g)
+Amor | 3x (=?g)
+Sal | A gosto (recomendado ?g)
+Condimentos | De acordo com o gosto
+
+Utensílios de cozinha necessários:
+Um pote com um volume mínimo de 10L
+Uma colher (de preferência de madeira) com comprimento mínimo de 20cm
+Faca
+Tábua de cortar
+
+Etapas de preparação:
+Descasque, limpe e corte os legumes. Os bits devem ser de tamanho médio para um pequeno tempo de fervura.
+Coloque um litro de água na panela. Use o olho grande do fogão.
+Adicione os pedaços de aipo e pastinaca.
+Ligue o olho do fogão. Use a opção de alta chama ou alta temperatura.
+Depois que a água começar a ferver, deixe ferver por aproximadamente 10 (?) minutos.
+Adicione os pedaços de cenoura. Adicione água até que todos os pedaços estejam submersos. Misture bem.
+Deixe ferver por aproximadamente 10 (?) minutos.
+Adicione os pedaços de batata. Adicione água até que todos os pedaços estejam submersos. Misture bem.
+Deixe ferver por aproximadamente 20(?) minutos.
+Adicione as ervilhas congeladas e as vagens verdes. Adicione água até que todos os pedaços estejam submersos. Misture bem.
+Depois que a água começar a ferver, deixe ferver por aproximadamente 5 (?) minutos.
+Adicione o pimentão, tomate, endro, salsa e pedaços de amor.
+Adicione o sal e os condimentos. Adicione água até que todos os pedaços estejam submersos. Misture bem.
+Depois que a água começar a ferver, deixe ferver por aproximadamente 10 (?) minutos.
+Desligue o olho do fogão. Deixe descansar por aproximadamente 20-30 minutos.
+
+Macronutrientes: _macro\1.json
+
+Micronutrientes: _micro\1.json

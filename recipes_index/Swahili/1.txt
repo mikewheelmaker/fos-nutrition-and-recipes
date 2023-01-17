@@ -1,0 +1,51 @@
+Kichwa: Supu ya mboga
+
+Nchi ya asili: Romania
+
+Sehemu: 12
+
+Wakati wa maandalizi: 1.5h - 2.5h
+
+Viungo:
+Viazi | 2000g
+Mzizi wa celery | 0.5x (=?g)
+Mzizi wa Parsnip | 1x (=?g)
+Karoti | 3x (=?g)
+Mbaazi za kijani zilizoganda | 450g
+Maganda ya kijani yaliyoganda | 400g
+Pilipili kengele nyekundu | 1x (=?g)
+Pilipili ya kijani kibichi | 1x (=?g)
+pilipili hoho | 1x (=?g)
+Nyanya | 5x (=?g)
+Dili | 3x (=?g)
+Parsley | 3x (=?g)
+Upendo | 3x (=?g)
+Chumvi | Kulingana na ladha (inapendekezwa ?g)
+Vitoweo | Kulingana na ladha
+
+Vyombo vya jikoni vinavyohitajika:
+Sufuria yenye kiwango cha chini cha lita 10
+Kijiko (ikiwezekana mbao) na urefu wa chini wa 20cm
+Kisu
+Bodi ya kukata
+
+Hatua za maandalizi:
+Osha, safi na ukate mboga. Vipande vinapaswa kuwa vya ukubwa wa kati kwa muda mdogo wa kuchemsha.
+Weka lita moja ya maji kwenye sufuria. Tumia jicho kubwa la jiko.
+Ongeza vipande vya celery na parsnip.
+Washa jicho la jiko. Tumia chaguo la moto wa juu au joto la juu.
+Baada ya maji kuanza kuchemka, acha yachemke kwa takriban dakika 10(?).
+Ongeza vipande vya karoti. Ongeza maji hadi bits zote zimezama. Changanya vizuri.
+Wacha ichemke kwa takriban dakika 10 (?).
+Ongeza vipande vya viazi. Ongeza maji hadi bits zote zimezama. Changanya vizuri.
+Acha ichemke kwa takriban dakika 20 (?).
+Ongeza mbaazi za kijani zilizoganda na maganda ya kijani. Ongeza maji hadi bits zote zimezama. Changanya vizuri.
+Baada ya maji kuanza kuchemka, acha yachemke kwa takriban dakika 5(?).
+Ongeza pilipili hoho, nyanya, bizari, parsley, na vipande vya lovage.
+Ongeza chumvi na viungo. Ongeza maji hadi vipande vyote vimezama. Changanya vizuri.
+Baada ya maji kuanza kuchemka, acha yachemke kwa takriban dakika 10(?).
+Zima jicho la jiko. Acha kukaa kwa takriban dakika 20-30.
+
+Virutubisho vingi: _macro\1.json
+
+Virutubisho vidogo: _micro\1.json

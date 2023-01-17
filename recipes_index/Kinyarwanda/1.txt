@@ -1,0 +1,51 @@
+Umutwe: Isupu y'imboga
+
+Igihugu bakomokamo: Rumaniya
+
+Ibice: 12
+
+Igihe cyo kwitegura: 1.5h - 2.5h
+
+Ibigize:
+Ibirayi | 2000g
+Imizi ya seleri | 0.5x (=? G)
+Imizi ya Parsnip | 1x (=? G)
+Karoti | 3x (=? G)
+Amashaza y'icyatsi kibisi | 450g
+Icyatsi kibisi gifunze | 400g
+Urusenda rutukura | 1x (=? G)
+Icyatsi kibisi | 1x (=? G)
+Urusenda rw'umuhondo | 1x (=? G)
+Inyanya | 5x (=? G)
+Dill | 3x (=? G)
+Parsley | 3x (=? G)
+Urukundo | 3x (=? G)
+Umunyu | Ukurikije uburyohe (bisabwa? G)
+Ibyifuzo | Ukurikije uburyohe
+
+Ibikoresho bikenerwa mu gikoni:
+Inkono ifite ubunini buke bwa 10L
+Ikiyiko (byaba byiza ibiti) gifite uburebure bwa 20cm
+Icyuma
+Ikibaho
+
+Intambwe zo kwitegura:
+Kuramo, gusukura no guca imboga. Ibice bigomba kuba bifite ubunini buciriritse mugihe gito cyo guteka.
+Shira litiro imwe y'amazi mu nkono. Koresha ijisho rinini.
+Ongeramo seleri na parsnip bits.
+Zingurura ijisho. Koresha urumuri rwo hejuru cyangwa ubushyuhe bwo hejuru.
+Amazi amaze gutangira kubira, usige kubira muminota 10 (?).
+Ongeramo karoti. Ongeramo amazi kugeza ibice byose byarohamye. Kuvanga neza.
+Kureka guteka muminota igera ku 10 (?).
+Ongeramo ibirayi. Ongeramo amazi kugeza ibice byose byarohamye. Kuvanga neza.
+Kureka guteka muminota igera kuri 20 (?).
+Ongeramo amashaza yicyatsi hamwe nicyatsi kibisi. Ongeramo amazi kugeza ibice byose byarohamye. Kuvanga neza.
+Amazi amaze gutangira kubira, usige kubira muminota igera kuri 5 (?).
+Ongeramo urusenda, inyanya, dill, parisile, na bits za lovage.
+Ongeramo umunyu hamwe nibisobanuro. Ongeramo amazi kugeza ibice byose byarohamye. Kuvanga neza.
+Amazi amaze gutangira kubira, usige kubira muminota 10 (?).
+Zimya ijisho ry'itanura. Kureka kwicara hafi iminota 20-30.
+
+Makronutrients: _macro \ 1.json
+
+Micronutrients: _micro \ 1.json

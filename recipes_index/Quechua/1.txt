@@ -1,0 +1,51 @@
+Titulo: Sopa de verduras
+
+Mama llaqta: Rumania
+
+T’aqakuna: 12
+
+Wakichiy pacha: 1,5h - 2,5h
+
+Kaqninkuna:
+Papas | 2000g
+Apio saphi | 0,5x (=?g) nisqa.
+Parsnip saphi | 1x (=?g) .
+Zanahoria | 3x (=?g) .
+Verde guisantes congeladas | 450g
+Verde vainas congeladas | 400g
+Puka campana pimiento | 1x (=?g) .
+Verde campana pimiento | 1x (=?g) .
+Q'illu campana pimiento | 1x (=?g) .
+Tomate | 5x (=?g) .
+Eneldo | 3x (=?g) .
+Perejil | 3x (=?g) .
+Lovage | 3x (=?g) .
+Kachi | Gustoman hina (recomendasqa ?g) .
+Condimentos nisqakuna | Gustoman hina
+
+Cocinapaq imakuna necesitakun: 1.1.
+Huk manka 10L nisqa volúmen mínimo nisqayuq
+Huk cuchara (aswan allinqa k’aspimanta) 20cm pisi sayayniyuq
+Kuchuna
+Kuchuna tabla
+
+Wakichinapaq ruwaykuna:
+Verdurakunataqa qaranta hurquspa, pichaspa, kuchuna. Chay bits nisqakunaqa chawpi sayayniyuqmi kanan pisi timpuy pachapaq.
+Mankaman huk litro unuta churay. Hatun estufa ñawita apaykachana.
+Chaymanqa apiotapas, pastinacatapas yapaykusun.
+Estufa ñawita llank’achiy. Alta nina utaq hatun ruphay akllanata llamk’achiy.
+Yaku timpuyta qallariptinqa yaqa 10(?) minutu timpunanpaq saqiy.
+Chaymanqa zanahoria phatmakunata yapaykuy. Llapan bitskuna unuman chinkaykunankama unuta yapay. Allinta chaqruna.
+Yaqa 10(?) minutu timpunanpaq saqiy.
+Papa phatmakunata yapaykuy. Llapan bitskuna unuman chinkaykunankama unuta yapay. Allinta chaqruna.
+Yaqa 20(?) minutu timpunanpaq saqiy.
+Chaymanqa q’uñisqa q’umir guisantes nisqakunata, q’umir vainas nisqakunata ima yapaykusun. Llapan bitskuna unuman chinkaykunankama unuta yapay. Allinta chaqruna.
+Yaku timpuyta qallariptinqa yaqa 5(?) minutu timpunanpaq saqiy.
+Chaymanqa pimiento campanilla, tomate, eneldo, perejil, lovage bits ima churana.
+Chaymanqa kachita, condimentokunata ima churana. Llapan bitskuna unuman chinkaykunankama unuta yapay. Allinta chaqruna.
+Yaku timpuyta qallariptinqa yaqa 10(?) minutu timpunanpaq saqiy.
+Estufa ñawita wañuchiy. Yaqa 20-30 minutu tiyananpaq saqiy.
+
+Macronutrientekuna: _macro\1.json
+
+Micronutrientekuna: _micro\1.json

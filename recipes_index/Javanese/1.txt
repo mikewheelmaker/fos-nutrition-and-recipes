@@ -1,0 +1,51 @@
+Judul : Sup sayur
+
+Negara asal: Romania
+
+Porsi: 12
+
+Wektu preparation: 1.5h - 2.5h
+
+bahan:
+Kentang | 2000g
+Oyod celery | 0,5x (=?g)
+Parsnip ROOT | 1x (=?g)
+wortel | 3x (=?g)
+Kacang ijo congealed | 450g
+polong ijo congealed | 400 g
+mrico abang | 1x (=?g)
+mrico ijo | 1x (=?g)
+mrica kuning | 1x (=?g)
+Tomat | 5x (=?g)
+Dilèh | 3x (=?g)
+Parsley | 3x (=?g)
+Lovage | 3x (=?g)
+uyah | Miturut rasa (dianjurake ?g)
+bumbu | Miturut rasa
+
+Perkakas pawon sing dibutuhake:
+Pot kanthi volume minimal 10L
+Sendok (luwih becik kayu) kanthi dawa minimal 20cm
+piso
+Papan motong
+
+Langkah-langkah persiapan:
+Kupas, resik lan potong sayuran. Bit kudu ukuran medium kanggo wektu nggodhok cilik.
+Sijine liter banyu ing pot. Gunakake mata kompor gedhe.
+Tambah celery lan parsnip bit.
+Nguripake mripat kompor. Gunakake pilihan nyala dhuwur utawa suhu dhuwur.
+Sawise banyu wiwit godhok, ninggalake kanggo godhok kanggo kira-kira 10 (?) menit.
+Tambahake bit wortel. Tambahake banyu nganti kabeh potongan kasebut tenggelam. Nyampur kanthi becik.
+Ninggalake godhok kurang luwih 10 (?) menit.
+Tambahake potongan kentang. Tambah banyu nganti kabeh bit wis submerged. Nyampur kanthi becik.
+Ninggalake godhok kurang luwih 20 (?) menit.
+Tambah kacang ijo congealed lan pods ijo. Tambahake banyu nganti kabeh potongan kasebut tenggelam. Nyampur kanthi becik.
+Sawise banyu wiwit godhok, ninggalake kanggo godhok kurang luwih 5 (?) menit.
+Tambah mrico lonceng, tomat, dill, parsley, lan bit lovage.
+Tambah uyah lan bumbu. Tambahake banyu nganti kabeh potongan kasebut tenggelam. Nyampur kanthi becik.
+Sawise banyu wiwit godhok, ninggalake kanggo godhok kanggo kira-kira 10 (?) menit.
+Pateni mripat kompor. Ninggalake njagong kira-kira 20-30 menit.
+
+Makronutrien: _makro\1.json
+
+Mikronutrien: _micro\1.json

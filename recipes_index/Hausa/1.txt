@@ -1,0 +1,51 @@
+Take: Miyan kayan lambu
+
+Ƙasar asali: Romania
+
+Rabo: 12
+
+Lokacin shiri: 1.5h - 2.5h
+
+Sinadaran:
+Dankali | 2000 g
+Tushen seleri | 0.5x (=?g)
+Tushen Parsnip | 1x (=?g)
+Karas | 3x (=?g)
+Koren wake mai ɗorewa | 450g
+Koren kwandon shara | 400 g
+Jan bell barkono | 1x (=?g)
+Koren kararrawa barkono | 1x (=?g)
+Yellow kararrawa barkono | 1x (=?g)
+Tumatir | 5x (=?g)
+Dill | 3x (=?g)
+Faski | 3x (=?g)
+Soyayya | 3x (=?g)
+Gishiri | Bisa ga dandano (an ba da shawarar ?g)
+Condiments | Bisa ga dandano
+
+Kayan dafa abinci da ake buƙata:
+Tukwane mai ƙaramin ƙarar 10L
+Cokali (zai fi dacewa katako) tare da mafi ƙarancin tsawon 20cm
+Wuka
+Yanke allo
+
+Matakan shiri:
+Kwasfa, tsaftace kuma yanke kayan lambu. Ragowar ya kamata su zama matsakaicin girma don ƙaramin lokacin tafasa.
+A zuba lita daya na ruwa a cikin tukunyar. Yi amfani da babban idon murhu.
+Ƙara seleri da faski.
+Kunna idon murhu. Yi amfani da babban harshen wuta ko zaɓin zafin jiki.
+Bayan ruwan ya fara tafasa, bar shi ya tafasa kamar minti 10 (?).
+Ƙara ragon karas. Ƙara ruwa har sai duk raƙuman ruwa sun nutse. Mix da kyau.
+Ka bar tafasa na tsawon mintuna 10 (?).
+Ƙara dankalin turawa. Ƙara ruwa har sai duk raƙuman ruwa sun nutse. Mix da kyau.
+Ka bar tafasa kamar minti 20 (?).
+Ƙara koren peas ɗin da aka murɗe da koren kwas ɗin. Ƙara ruwa har sai duk raƙuman ruwa sun nutse. Mix da kyau.
+Bayan ruwan ya fara tafasa, bar shi ya tafasa kamar minti 5 (?).
+Ƙara barkono mai kararrawa, tumatir, dill, faski, da raƙuman soyayya.
+Ƙara gishiri da kayan yaji. Ƙara ruwa har sai duk raƙuman ruwa sun nutse. Mix da kyau.
+Bayan ruwan ya fara tafasa, bar shi ya tafasa kamar minti 10 (?).
+Kashe idon murhu. Bar don zama kamar minti 20-30.
+
+Macronutrients: _macro\1.json
+
+Karamin sinadarai: _micro\1.json

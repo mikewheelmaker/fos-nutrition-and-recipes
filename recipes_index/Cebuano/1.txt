@@ -1,0 +1,51 @@
+Titulo: Sabaw sa utanon
+
+Nasud nga gigikanan: Romania
+
+Mga bahin: 12
+
+Panahon sa pagpangandam: 1.5h - 2.5h
+
+Mga sangkap:
+Patatas | 2000g
+Gamut sa kintsay | 0.5x (=?g)
+gamut nga parsnip | 1x (=?g)
+Karot | 3x (=?g)
+Congealed green nga mga gisantes | 450g
+Nahugno nga berde nga pods | 400g
+Pula nga kampanilya | 1x (=?g)
+Green bell pepper | 1x (=?g)
+Dilaw nga kampanilya nga sili | 1x (=?g)
+Kamatis | 5x (=?g)
+Dill | 3x (=?g)
+Parsley | 3x (=?g)
+Lovage | 3x (=?g)
+asin | Sumala sa lami (girekomenda ?g)
+Mga panimpla | Sumala sa lami
+
+Gikinahanglan nga mga gamit sa kusina:
+Usa ka kolon nga adunay minimum nga gidaghanon sa 10L
+Usa ka kutsara (mas maayo nga kahoy) nga adunay minimum nga gitas-on nga 20cm
+kutsilyo
+Tadtaran
+
+Mga lakang sa pag-andam:
+Panit, limpyo ug putlon ang mga utanon. Ang mga piraso kinahanglan nga medium nga gidak-on alang sa gamay nga oras sa pagpabukal.
+Ibutang ang usa ka litro nga tubig sa kaldero. Gamita ang dako nga stove eye.
+Idugang ang celery ug parsnip bits.
+I-on ang stove eye. Gamita ang taas nga siga o taas nga temperatura nga kapilian.
+Human mobukal ang tubig, pabukala ang gibana-bana nga 10(?) minutos.
+Idugang ang mga carrot bits. Idugang ang tubig hangtud nga ang tanan nga mga tipik malubog. Mix maayo.
+Biyai nga mobukal sulod sa gibana-bana nga 10(?) minutos.
+Idugang ang mga tipik sa patatas. Idugang ang tubig hangtud nga ang tanan nga mga tipik malubog. Mix maayo.
+Biyai nga mobukal sa gibana-bana nga 20(?) ka minuto.
+Idugang ang congealed green peas ug green pods. Idugang ang tubig hangtud nga ang tanan nga mga tipik malubog. Mix maayo.
+Human mobukal ang tubig, pabukala ang gibana-bana nga 5(?) ka minuto.
+Idugang ang kampanilya, kamatis, dill, parsley, ug lovage bits.
+Idugang ang asin ug mga panimpla. Idugang ang tubig hangtud nga ang tanan nga mga tipik malubog. Mix maayo.
+Human mobukal ang tubig, pabukala ang gibana-bana nga 10(?) minutos.
+Ipalong ang stove eye. Biyai nga molingkod sa gibana-bana nga 20-30 ka minuto.
+
+Macronutrients: _macro\1.json
+
+Mga Micronutrients: _micro\1.json

@@ -1,0 +1,51 @@
+Mutu: Msuzi wamasamba
+
+Dziko lochokera: Romania
+
+Zigawo: 12
+
+Nthawi yokonzekera: 1.5h - 2.5h
+
+Zosakaniza:
+Mbatata | 2000 g
+Muzu wa Selari | 0.5x (=?g)
+Parsnip mizu | 1x (=?g)
+Karoti | 3x (=?g)
+Nandolo zobiriwira | 450g pa
+Nkhumba zobiriwira zobiriwira | 400g pa
+Tsabola wofiira | 1x (=?g)
+Tsabola wobiriwira | 1x (=?g)
+Tsabola wachikasu | 1x (=?g)
+Tomato | 5x (=?g)
+Dilo | 3x (=?g)
+Parsley | 3x (=?g)
+Chikondi | 3x (=?g)
+Mchere | Malingana ndi kukoma (kovomerezeka ?g)
+Makondomu | Malinga ndi kukoma
+
+Zida zakukhitchini zofunika:
+Mphika wokhala ndi mphamvu yochepera 10L
+Supuni (makamaka matabwa) yokhala ndi kutalika kwa 20cm
+Mpeni
+Gulu lodula
+
+Zokonzekera:
+Peel, kuyeretsa ndi kudula masamba. Tizidutswa tating'ono ting'ono tating'ono tomwe titha kuwira.
+Ikani lita imodzi ya madzi mumphika. Gwiritsani ntchito diso lalikulu la chitofu.
+Onjezerani zidutswa za celery ndi parsnip.
+Yatsani diso la chitofu. Gwiritsani ntchito lawi lamoto kapena kutentha kwakukulu.
+Madzi akayamba kuwira, siyani kuwira kwa mphindi 10 (?).
+Onjezerani zidutswa za karoti. Onjezerani madzi mpaka zidutswa zonse zamira. Sakanizani bwino.
+Siyani kuwira kwa mphindi pafupifupi 10 (?)
+Onjezerani zidutswa za mbatata. Onjezerani madzi mpaka zidutswa zonse zamira. Sakanizani bwino.
+Siyani kuwira kwa mphindi pafupifupi 20 (?)
+Onjezerani nandolo zobiriwira ndi nyemba zobiriwira. Onjezerani madzi mpaka zidutswa zonse zamira. Sakanizani bwino.
+Madzi akayamba kuwira, siyani kuwira kwa mphindi 5(?).
+Onjezerani tsabola wa belu, tomato, katsabola, parsley, ndi lovage bits.
+Onjezerani mchere ndi zokometsera. Onjezerani madzi mpaka zidutswa zonse zamira. Sakanizani bwino.
+Madzi akayamba kuwira, siyani kuwira kwa mphindi 10 (?).
+Zimitsani diso la chitofu. Siyani kuti mukhale pafupi mphindi 20-30.
+
+Macronutrients: _macro\1.json
+
+Zakudya zazing'ono: _micro\1.json

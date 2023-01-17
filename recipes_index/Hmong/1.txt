@@ -1,0 +1,51 @@
+Title: Zaub Zaub
+
+Lub teb chaws ntawm keeb kwm: Romania
+
+Nqe: 12
+
+Lub sij hawm npaj: 1.5h - 2.5h
+
+Cov khoom xyaw:
+Qos yaj ywm | 2000 g
+Celery paus | Luas = 0.5 x
+Parsnip cag | 1 x (=?g)
+Carrot | 3 x (=?g)
+Congealed ntsuab peas | 450g ua
+Congealed ntsuab pods | 400 g
+Liab tswb kua txob | 1 x (=?g)
+Ntsuab tswb kua txob | 1 x (=?g)
+Daj kua txob | 1 x (=?g)
+Txiv lws suav | 5 x (=?g)
+Dill | 3 x (=?g)
+Parsley | 3 x (=?g)
+Lovage | 3 x (=?g)
+Ntsev | Raws li saj (pom zoo ?g)
+Khoom qab zib | Raws li saj
+
+Yuav tsum muaj chav ua noj:
+Ib lub lauj kaub nrog qhov tsawg kawg nkaus ntim ntawm 10L
+Ib rab diav (zoo dua ntoo) nrog qhov ntev ntawm 20cm
+riam
+Txiav board
+
+Cov kauj ruam npaj:
+Tev, ntxuav thiab txiav cov zaub. Cov khoom yuav tsum yog qhov loj me me rau lub sijhawm me me.
+Muab ib liter dej rau hauv lub lauj kaub. Siv lub qhov muag loj loj.
+Ntxiv cov celery thiab parsnip khoom.
+Tig lub qhov cub qhov muag. Siv cov nplaim hluav taws kub los yog kev xaiv kub.
+Tom qab cov dej pib boiling, tawm mus rau boil li 10 (?) feeb.
+Ntxiv cov carrot khoom. Ntxiv dej kom txog rau thaum tag nrho cov khoom yog submerged. Sib tov zoo.
+Cia kom npau npau li 10(?) feeb.
+Ntxiv cov qos yaj ywm me me. Ntxiv dej kom txog rau thaum tag nrho cov khoom yog submerged. Sib tov zoo.
+Cia kom npau npau li 20 (?) feeb.
+Ntxiv cov congealed ntsuab peas thiab ntsuab pods. Ntxiv dej kom txog rau thaum tag nrho cov khoom yog submerged. Sib tov zoo.
+Tom qab cov dej pib boiling, tawm mus rau boil li 5 (?) feeb.
+Ntxiv cov tswb kua txob, txiv lws suav, dill, parsley, thiab lovage khoom.
+Ntxiv ntsev thiab condiments. Ntxiv dej kom txog rau thaum tag nrho cov khoom yog submerged. Sib tov zoo.
+Tom qab cov dej pib boiling, tawm mus rau boil li 10 (?) feeb.
+Tig lub qhov cub qhov muag. Tawm mus zaum li 20-30 feeb.
+
+Macronutrients: _macro\1.json
+
+Micronutrients: _micro\1.json
