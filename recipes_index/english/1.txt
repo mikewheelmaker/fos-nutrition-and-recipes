@@ -1,0 +1,51 @@
+Title: Vegetable soup
+
+Country of origin: Romania
+
+Portions: 12
+
+Preparation time: 1.5h - 2.5h
+
+Ingredients:
+Potatoes | 2000g
+Celery root | 0.5x (=?g)
+Parsnip root | 1x (=?g)
+Carrot | 3x (=?g)
+Congealed green peas | 450g
+Congealed green pods | 400g
+Red bell pepper | 1x (=?g)
+Green bell pepper | 1x (=?g)
+Yellow bell pepper | 1x (=?g)
+Tomato | 5x (=?g)
+Dill | 3x (=?g)
+Parsley | 3x (=?g)
+Lovage | 3x (=?g)
+Salt | According to taste (recommended ?g)
+Condiments | According to taste
+
+Required kitchen utensils:
+A pot with a minimum volume of 10L 
+A spoon (preferably wooden) with a minimum length of 20cm
+Knife
+Cutting board
+
+Preparation steps:
+Peel, clean and cut the vegetables. The bits should be of medium size for a small boiling time.
+Put one litre of water in the pot. Use the large stove eye.
+Add the celery and parsnip bits.
+Turn on the stove eye. Use the high flame or high temperature option.
+After the water starts boiling, leave to boil for approximately 10(?) minutes.
+Add the carrot bits. Add water until all the bits are submerged. Mix well.
+Leave to boil for approximately 10(?) minutes.
+Add the potato bits. Add water until all the bits are submerged. Mix well.
+Leave to boil for approximately 20(?) minutes.
+Add the congealed green peas and green pods. Add water until all the bits are submerged. Mix well.
+After the water starts boiling, leave to boil for approximately 5(?) minutes.
+Add the bell pepper, tomatoes, dill, parsley, and lovage bits.
+Add the salt and condiments. Add water until all the bits are submerged. Mix well.
+After the water starts boiling, leave to boil for approximately 10(?) minutes.
+Turn off the stove eye. Leave to sit for approximately 20-30 minutes.
+
+Macronutrients: _macro\1.json
+
+Micronutrients: _micro\1.json
