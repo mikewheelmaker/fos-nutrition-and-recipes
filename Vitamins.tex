@@ -1,36 +1,128 @@
 \documentclass{book}
 
+\usepackage{gensymb}
 \usepackage{graphicx}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+	linktoc=all
+}
+\usepackage{siunitx}
+\usepackage{textgreek}
 
 \begin{document}
 \title{Vitamins}
 \author{Radu-Mihai Rotariu}
 \maketitle
+\pagenumbering{roman}
+\tableofcontents\newpage
+\pagenumbering{arabic}
 
-\tableofcontents
 \chapter{Vitamin A}
 \begin{figure}[h]
-	\centering \includegraphics[width=\linewidth]{images/Vitamin_A_chemical_structure}
-	\caption{Chemical structure of Vitamin A}
+	\caption{Chemical structure of Retinol}
+	\centering \includegraphics[width=\textwidth]{images/Vitamin_A_chemical_structure}
 \end{figure}
 
-\section{About}
+\begin{table}[h]
+	\caption{Chemical and physical data}
+	\centering \begin{tabular}{| r | l |}
+		\hline
+		Formula & C\textsubscript{20}H\textsubscript{30}O\\ \hline
+		Molar mass & 286.459 g$\cdot$mol \textsuperscript{-1}\\ \hline
+		Melting point & 62--64 \degree C (144--147 \degree F)\\ \hline
+		Boiling point & 137--138 \degree C (279--280 \degree F) (10\textsuperscript{-6} mmHg)\\ \hline
+		SMILES & OC/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)/CCCC1(C)C\\ \hline
+	\end{tabular}
+\end{table}
+\newpage
 
+\section{About}
+Vitamin A is a fat-soluble vitamin and essential nutrient. The term itself refers to a family of compounds, which includes: retinol, retinal (also known as retinaldehyde), retinoic acid, and provitamin carotenoids (precursors), most notable being \textbeta-carotene.
+
+Vitamin A is found in food in two forms:
+\begin{itemize}
+	\item Retinol, found in animal-sourced foods, either as retinol or bound to a fatty acid to become a retinyl ester.
+	\item Carotenoids \textalpha-carotene, \textbeta-carotene, \textgamma-carotene, and the xanthophyll \textbeta-cryptoxanthin. All of these carotenoids function as precursors to vitamin A in herbivores and omnivores which possess the required cleaving enzymes needed to convert the carotenoids to retinal and then the retinal to retinol. Some carnivore animals lack this enzyme. All the other carotenoids have no vitamin activity.
+\end{itemize}
 
 \section{Measurement unit}
+The agreed upon standard measurement unit is 1\textmu g, which is $\sim$0.33 nmol of retinol. It's also referred to as a \textmu g RAE (Retinol Activity Equivalent).
 
+Since four of the carotenoids can be converted into retinol, an equivalency has been established between the standard measurement unit for retinol and each of the precursors.
+
+As such, here is a list of the standard units of measurements for retinol and its equivalent for all the precursors:
+
+\begin{table}[h]
+	\caption{VItamin A standard measurement units}
+	\centering \begin{tabular}{| l | c |}
+		\hline
+		\textbf{Substance and its chemical environment (per 1\textmu g)} & \textbf{\textmu g RAE}\\ \hline
+		Retinol & 1\\ \hline
+		\textbeta -Carotene, dissolved in oil & 1/2\\ \hline
+		\textbeta -Carotene, dietary* & 1/12\\ \hline
+		\textalpha -Carotene, dietary* &\\
+		\textgamma -Carotene, dietary*& 1/24\\
+		\textbeta -Cryptoxanthin, dietary* &\\ \hline
+	\end{tabular}
+\end{table}
+
+* --- as found in food sources
+\newpage
 
 \section{Dietary recommendations}
+Listed below are the recommendations from the US National Academy of Medicine. Data summarized from \href{https://nap.nationalacademies.org/read/10026/chapter/6}{\textit{this document}}.
 
+The acronyms used are:
+\begin{itemize}
+	\item RDAs --- Recommended Dietary Allowances
+	\item AIs --- Adequate Intakes
+	\item ULs --- Upper Limits
+\end{itemize}
+
+\begin{table}[h]
+	\caption{Retinol Daily Reference Intakes}
+	\centering \begin{tabular}{| r | l | l |}
+		\hline
+		\textbf{Life stage group} & \textbf{US RDAs or AIs (\textmu g RAE/day)} & \textbf{US ULs (\textmu g RAE/day)}\\ \hline
+		Infants (0--6 months) & 400 (AI) & 600\\ \hline
+		Infants (7--12 months) & 500 (AI) & 600\\ \hline
+		Children (1--3 years) & 300 & 600\\ \hline
+		Children (4--8 years) & 400 & 900\\ \hline
+		Males (9--13 years) & 600 & 1700\\ \hline
+		Males (14--18 years) & 900 & 2800\\ \hline
+		Males (\textgreater19 years) & 900 & 3000\\ \hline
+		Females (9--13 years) & 600 & 1700\\ \hline
+		Females (14--18 years) & 700 & 2800\\ \hline
+		Females (\textgreater19 years) & 700 & 3000\\ \hline
+		Pregnancy (\textless19 years) & 750 & 2800\\ \hline
+		Pregnancy (\textgreater19 years) & 770 & 3000\\ \hline
+		Lactation (\textless19 years) & 1200 & 2800\\ \hline
+		Lactation (\textgreater19 years) & 1300 & 3000\\ \hline
+	\end{tabular}
+\end{table}
+\newpage
 
 \section{Sources}
 
 
 \chapter{Vitamin B1}
 \begin{figure}[h]
-	\centering \includegraphics[width=0.75\linewidth]{images/Vitamin_B1_chemical_structure}
 	\caption{Chemical structure of Vitamin B1}
+	\centering \includegraphics[width=0.75\textwidth]{images/Vitamin_B1_chemical_structure}
 \end{figure}
+
+\begin{table}[h]
+	\caption{Chemical and physical data}
+	\centering \begin{tabular}{| r | l |}
+		\hline
+		Formula & Smt\\ \hline
+		Molar mass & X g$\cdot$mol \textsuperscript{-1}\\ \hline
+		Melting point & A--B \degree C (X--Y \degree F)\\ \hline
+		Boiling point & A--B \degree C (X--Y \degree F)\\ \hline
+		SMILES & \\ \hline
+	\end{tabular}
+\end{table}
+\newpage
 
 \section{About}
 
@@ -46,9 +138,22 @@
 
 \chapter{Vitamin B2}
 \begin{figure}[h]
-	\centering \includegraphics[width=0.75\linewidth]{images/Vitamin_B2_chemical_structure}
 	\caption{Chemical structure of Vitamin B2}
+	\centering \includegraphics[width=0.5\textwidth]{images/Vitamin_B2_chemical_structure}
 \end{figure}
+
+\begin{table}[h]
+	\caption{Chemical and physical data}
+	\centering \begin{tabular}{| r | l |}
+		\hline
+		Formula & Smt\\ \hline
+		Molar mass & X g$\cdot$mol \textsuperscript{-1}\\ \hline
+		Melting point & A--B \degree C (X--Y \degree F)\\ \hline
+		Boiling point & A--B \degree C (X--Y \degree F)\\ \hline
+		SMILES & \\ \hline
+	\end{tabular}
+\end{table}
+\newpage
 
 \section{About}
 
@@ -64,9 +169,22 @@
 
 \chapter{Vitamin B3}
 \begin{figure}[h]
-	\centering \includegraphics[width=0.75\linewidth]{images/Vitamin_B3_chemical_structure}
 	\caption{Chemical structure of Vitamin B3}
+	\centering \includegraphics[width=0.5\textwidth]{images/Vitamin_B3_chemical_structure}
 \end{figure}
+
+\begin{table}[h]
+	\caption{Chemical and physical data}
+	\centering \begin{tabular}{| r | l |}
+		\hline
+		Formula & Smt\\ \hline
+		Molar mass & X g$\cdot$mol \textsuperscript{-1}\\ \hline
+		Melting point & A--B \degree C (X--Y \degree F)\\ \hline
+		Boiling point & A--B \degree C (X--Y \degree F)\\ \hline
+		SMILES & \\ \hline
+	\end{tabular}
+\end{table}
+\newpage
 
 \section{About}
 
@@ -82,9 +200,22 @@
 
 \chapter{Vitamin B5}
 \begin{figure}[h]
-	\centering \includegraphics[width=0.75\linewidth]{images/Vitamin_B5_chemical_structure}
 	\caption{Chemical structure of Vitamin B5}
+	\centering \includegraphics[width=\textwidth]{images/Vitamin_B5_chemical_structure}
 \end{figure}
+
+\begin{table}[h]
+	\caption{Chemical and physical data}
+	\centering \begin{tabular}{| r | l |}
+		\hline
+		Formula & Smt\\ \hline
+		Molar mass & X g$\cdot$mol \textsuperscript{-1}\\ \hline
+		Melting point & A--B \degree C (X--Y \degree F)\\ \hline
+		Boiling point & A--B \degree C (X--Y \degree F)\\ \hline
+		SMILES & \\ \hline
+	\end{tabular}
+\end{table}
+\newpage
 
 \section{About}
 
@@ -100,9 +231,22 @@
 
 \chapter{Vitamin B6}
 \begin{figure}[h]
-	\centering \includegraphics[width=0.75\linewidth]{images/Vitamin_B6_chemical_structure}
 	\caption{Chemical structure of Vitamin B6}
+	\centering \includegraphics[width=0.75\textwidth]{images/Vitamin_B6_chemical_structure}
 \end{figure}
+
+\begin{table}[h]
+	\caption{Chemical and physical data}
+	\centering \begin{tabular}{| r | l |}
+		\hline
+		Formula & Smt\\ \hline
+		Molar mass & X g$\cdot$mol \textsuperscript{-1}\\ \hline
+		Melting point & A--B \degree C (X--Y \degree F)\\ \hline
+		Boiling point & A--B \degree C (X--Y \degree F)\\ \hline
+		SMILES & \\ \hline
+	\end{tabular}
+\end{table}
+\newpage
 
 \section{About}
 
@@ -118,9 +262,22 @@
 
 \chapter{Vitamin B7}
 \begin{figure}[h]
-	\centering \includegraphics[width=0.75\linewidth]{images/Vitamin_B7_chemical_structure}
 	\caption{Chemical structure of Vitamin B7}
+	\centering \includegraphics[width=0.75\textwidth]{images/Vitamin_B7_chemical_structure}
 \end{figure}
+
+\begin{table}[h]
+	\caption{Chemical and physical data}
+	\centering \begin{tabular}{| r | l |}
+		\hline
+		Formula & Smt\\ \hline
+		Molar mass & X g$\cdot$mol \textsuperscript{-1}\\ \hline
+		Melting point & A--B \degree C (X--Y \degree F)\\ \hline
+		Boiling point & A--B \degree C (X--Y \degree F)\\ \hline
+		SMILES & \\ \hline
+	\end{tabular}
+\end{table}
+\newpage
 
 \section{About}
 
@@ -136,9 +293,22 @@
 
 \chapter{Vitamin B9}
 \begin{figure}[h]
-	\centering \includegraphics[width=0.75\linewidth]{images/Vitamin_B9_chemical_structure}
 	\caption{Chemical structure of Vitamin B9}
+	\centering \includegraphics[width=\textwidth]{images/Vitamin_B9_chemical_structure}
 \end{figure}
+
+\begin{table}[h]
+	\caption{Chemical and physical data}
+	\centering \begin{tabular}{| r | l |}
+		\hline
+		Formula & Smt\\ \hline
+		Molar mass & X g$\cdot$mol \textsuperscript{-1}\\ \hline
+		Melting point & A--B \degree C (X--Y \degree F)\\ \hline
+		Boiling point & A--B \degree C (X--Y \degree F)\\ \hline
+		SMILES & \\ \hline
+	\end{tabular}
+\end{table}
+\newpage
 
 \section{About}
 
@@ -154,9 +324,22 @@
 
 \chapter{Vitamin B12}
 \begin{figure}[h]
-	\centering \includegraphics[width=0.75\linewidth]{images/Vitamin_B12_chemical_structure}
 	\caption{Chemical structure of Vitamin B12}
+	\centering \includegraphics[width=0.5\textwidth]{images/Vitamin_B12_chemical_structure}
 \end{figure}
+
+\begin{table}[h]
+	\caption{Chemical and physical data}
+	\centering \begin{tabular}{| r | l |}
+		\hline
+		Formula & Smt\\ \hline
+		Molar mass & X g$\cdot$mol \textsuperscript{-1}\\ \hline
+		Melting point & A--B \degree C (X--Y \degree F)\\ \hline
+		Boiling point & A--B \degree C (X--Y \degree F)\\ \hline
+		SMILES & \\ \hline
+	\end{tabular}
+\end{table}
+\newpage
 
 \section{About}
 
@@ -172,9 +355,22 @@
 
 \chapter{Vitamin C}
 \begin{figure}[h]
-	\centering \includegraphics[width=0.75\linewidth]{images/Vitamin_C_chemical_structure}
 	\caption{Chemical structure of Vitamin C}
+	\centering \includegraphics[width=0.75\textwidth]{images/Vitamin_C_chemical_structure}
 \end{figure}
+
+\begin{table}[h]
+	\caption{Chemical and physical data}
+	\centering \begin{tabular}{| r | l |}
+		\hline
+		Formula & Smt\\ \hline
+		Molar mass & X g$\cdot$mol \textsuperscript{-1}\\ \hline
+		Melting point & A--B \degree C (X--Y \degree F)\\ \hline
+		Boiling point & A--B \degree C (X--Y \degree F)\\ \hline
+		SMILES & \\ \hline
+	\end{tabular}
+\end{table}
+\newpage
 
 \section{About}
 
@@ -190,9 +386,22 @@
 
 \chapter{Vitamin D}
 \begin{figure}[h]
-	\centering \includegraphics[width=0.75\linewidth]{images/Vitamin_D_chemical_structure}
 	\caption{Chemical structure of Vitamin D}
+	\centering \includegraphics[width=0.75\textwidth]{images/Vitamin_D_chemical_structure}
 \end{figure}
+
+\begin{table}[h]
+	\caption{Chemical and physical data}
+	\centering \begin{tabular}{| r | l |}
+		\hline
+		Formula & Smt\\ \hline
+		Molar mass & X g$\cdot$mol \textsuperscript{-1}\\ \hline
+		Melting point & A--B \degree C (X--Y \degree F)\\ \hline
+		Boiling point & A--B \degree C (X--Y \degree F)\\ \hline
+		SMILES & \\ \hline
+	\end{tabular}
+\end{table}
+\newpage
 
 \section{About}
 
@@ -208,9 +417,22 @@
 
 \chapter{Vitamin E}
 \begin{figure}[h]
-	\centering \includegraphics[width=0.75\linewidth]{images/Vitamin_E_chemical_structure}
 	\caption{Chemical structure of Vitamin E}
+	\centering \includegraphics[width=\textwidth]{images/Vitamin_E_chemical_structure}
 \end{figure}
+
+\begin{table}[h]
+	\caption{Chemical and physical data}
+	\centering \begin{tabular}{| r | l |}
+		\hline
+		Formula & Smt\\ \hline
+		Molar mass & X g$\cdot$mol \textsuperscript{-1}\\ \hline
+		Melting point & A--B \degree C (X--Y \degree F)\\ \hline
+		Boiling point & A--B \degree C (X--Y \degree F)\\ \hline
+		SMILES & \\ \hline
+	\end{tabular}
+\end{table}
+\newpage
 
 \section{About}
 
@@ -226,9 +448,22 @@
 
 \chapter{Vitamin K1}
 \begin{figure}[h]
-	\centering \includegraphics[width=0.75\linewidth]{images/Vitamin_K1_chemical_structure}
 	\caption{Chemical structure of Vitamin K1}
+	\centering \includegraphics[width=\textwidth]{images/Vitamin_K1_chemical_structure}
 \end{figure}
+
+\begin{table}[h]
+	\caption{Chemical and physical data}
+	\centering \begin{tabular}{| r | l |}
+		\hline
+		Formula & Smt\\ \hline
+		Molar mass & X g$\cdot$mol \textsuperscript{-1}\\ \hline
+		Melting point & A--B \degree C (X--Y \degree F)\\ \hline
+		Boiling point & A--B \degree C (X--Y \degree F)\\ \hline
+		SMILES & \\ \hline
+	\end{tabular}
+\end{table}
+\newpage
 
 \section{About}
 
@@ -244,9 +479,22 @@
 
 \chapter{Vitamin K2}
 \begin{figure}[h]
-	\centering \includegraphics[width=0.75\linewidth]{images/Vitamin_K2_chemical_structure}
 	\caption{Chemical structure of Vitamin K2}
+	\centering \includegraphics[width=0.75\textwidth]{images/Vitamin_K2_chemical_structure}
 \end{figure}
+
+\begin{table}[h]
+	\caption{Chemical and physical data}
+	\centering \begin{tabular}{| r | l |}
+		\hline
+		Formula & Smt\\ \hline
+		Molar mass & X g$\cdot$mol \textsuperscript{-1}\\ \hline
+		Melting point & A--B \degree C (X--Y \degree F)\\ \hline
+		Boiling point & A--B \degree C (X--Y \degree F)\\ \hline
+		SMILES & \\ \hline
+	\end{tabular}
+\end{table}
+\newpage
 
 \section{About}
 
@@ -262,9 +510,22 @@
 
 \chapter{Vitamin K3}
 \begin{figure}[h]
-	\centering \includegraphics[width=0.75\linewidth]{images/Vitamin_K3_chemical_structure}
 	\caption{Chemical structure of Vitamin K3}
+	\centering \includegraphics[width=0.5\textwidth]{images/Vitamin_K3_chemical_structure}
 \end{figure}
+
+\begin{table}[h]
+	\caption{Chemical and physical data}
+	\centering \begin{tabular}{| r | l |}
+		\hline
+		Formula & Smt\\ \hline
+		Molar mass & X g$\cdot$mol \textsuperscript{-1}\\ \hline
+		Melting point & A--B \degree C (X--Y \degree F)\\ \hline
+		Boiling point & A--B \degree C (X--Y \degree F)\\ \hline
+		SMILES & \\ \hline
+	\end{tabular}
+\end{table}
+\newpage
 
 \section{About}
 
@@ -280,9 +541,22 @@
 
 \chapter{Choline}
 \begin{figure}[h]
-	\centering \includegraphics[width=0.75\linewidth]{images/Choline_chemical_structure}
 	\caption{Chemical structure of Choline}
+	\centering \includegraphics[width=0.75\textwidth]{images/Choline_chemical_structure}
 \end{figure}
+
+\begin{table}[h]
+	\caption{Chemical and physical data}
+	\centering \begin{tabular}{| r | l |}
+		\hline
+		Formula & Smt\\ \hline
+		Molar mass & X g$\cdot$mol \textsuperscript{-1}\\ \hline
+		Melting point & A--B \degree C (X--Y \degree F)\\ \hline
+		Boiling point & A--B \degree C (X--Y \degree F)\\ \hline
+		SMILES & \\ \hline
+	\end{tabular}
+\end{table}
+\newpage
 
 \section{About}
 
@@ -297,6 +571,9 @@
 
 
 \listoffigures
+
+
 \listoftables
+
 
 \end{document}
