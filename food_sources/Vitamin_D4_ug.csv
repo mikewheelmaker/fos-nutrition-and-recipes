@@ -1,0 +1,12 @@
+fdcId,identifier,identifierType,foodType,foodDescription,value,foodWeight,valueUnit,foodMeasure,measureValue
+2003598,11243,NDB #,Foundation,"Mushroom, portabella",0.00,100,g,"100 g",0.00
+2003601,11266,NDB #,Foundation,"Mushroom, crimini",0.00,100,g,"100 g",0.00
+2003602,11993,NDB #,Foundation,"Mushroom, maitake",0.14,100,g,"100 g",0.14
+2003600,11950,NDB #,Foundation,"Mushroom, enoki",0.00,100,g,"100 g",0.00
+2003599,100263,NDB #,Foundation,"Mushroom, king oyster",0.03,100,g,"100 g",0.03
+2003604,100265,NDB #,Foundation,"Mushroom, pioppini",0.00,100,g,"100 g",0.00
+2003603,100264,NDB #,Foundation,"Mushroom, beech",0.14,100,g,"100 g",0.14
+1999629,11260,NDB #,Foundation,"Mushrooms, white button",0.00,100,g,"100 g",0.00
+1999627,11987,NDB #,Foundation,"Mushroom, oyster",0.00,100,g,"100 g",0.00
+1999628,11238,NDB #,Foundation,"Mushrooms, shiitake",0.00,100,g,"100 g",0.00
+1999626,100259,NDB #,Foundation,"Mushroom, lion's mane",0.00,100,g,"100 g",0.00

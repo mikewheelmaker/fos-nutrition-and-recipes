@@ -1,0 +1,349 @@
+fdcId,identifier,identifierType,foodType,foodDescription,value,foodWeight,valueUnit,foodMeasure,measureValue
+2647441,100299,NDB #,Foundation,"Cheese, oaxaca, solid",0.00,100,g,"100 g",0.00
+2647438,100296,NDB #,Foundation,"Cheese, monterey jack, solid",0.00,100,g,"100 g",0.00
+2647442,100300,NDB #,Foundation,"Cheese, queso fresco, solid",0.00,100,g,"100 g",0.00
+2647437,100295,NDB #,Foundation,"Yogurt, plain, nonfat",0.00,100,g,"100 g",0.00
+2647439,100297,NDB #,Foundation,"Cheese, pasteurized process cheese food or product, American, singles",0.00,100,g,"100 g",0.00
+2647443,100301,NDB #,Foundation,"Cheese, cotija, solid",0.00,100,g,"100 g",0.00
+2647440,100298,NDB #,Foundation,"Cheese, provolone, sliced",0.00,100,g,"100 g",0.00
+2259794,1293,NDB #,Foundation,"Yogurt, Greek, plain, whole milk",0.00,100,g,"100 g",0.00
+2259796,1019,NDB #,Foundation,"Cheese, feta, whole milk, crumbled",0.00,100,g,"100 g",0.00
+2259795,100272,NDB #,Foundation,"Cheese, parmesan, grated, refrigerated",0.00,100,g,"100 g",0.00
+2259792,1088,NDB #,Foundation,"Buttermilk, low fat",0.00,100,g,"100 g",0.00
+2259793,1116,NDB #,Foundation,"Yogurt, plain, whole milk",0.00,100,g,"100 g",0.00
+2257045,100276,NDB #,Foundation,"Almond milk, unsweetened, plain, refrigerated",1.58,100,g,"100 g",1.58
+2257044,100275,NDB #,Foundation,"Soy milk, sweetened, plain, refrigerated",4.61,100,g,"100 g",4.61
+2257046,100277,NDB #,Foundation,"Oat milk, unsweetened, plain, refrigerated",1.69,100,g,"100 g",1.69
+2003601,11266,NDB #,Foundation,"Mushroom, crimini",0.00,100,g,"100 g",0.00
+2003604,100265,NDB #,Foundation,"Mushroom, pioppini",0.00,100,g,"100 g",0.00
+2003599,100263,NDB #,Foundation,"Mushroom, king oyster",0.07,100,g,"100 g",0.07
+2003603,100264,NDB #,Foundation,"Mushroom, beech",0.37,100,g,"100 g",0.37
+2003602,11993,NDB #,Foundation,"Mushroom, maitake",1.60,100,g,"100 g",1.60
+2003600,11950,NDB #,Foundation,"Mushroom, enoki",0.00,100,g,"100 g",0.00
+2003598,11243,NDB #,Foundation,"Mushroom, portabella",0.00,100,g,"100 g",0.00
+1999629,11260,NDB #,Foundation,"Mushrooms, white button",0.02,100,g,"100 g",0.02
+1999627,11987,NDB #,Foundation,"Mushroom, oyster",0.04,100,g,"100 g",0.04
+1999626,100259,NDB #,Foundation,"Mushroom, lion's mane",0.02,100,g,"100 g",0.02
+1999628,11238,NDB #,Foundation,"Mushrooms, shiitake",0.06,100,g,"100 g",0.06
+1999630,16222,NDB #,Foundation,"Soy milk, unsweetened, plain, shelf stable",0.68,100,g,"100 g",0.68
+1999631,14091,NDB #,Foundation,"Almond milk, unsweetened, plain, shelf stable",0.93,100,g,"100 g",0.93
+790508,1001,NDB #,Foundation,"Butter, stick, salted",0.00,100,g,"100 g",0.00
+748967,1123,NDB #,Foundation,"Eggs, Grade A, Large, egg whole",0.00,50.2999999999999971578290569595992565155029296875,g,"1 egg, whole without shell",0.00
+746782,1077,NDB #,Foundation,"Milk, whole, 3.25% milkfat, with added vitamin D",0.00,249,g,"1 cup",0.00
+746776,1085,NDB #,Foundation,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",0.00,246,g,"1 cup",0.00
+746778,1079,NDB #,Foundation,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",0.00,245,g,"1 cup",0.00
+746772,1082,NDB #,Foundation,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",0.00,246,g,"1 cup",0.00
+746767,1040,NDB #,Foundation,"Cheese, swiss",0.00,10.9000000000000003552713678800500929355621337890625,g,"1 slice, thin",0.00
+746767,1040,NDB #,Foundation,"Cheese, swiss",0.00,21.89999999999999857891452847979962825775146484375,g,"1 slice, regular",0.00
+746759,23385,NDB #,Foundation,"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8 fat, choice, raw",0.00,284,g,"1 steak, raw",0.00
+746761,23359,NDB #,Foundation,"Beef, round, top round roast, boneless, separable lean only, trimmed to 0 fat, select, raw",0.00,788,g,"1 roast, raw",0.00
+334536,36602,NDB #,Foundation,"Restaurant, Chinese, fried rice, without meat",0.00,133,g,"1 cup",0.00
+330415,1285,NDB #,Foundation,"Yogurt, Greek, strawberry, nonfat",0.00,150,g,"1 container, 5.3 oz",0.00
+330137,1256,NDB #,Foundation,"Yogurt, Greek, plain, nonfat",0.00,156,g,"1 container",0.00
+329716,1137,NDB #,Foundation,"Egg, yolk, dried",0.00,28.39999999999999857891452847979962825775146484375,g,"1 oz",0.00
+329716,1137,NDB #,Foundation,"Egg, yolk, dried",0.00,67,g,"1 cup, sifted",0.00
+329716,1137,NDB #,Foundation,"Egg, yolk, dried",0.00,4,g,"1 tablespoon",0.00
+329596,1126,NDB #,Foundation,"Egg, yolk, raw, frozen, pasteurized",0.00,28.39999999999999857891452847979962825775146484375,g,"1 oz",0.00
+329490,1133,NDB #,Foundation,"Egg, whole, dried",0.00,28.39999999999999857891452847979962825775146484375,g,"1 oz",0.00
+329490,1133,NDB #,Foundation,"Egg, whole, dried",0.00,5,g,"1 tablespoon",0.00
+329490,1133,NDB #,Foundation,"Egg, whole, dried",0.00,85,g,"1 cup, sifted",0.00
+325198,1042,NDB #,Foundation,"Cheese, pasteurized process, American, vitamin D fortified",0.00,20.60000000000000142108547152020037174224853515625,g,"1 slice",0.00
+323793,1173,NDB #,Foundation,"Egg, white, dried",0.00,107,g,"1 cup, sifted",0.00
+323793,1173,NDB #,Foundation,"Egg, white, dried",0.00,7,g,"1 tablespoon",0.00
+323604,1171,NDB #,Foundation,"Egg, whole, raw, frozen, pasteurized",0.00,28.39999999999999857891452847979962825775146484375,g,"1 oz",0.00
+323697,1172,NDB #,Foundation,"Egg, white, raw, frozen, pasteurized",0.00,28.39999999999999857891452847979962825775146484375,g,"1 oz",0.00
+175215,16222,NDB #,SR Legacy,"Soymilk (all flavors), unsweetened, with added calcium, vitamins A and D",1.20,243,g,"1 cup",2.92
+175217,16231,NDB #,SR Legacy,"Soymilk, chocolate, nonfat, with added calcium, vitamins A and D",1.00,243,g,"1 cup",2.43
+175216,16230,NDB #,SR Legacy,"Soymilk (all flavors), nonfat, with added calcium, vitamins A and D",1.00,243,g,"1 cup",2.43
+175175,15260,NDB #,SR Legacy,"Fish, salmon, pink, canned, drained solids",0.00,315,g,"1 can drained solids (total)",0.00
+175175,15260,NDB #,SR Legacy,"Fish, salmon, pink, canned, drained solids",0.00,85,g,"3 oz",0.00
+174897,17459,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, tenderloin, boneless, separable lean and fat, trimmed to 1/8 fat, cooked, roasted",0.00,121,g,"1 roast",0.00
+174897,17459,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, tenderloin, boneless, separable lean and fat, trimmed to 1/8 fat, cooked, roasted",0.00,85,g,"3 oz",0.00
+174898,17464,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rib chop, frenched, denuded, bone-in, separable lean and fat, trimmed to 0 fat, cooked, grilled",0.00,85,g,"3 oz",0.00
+174898,17464,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rib chop, frenched, denuded, bone-in, separable lean and fat, trimmed to 0 fat, cooked, grilled",0.00,43,g,"1 chop",0.00
+174893,17455,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean and fat, trimmed to 1/8 fat, cooked, braised",0.00,418,g,"1 leg hindshank, heel on",0.00
+174893,17455,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean and fat, trimmed to 1/8 fat, cooked, braised",0.00,85,g,"3 oz",0.00
+174895,17457,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, trotter off, bone-in, separable lean and fat, trimmed to 1/8 fat, cooked, roasted",0.00,85,g,"3 oz",0.00
+174895,17457,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, trotter off, bone-in, separable lean and fat, trimmed to 1/8 fat, cooked, roasted",0.00,1808,g,"1 leg trotter off",0.00
+174896,17458,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, trotter off, bone-in, separable lean and fat, trimmed to 1/8 fat, raw",0.00,2674,g,"1 leg trotter off",0.00
+174896,17458,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, trotter off, bone-in, separable lean and fat, trimmed to 1/8 fat, raw",0.00,113,g,"4 oz",0.00
+174891,17449,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, external fat, cooked",0.00,85,g,"3 oz",0.00
+174892,17450,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, external fat, raw",0.00,113,g,"4 oz",0.00
+174894,17456,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean and fat, trimmed to 1/8 fat, raw",0.00,113,g,"4 oz",0.00
+174894,17456,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean and fat, trimmed to 1/8 fat, raw",0.00,530,g,"1 leg hindshank, heel on",0.00
+174890,17448,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rack, roast, frenched, bone-in, separable lean only, trimmed to 1/8 fat, cooked, roasted",0.00,447,g,"1 roast",0.00
+174890,17448,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rack, roast, frenched, bone-in, separable lean only, trimmed to 1/8 fat, cooked, roasted",0.00,85,g,"3 oz",0.00
+174887,17441,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean only, trimmed to 1/8 fat, raw",0.00,113,g,"4 oz",0.00
+174887,17441,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean only, trimmed to 1/8 fat, raw",0.00,530,g,"1 leg hindshank, heel on",0.00
+174889,17447,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rack, roast, frenched, denuded, bone-in, separable lean only, trimmed to 0 fat, cooked, roasted",0.00,85,g,"3 oz",0.00
+174889,17447,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rack, roast, frenched, denuded, bone-in, separable lean only, trimmed to 0 fat, cooked, roasted",0.00,329,g,"1 roast",0.00
+174886,17440,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean only, trimmed to 1/8 fat, cooked, braised",0.00,85,g,"3 oz",0.00
+174886,17440,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, hindshank, heel on, bone-in, separable lean only, trimmed to 1/8 fat, cooked, braised",0.00,418,g,"1 leg hindshank, heel on",0.00
+174885,17439,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, bottom, boneless, separable lean only, trimmed to 1/8 fat, cooked, roasted",0.00,723,g,"1 leg bottom, boneless",0.00
+174885,17439,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, bottom, boneless, separable lean only, trimmed to 1/8 fat, cooked, roasted",0.00,85,g,"3 oz",0.00
+174832,14091,NDB #,SR Legacy,"Beverages, almond milk, unsweetened, shelf stable",0.00,262,g,"1 cup",0.00
+174803,25062,NDB #,SR Legacy,"Snack, Mixed Berry Bar",0.00,38,g,"1 bar",0.00
+174578,7064,NDB #,SR Legacy,"Pork sausage, link/patty, cooked, pan-fried",0.00,48,g,"1 serving",0.00
+174578,7064,NDB #,SR Legacy,"Pork sausage, link/patty, cooked, pan-fried",0.00,23,g,"1 link",0.00
+174578,7064,NDB #,SR Legacy,"Pork sausage, link/patty, cooked, pan-fried",0.00,27,g,"1 patty",0.00
+174415,17315,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rib chop, frenched, bone-in, separable lean and fat, trimmed to 1/8 fat, cooked, grilled",0.00,54,g,"1 chop",0.00
+174415,17315,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rib chop, frenched, bone-in, separable lean and fat, trimmed to 1/8 fat, cooked, grilled",0.00,85,g,"3 oz",0.00
+174416,17316,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rib chop/rack roast, frenched, bone-in, separable lean only, trimmed to 1/8 fat, raw",0.00,113,g,"4 oz",0.00
+174416,17316,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rib chop/rack roast, frenched, bone-in, separable lean only, trimmed to 1/8 fat, raw",0.00,63,g,"1 chop",0.00
+174416,17316,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rib chop/rack roast, frenched, bone-in, separable lean only, trimmed to 1/8 fat, raw",0.00,85,g,"3 oz",0.00
+174414,17314,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rib chop/rack roast, frenched, bone-in, separable lean and fat, trimmed to 1/8 fat, raw",0.00,63,g,"1 chop",0.00
+174414,17314,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rib chop/rack roast, frenched, bone-in, separable lean and fat, trimmed to 1/8 fat, raw",0.00,113,g,"4 oz",0.00
+174295,16168,NDB #,SR Legacy,"Soymilk, chocolate, with added calcium, vitamins A and D",1.00,243,g,"1 cup",2.43
+174295,16168,NDB #,SR Legacy,"Soymilk, chocolate, with added calcium, vitamins A and D",1.00,30.60000000000000142108547152020037174224853515625,g,"1 fl oz",0.31
+174195,15027,NDB #,SR Legacy,"Fish, fish sticks, frozen, prepared",0.00,57,g,"1 piece (4 x 2 x 1/2)",0.00
+174195,15027,NDB #,SR Legacy,"Fish, fish sticks, frozen, prepared",0.00,28,g,"1 stick (4 x 1 x 1/2)",0.00
+174116,14171,NDB #,SR Legacy,"Beverages, coconut milk, sweetened, fortified with calcium, vitamins A, B12, D2",1.00,240,g,"1 cup",2.40
+173879,7970,NDB #,SR Legacy,"Kielbasa, fully cooked, unheated",0.00,85,g,"3 oz",0.00
+173879,7970,NDB #,SR Legacy,"Kielbasa, fully cooked, unheated",0.00,396,g,"1 link",0.00
+173878,7969,NDB #,SR Legacy,"Kielbasa, fully cooked, pan-fried",0.00,370,g,"1 link",0.00
+173875,7962,NDB #,SR Legacy,"Frankfurter, meat and poultry, unheated",0.00,51,g,"1 frankfurter",0.00
+173876,7967,NDB #,SR Legacy,"Pork sausage, link/patty, fully cooked, unheated",0.00,37,g,"1 patty",0.00
+173876,7967,NDB #,SR Legacy,"Pork sausage, link/patty, fully cooked, unheated",0.00,23,g,"1 link",0.00
+173769,16229,NDB #,SR Legacy,"Soymilk (All flavors), lowfat, with added calcium, vitamins A and D",1.00,243,g,"1 cup",2.43
+173768,16228,NDB #,SR Legacy,"Soymilk, original and vanilla, light, unsweetened, with added calcium, vitamins A and D",1.00,243,g,"1 cup",2.43
+173767,16227,NDB #,SR Legacy,"Soymilk, chocolate and other flavors, light, with added calcium, vitamins A and D",1.20,243,g,"1 cup",2.92
+173766,16225,NDB #,SR Legacy,"Soymilk, original and vanilla, light, with added calcium, vitamins A and D",1.20,243,g,"1 cup",2.92
+173765,16223,NDB #,SR Legacy,"Soymilk (All flavors), enhanced",1.20,243,g,"1 cup",2.92
+173723,15264,NDB #,SR Legacy,"Salmon, sockeye, canned, drained solids, without skin and bones",0.00,85,g,"3 oz",0.00
+173723,15264,NDB #,SR Legacy,"Salmon, sockeye, canned, drained solids, without skin and bones",0.00,247,g,"1 can drained solids, bone and skin removed",0.00
+173724,15265,NDB #,SR Legacy,"Fish, Salmon, pink, canned, drained solids, without skin and bones",0.00,242,g,"1 can drained solids, bone and skin removed",0.00
+173724,15265,NDB #,SR Legacy,"Fish, Salmon, pink, canned, drained solids, without skin and bones",0.00,85,g,"3 oz",0.00
+173693,15087,NDB #,SR Legacy,"Fish, salmon, sockeye, canned, drained solids",0.00,85,g,"3 oz",0.00
+173693,15087,NDB #,SR Legacy,"Fish, salmon, sockeye, canned, drained solids",0.00,337,g,"1 can",0.00
+173684,15070,NDB #,SR Legacy,"Fish, rockfish, Pacific, mixed species, raw",0.00,191,g,"1 fillet",0.00
+173684,15070,NDB #,SR Legacy,"Fish, rockfish, Pacific, mixed species, raw",0.00,85,g,"3 oz",0.00
+173592,4639,NDB #,SR Legacy,"Salad dressing, ranch dressing, regular",0.00,15,g,"1 tablespoon",0.00
+173592,4639,NDB #,SR Legacy,"Salad dressing, ranch dressing, regular",0.00,30,g,"1 serving",0.00
+173589,4630,NDB #,SR Legacy,"Margarine Spread, 40-49% fat, tub",0.00,100,g,"100 g",0.00
+173581,4601,NDB #,SR Legacy,"Butter, light, stick, with salt",0.00,14,g,"1 tablespoon",0.00
+173428,1137,NDB #,SR Legacy,"Egg, yolk, dried",0.00,4,g,"1 tbsp",0.00
+173428,1137,NDB #,SR Legacy,"Egg, yolk, dried",0.00,67,g,"1 cup, sifted",0.00
+173430,1145,NDB #,SR Legacy,"Butter, without salt",0.00,227,g,"1 cup",0.00
+173430,1145,NDB #,SR Legacy,"Butter, without salt",0.00,113,g,"1 stick",0.00
+173430,1145,NDB #,SR Legacy,"Butter, without salt",0.00,14.199999999999999289457264239899814128875732421875,g,"1 tbsp",0.00
+173430,1145,NDB #,SR Legacy,"Butter, without salt",0.00,5,g,"1 pat (1 sq, 1/3 high)",0.00
+173421,1126,NDB #,SR Legacy,"Egg, yolk, raw, frozen, pasteurized",0.00,227,g,"0.5 lb",0.00
+173421,1126,NDB #,SR Legacy,"Egg, yolk, raw, frozen, pasteurized",0.00,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.00
+173418,1017,NDB #,SR Legacy,"Cheese, cream",0.00,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.00
+173418,1017,NDB #,SR Legacy,"Cheese, cream",0.00,14.5,g,"1 tbsp",0.00
+173418,1017,NDB #,SR Legacy,"Cheese, cream",0.00,85,g,"1 package, small (3 oz)",0.00
+173418,1017,NDB #,SR Legacy,"Cheese, cream",0.00,10,g,"1 tbsp, whipped",0.00
+173418,1017,NDB #,SR Legacy,"Cheese, cream",0.00,232,g,"1 cup",0.00
+173418,1017,NDB #,SR Legacy,"Cheese, cream",0.00,16,g,"1 cubic inch",0.00
+173411,1002,NDB #,SR Legacy,"Butter, whipped, with salt",0.00,76,g,"1 stick",0.00
+173411,1002,NDB #,SR Legacy,"Butter, whipped, with salt",0.00,3.79999999999999982236431605997495353221893310546875,g,"1 pat (1 sq, 1/3 high)",0.00
+173411,1002,NDB #,SR Legacy,"Butter, whipped, with salt",0.00,9.4000000000000003552713678800500929355621337890625,g,"1 tbsp",0.00
+173411,1002,NDB #,SR Legacy,"Butter, whipped, with salt",0.00,151,g,"1 cup",0.00
+173410,1001,NDB #,SR Legacy,"Butter, salted",0.00,14.199999999999999289457264239899814128875732421875,g,"1 tbsp",0.00
+173410,1001,NDB #,SR Legacy,"Butter, salted",0.00,227,g,"1 cup",0.00
+173410,1001,NDB #,SR Legacy,"Butter, salted",0.00,113,g,"1 stick",0.00
+173410,1001,NDB #,SR Legacy,"Butter, salted",0.00,5,g,"1 pat (1 sq, 1/3 high)",0.00
+173412,1003,NDB #,SR Legacy,"Butter oil, anhydrous",0.00,12.800000000000000710542735760100185871124267578125,g,"1 tbsp",0.00
+173412,1003,NDB #,SR Legacy,"Butter oil, anhydrous",0.00,205,g,"1 cup",0.00
+173187,14092,NDB #,SR Legacy,"Beverages, chocolate almond milk, unsweetened, shelf-stable, fortified with vitamin D2 and E",1.00,240,g,"1 cup",2.40
+173182,14080,NDB #,SR Legacy,"Beverages, rich chocolate, powder",0.00,11,g,"2 tbsp",0.00
+173158,25067,NDB #,SR Legacy,"Formulated Bar, SOUTH BEACH protein bar",0.00,53,g,"1 bar",0.00
+172934,7063,NDB #,SR Legacy,"Pork sausage, link/patty, unprepared",0.00,25,g,"1 link",0.00
+172901,6338,NDB #,SR Legacy,"CAMPBELL'S, Cream of Mushroom Soup, condensed",0.20,129,g,"0.5 cup condensed",0.26
+172663,17463,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rack, roast, frenched, bone-in, separable lean and fat, trimmed to 1/8 fat, cooked, roasted",0.00,447,g,"1 roast",0.00
+172663,17463,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rack, roast, frenched, bone-in, separable lean and fat, trimmed to 1/8 fat, cooked, roasted",0.00,85,g,"3 oz",0.00
+172662,17462,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rack, roast, frenched, denuded, bone-in, separable lean and fat, trimmed to 0 fat, cooked, roasted",0.00,329,g,"1 roast",0.00
+172662,17462,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rack, roast, frenched, denuded, bone-in, separable lean and fat, trimmed to 0 fat, cooked, roasted",0.00,85,g,"3 oz",0.00
+172661,17461,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rib chop, frenched, denuded, bone-in, separable lean only, trimmed to 0 fat, cooked, grilled",0.00,43,g,"1 chop",0.00
+172661,17461,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rib chop, frenched, denuded, bone-in, separable lean only, trimmed to 0 fat, cooked, grilled",0.00,85,g,"3 oz",0.00
+172660,17460,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, tenderloin, boneless, separable lean and fat, trimmed to 1/8 fat, raw",0.00,113,g,"4 oz",0.00
+172660,17460,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, tenderloin, boneless, separable lean and fat, trimmed to 1/8 fat, raw",0.00,146,g,"1 roast",0.00
+172658,17453,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, bottom, boneless, separable lean and fat, trimmed to 1/8 fat, cooked, roasted",0.00,723,g,"1 leg bottom, boneless",0.00
+172658,17453,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, bottom, boneless, separable lean and fat, trimmed to 1/8 fat, cooked, roasted",0.00,85,g,"3 oz",0.00
+172659,17454,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, bottom, boneless, separable lean and fat, trimmed to 1/8 fat, raw",0.00,989,g,"1 leg bottom, boneless",0.00
+172659,17454,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, bottom, boneless, separable lean and fat, trimmed to 1/8 fat, raw",0.00,113,g,"4 oz",0.00
+172656,17451,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, seam fat, cooked",0.00,100,g,"100 g",0.00
+172654,17445,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, trotter off, bone-in, separable lean only, trimmed to 1/8 fat, cooked, roasted",0.00,85,g,"3 oz",0.00
+172654,17445,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, trotter off, bone-in, separable lean only, trimmed to 1/8 fat, cooked, roasted",0.00,1808,g,"1 leg trotter off",0.00
+172655,17446,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, trotter off, bone-in, separable lean only, trimmed to 1/8 fat, raw",0.00,2674,g,"1 leg trotter off",0.00
+172655,17446,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, trotter off, bone-in, separable lean only, trimmed to 1/8 fat, raw",0.00,113,g,"4 oz",0.00
+172657,17452,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, seam fat, raw",0.00,113,g,"4 oz",0.00
+172652,17443,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, tenderloin, boneless, separable lean only, trimmed to 1/8 fat, raw",0.00,113,g,"4 oz",0.00
+172652,17443,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, tenderloin, boneless, separable lean only, trimmed to 1/8 fat, raw",0.00,146,g,"1 roast",0.00
+172653,17444,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, bottom, boneless, separable lean only, trimmed to 1/8 fat, raw",0.00,113,g,"4 oz",0.00
+172653,17444,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, leg, bottom, boneless, separable lean only, trimmed to 1/8 fat, raw",0.00,989,g,"1 leg bottom, boneless",0.00
+172589,17317,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rib chop, frenched, bone-in, separable lean only, trimmed to 1/8 fat, cooked, grilled",0.00,85,g,"3 oz",0.00
+172589,17317,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rib chop, frenched, bone-in, separable lean only, trimmed to 1/8 fat, cooked, grilled",0.00,54,g,"1 chop",0.00
+172589,17317,NDB #,SR Legacy,"Lamb, Australian, imported, fresh, rib chop, frenched, bone-in, separable lean only, trimmed to 1/8 fat, cooked, grilled",0.00,241,g,"1 piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",0.00
+172456,16139,NDB #,SR Legacy,"Soymilk, original and vanilla, with added calcium, vitamins A and D",1.10,30.60000000000000142108547152020037174224853515625,g,"1 fl oz",0.34
+172456,16139,NDB #,SR Legacy,"Soymilk, original and vanilla, with added calcium, vitamins A and D",1.10,243,g,"1 cup",2.67
+172344,4602,NDB #,SR Legacy,"Butter, light, stick, without salt",0.00,14,g,"1 tablespoon",0.00
+172203,1172,NDB #,SR Legacy,"Egg, white, raw, frozen, pasteurized",0.00,28,g,"1 oz",0.00
+172202,1171,NDB #,SR Legacy,"Egg, whole, raw, frozen, pasteurized (Includes foods for USDA's Food Distribution Program)",0.00,28,g,"1 oz",0.00
+172188,1133,NDB #,SR Legacy,"Egg, whole, dried",0.00,5,g,"1 tbsp",0.00
+172188,1133,NDB #,SR Legacy,"Egg, whole, dried",0.00,85,g,"1 cup, sifted",0.00
+171942,14639,NDB #,SR Legacy,"Beverages, rice milk, unsweetened",1.00,240,g,"8 fl oz (approximate weight, 1 serving)",2.40
+171636,7966,NDB #,SR Legacy,"Pork sausage, link/patty, reduced fat, cooked, pan-fried",0.00,343,g,"1 package",0.00
+171636,7966,NDB #,SR Legacy,"Pork sausage, link/patty, reduced fat, cooked, pan-fried",0.00,85,g,"3 oz",0.00
+171634,7964,NDB #,SR Legacy,"Frankfurter, meat and poultry, cooked, grilled",0.00,48,g,"1 frankfurter",0.00
+171635,7965,NDB #,SR Legacy,"Pork sausage, link/patty, reduced fat, unprepared",0.00,85,g,"3 oz",0.00
+171635,7965,NDB #,SR Legacy,"Pork sausage, link/patty, reduced fat, unprepared",0.00,343,g,"1 package",0.00
+171415,4128,NDB #,SR Legacy,"Margarine,spread, 35-39% fat, tub",0.00,4.79999999999999982236431605997495353221893310546875,g,"1 tsp",0.00
+171415,4128,NDB #,SR Legacy,"Margarine,spread, 35-39% fat, tub",0.00,232,g,"1 cup",0.00
+171403,4018,NDB #,SR Legacy,"Salad dressing, mayonnaise type, regular, with salt",0.00,14.699999999999999289457264239899814128875732421875,g,"1 tbsp",0.00
+171403,4018,NDB #,SR Legacy,"Salad dressing, mayonnaise type, regular, with salt",0.00,235,g,"1 cup",0.00
+171360,3189,NDB #,SR Legacy,"Babyfood, cereal, oatmeal, dry fortified",0.00,3.20000000000000017763568394002504646778106689453125,g,"1 tbsp",0.00
+171360,3189,NDB #,SR Legacy,"Babyfood, cereal, oatmeal, dry fortified",0.00,15,g,"0.5 oz",0.00
+171360,3189,NDB #,SR Legacy,"Babyfood, cereal, oatmeal, dry fortified",0.00,223,g,"1 box",0.00
+171360,3189,NDB #,SR Legacy,"Babyfood, cereal, oatmeal, dry fortified",0.00,12.199999999999999289457264239899814128875732421875,g,"0.25 cup",0.00
+171304,1293,NDB #,SR Legacy,"Yogurt, Greek, plain, whole milk",0.00,100,g,"100 g",0.00
+171301,1290,NDB #,SR Legacy,"Kefir, lowfat, strawberry, LIFEWAY",0.00,247,g,"1 cup",0.00
+171301,1290,NDB #,SR Legacy,"Kefir, lowfat, strawberry, LIFEWAY",0.00,989,g,"1 bottle",0.00
+171300,1284,NDB #,SR Legacy,"Yogurt, Greek, strawberry, lowfat",0.00,170,g,"1 container (6 oz)",0.00
+171300,1284,NDB #,SR Legacy,"Yogurt, Greek, strawberry, lowfat",0.00,245,g,"1 cup (8 fl oz)",0.00
+171300,1284,NDB #,SR Legacy,"Yogurt, Greek, strawberry, lowfat",0.00,116,g,"1 container, Dannon Sprinkl'ins (4.1 oz)",0.00
+171300,1284,NDB #,SR Legacy,"Yogurt, Greek, strawberry, lowfat",0.00,227,g,"1 container (8 oz)",0.00
+171300,1284,NDB #,SR Legacy,"Yogurt, Greek, strawberry, lowfat",0.00,150,g,"1 container (5.3 oz)",0.00
+171300,1284,NDB #,SR Legacy,"Yogurt, Greek, strawberry, lowfat",0.00,113,g,"0 container (4 oz)",0.00
+171298,1278,NDB #,SR Legacy,"Yogurt, Greek, nonfat, vanilla, DANNON OIKOS",0.00,150,g,"5.3 oz",0.00
+171299,1280,NDB #,SR Legacy,"Yogurt, Greek, nonfat, strawberry, DANNON OIKOS",0.00,150,g,"5.3 oz",0.00
+171297,1276,NDB #,SR Legacy,"Yogurt, Greek, strawberry, DANNON OIKOS",0.00,150,g,"5.3 oz",0.00
+171291,1254,NDB #,SR Legacy,"Cheese food, pasteurized process, American, without added vitamin D",0.00,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.00
+171291,1254,NDB #,SR Legacy,"Cheese food, pasteurized process, American, without added vitamin D",0.00,21,g,"1 slice (3/4 oz)",0.00
+171291,1254,NDB #,SR Legacy,"Cheese food, pasteurized process, American, without added vitamin D",0.00,113,g,"1 cup",0.00
+171291,1254,NDB #,SR Legacy,"Cheese food, pasteurized process, American, without added vitamin D",0.00,227,g,"1 package (8 oz)",0.00
+171289,1252,NDB #,SR Legacy,"Cheese product, pasteurized process, American, vitamin D fortified",0.00,21,g,"1 slice (3/4 oz)",0.00
+171289,1252,NDB #,SR Legacy,"Cheese product, pasteurized process, American, vitamin D fortified",0.00,19,g,"1 slice (2/3 oz)",0.00
+171290,1253,NDB #,SR Legacy,"Cheese, pasteurized process, American, without added vitamin D",0.00,21,g,"1 slice (3/4 oz)",0.00
+171290,1253,NDB #,SR Legacy,"Cheese, pasteurized process, American, without added vitamin D",0.00,244,g,"1 cup, melted",0.00
+171290,1253,NDB #,SR Legacy,"Cheese, pasteurized process, American, without added vitamin D",0.00,18,g,"1 cubic inch",0.00
+171290,1253,NDB #,SR Legacy,"Cheese, pasteurized process, American, without added vitamin D",0.00,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.00
+171290,1253,NDB #,SR Legacy,"Cheese, pasteurized process, American, without added vitamin D",0.00,140,g,"1 cup, diced",0.00
+171290,1253,NDB #,SR Legacy,"Cheese, pasteurized process, American, without added vitamin D",0.00,113,g,"1 cup, shredded",0.00
+171290,1253,NDB #,SR Legacy,"Cheese, pasteurized process, American, without added vitamin D",0.00,28,g,"1 slice (1 oz)",0.00
+167668,36602,NDB #,SR Legacy,"Restaurant, Chinese, fried rice, without meat",0.00,137,g,"1 cup",0.00
+167678,36626,NDB #,SR Legacy,"Restaurant, Chinese, chicken and vegetables",0.00,693,g,"1 order",0.00
+167678,36626,NDB #,SR Legacy,"Restaurant, Chinese, chicken and vegetables",0.00,153,g,"1 cup",0.00
+167730,43543,NDB #,SR Legacy,"Milk, imitation, non-soy",1.10,244,g,"1 cup",2.68
+167730,43543,NDB #,SR Legacy,"Milk, imitation, non-soy",1.10,30.5,g,"1 fl oz",0.34
+167869,10130,NDB #,SR Legacy,"Canadian bacon, unprepared",0.00,170,g,"1 package (6 oz)",0.00
+167869,10130,NDB #,SR Legacy,"Canadian bacon, unprepared",0.00,85,g,"3 oz",0.00
+167869,10130,NDB #,SR Legacy,"Canadian bacon, unprepared",0.00,57,g,"2 slices (6 per 6-oz pkg.)",0.00
+168138,43570,NDB #,SR Legacy,"Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, honey roasted",0.00,30,g,"0.75 cup (1 NLEA serving)",0.00
+168383,10998,NDB #,SR Legacy,"Canadian bacon, cooked, pan-fried",0.00,13.800000000000000710542735760100185871124267578125,g,"1 slice",0.00
+168423,11240,NDB #,SR Legacy,"Mushrooms, morel, raw",5.10,12.9000000000000003552713678800500929355621337890625,g,"1 piece",0.66
+168423,11240,NDB #,SR Legacy,"Mushrooms, morel, raw",5.10,66,g,"1 cup",3.37
+168422,11239,NDB #,SR Legacy,"Mushrooms, Chanterelle, raw",5.30,54,g,"1 cup",2.86
+168422,11239,NDB #,SR Legacy,"Mushrooms, Chanterelle, raw",5.30,5.4000000000000003552713678800500929355621337890625,g,"1 piece",0.29
+168434,11266,NDB #,SR Legacy,"Mushrooms, brown, italian, or crimini, raw",0.10,20,g,"1 piece whole",0.02
+168434,11266,NDB #,SR Legacy,"Mushrooms, brown, italian, or crimini, raw",0.10,87,g,"1 cup whole",0.09
+168434,11266,NDB #,SR Legacy,"Mushrooms, brown, italian, or crimini, raw",0.10,72,g,"1 cup sliced",0.07
+168436,11268,NDB #,SR Legacy,"Mushrooms, shiitake, dried",3.90,3.600000000000000088817841970012523233890533447265625,g,"1 mushroom",0.14
+168436,11268,NDB #,SR Legacy,"Mushrooms, shiitake, dried",3.90,15,g,"4 mushrooms",0.58
+168435,11267,NDB #,SR Legacy,"Mushrooms, shiitake, stir-fried",0.50,89,g,"1 cup whole",0.44
+168435,11267,NDB #,SR Legacy,"Mushrooms, shiitake, stir-fried",0.50,97,g,"1 cup sliced",0.48
+168435,11267,NDB #,SR Legacy,"Mushrooms, shiitake, stir-fried",0.50,19,g,"1 piece whole",0.10
+168437,11269,NDB #,SR Legacy,"Mushrooms, shiitake, cooked, without salt",0.70,72,g,"4 mushrooms",0.50
+168437,11269,NDB #,SR Legacy,"Mushrooms, shiitake, cooked, without salt",0.70,145,g,"1 cup pieces",1.01
+168537,11797,NDB #,SR Legacy,"Mushrooms, white, cooked, boiled, drained, with salt",0.20,12,g,"1 mushroom",0.02
+168537,11797,NDB #,SR Legacy,"Mushrooms, white, cooked, boiled, drained, with salt",0.20,156,g,"1 cup pieces",0.31
+168537,11797,NDB #,SR Legacy,"Mushrooms, white, cooked, boiled, drained, with salt",0.20,9.800000000000000710542735760100185871124267578125,g,"1 tbsp",0.02
+168557,11936,NDB #,SR Legacy,"Mushrooms, brown, italian, or crimini, exposed to ultraviolet light, raw",31.9,87,g,"1 cup whole",27.8
+168557,11936,NDB #,SR Legacy,"Mushrooms, brown, italian, or crimini, exposed to ultraviolet light, raw",31.9,20,g,"1 piece whole",6.38
+168557,11936,NDB #,SR Legacy,"Mushrooms, brown, italian, or crimini, exposed to ultraviolet light, raw",31.9,72,g,"1 cup sliced",23.0
+168580,11987,NDB #,SR Legacy,"Mushrooms, oyster, raw",0.70,86,g,"1 cup sliced",0.60
+168580,11987,NDB #,SR Legacy,"Mushrooms, oyster, raw",0.70,148,g,"1 large",1.04
+168580,11987,NDB #,SR Legacy,"Mushrooms, oyster, raw",0.70,15,g,"1 small",0.10
+169143,11056,NDB #,SR Legacy,"Beans, snap, green, canned, regular pack, drained solids",0.00,262,g,"1 can (303 x 406)",0.00
+169143,11056,NDB #,SR Legacy,"Beans, snap, green, canned, regular pack, drained solids",0.00,62,g,"10 beans",0.00
+169143,11056,NDB #,SR Legacy,"Beans, snap, green, canned, regular pack, drained solids",0.00,135,g,"1 cup",0.00
+169243,11243,NDB #,SR Legacy,"Mushrooms, portabella, grilled",0.30,121,g,"1 cup sliced",0.36
+169242,11238,NDB #,SR Legacy,"Mushrooms, shiitake, raw",0.40,19,g,"1 piece whole",0.08
+169251,11260,NDB #,SR Legacy,"Mushrooms, white, raw",0.20,35,g,"0.5 cup pieces",0.07
+169251,11260,NDB #,SR Legacy,"Mushrooms, white, raw",0.20,23,g,"1 large",0.05
+169251,11260,NDB #,SR Legacy,"Mushrooms, white, raw",0.20,18,g,"1 medium",0.04
+169251,11260,NDB #,SR Legacy,"Mushrooms, white, raw",0.20,96,g,"1 cup, whole",0.19
+169251,11260,NDB #,SR Legacy,"Mushrooms, white, raw",0.20,6,g,"1 slice",0.01
+169251,11260,NDB #,SR Legacy,"Mushrooms, white, raw",0.20,70,g,"1 cup, pieces or slices",0.14
+169251,11260,NDB #,SR Legacy,"Mushrooms, white, raw",0.20,10,g,"1 small",0.02
+169253,11263,NDB #,SR Legacy,"Mushrooms, white, stir-fried",0.20,108,g,"1 cup sliced",0.22
+169252,11261,NDB #,SR Legacy,"Mushrooms, white, cooked, boiled, drained, without salt",0.20,9.800000000000000710542735760100185871124267578125,g,"1 tbsp",0.02
+169252,11261,NDB #,SR Legacy,"Mushrooms, white, cooked, boiled, drained, without salt",0.20,12,g,"1 mushroom",0.02
+169252,11261,NDB #,SR Legacy,"Mushrooms, white, cooked, boiled, drained, without salt",0.20,156,g,"1 cup pieces",0.31
+169254,11264,NDB #,SR Legacy,"Mushrooms, canned, drained solids",0.20,16,g,"1 large",0.03
+169254,11264,NDB #,SR Legacy,"Mushrooms, canned, drained solids",0.20,40,g,"10 slices",0.08
+169254,11264,NDB #,SR Legacy,"Mushrooms, canned, drained solids",0.20,7,g,"1 small",0.01
+169254,11264,NDB #,SR Legacy,"Mushrooms, canned, drained solids",0.20,78,g,"0.5 cup pieces",0.16
+169254,11264,NDB #,SR Legacy,"Mushrooms, canned, drained solids",0.20,47,g,"8 caps",0.09
+169254,11264,NDB #,SR Legacy,"Mushrooms, canned, drained solids",0.20,156,g,"1 cup",0.31
+169254,11264,NDB #,SR Legacy,"Mushrooms, canned, drained solids",0.20,12,g,"1 medium",0.02
+169254,11264,NDB #,SR Legacy,"Mushrooms, canned, drained solids",0.20,132,g,"1 can",0.26
+169255,11265,NDB #,SR Legacy,"Mushrooms, portabella, raw",0.30,86,g,"1 cup diced",0.26
+169255,11265,NDB #,SR Legacy,"Mushrooms, portabella, raw",0.30,84,g,"1 piece whole",0.25
+169376,11938,NDB #,SR Legacy,"Mushroom, white, exposed to ultraviolet light, raw",26.2,18,g,"1 medium",4.72
+169376,11938,NDB #,SR Legacy,"Mushroom, white, exposed to ultraviolet light, raw",26.2,70,g,"1 cup pieces or slices",18.3
+169376,11938,NDB #,SR Legacy,"Mushroom, white, exposed to ultraviolet light, raw",26.2,23,g,"1 large",6.03
+169376,11938,NDB #,SR Legacy,"Mushroom, white, exposed to ultraviolet light, raw",26.2,96,g,"1 cup whole",25.2
+169376,11938,NDB #,SR Legacy,"Mushroom, white, exposed to ultraviolet light, raw",26.2,10,g,"1 small",2.62
+169376,11938,NDB #,SR Legacy,"Mushroom, white, exposed to ultraviolet light, raw",26.2,6,g,"1 slice",1.57
+169377,11939,NDB #,SR Legacy,"Mushrooms, portabella, exposed to ultraviolet light, grilled",13.1,121,g,"1 cup sliced",15.8
+169382,11950,NDB #,SR Legacy,"Mushrooms, enoki, raw",0.10,64,g,"1 cup whole",0.06
+169382,11950,NDB #,SR Legacy,"Mushrooms, enoki, raw",0.10,65,g,"1 cup sliced",0.07
+169382,11950,NDB #,SR Legacy,"Mushrooms, enoki, raw",0.10,3,g,"1 medium",0.10
+169382,11950,NDB #,SR Legacy,"Mushrooms, enoki, raw",0.10,5,g,"1 large",0.01
+169402,11992,NDB #,SR Legacy,"Mushrooms, white, microwaved",0.30,100,g,"100 g",0.30
+169403,11993,NDB #,SR Legacy,"Mushrooms, maitake, raw",28.1,1.100000000000000088817841970012523233890533447265625,g,"1 piece whole",0.31
+169403,11993,NDB #,SR Legacy,"Mushrooms, maitake, raw",28.1,70,g,"1 cup diced",19.7
+170044,11391,NDB #,SR Legacy,"Potatoes, hash brown, frozen, plain, prepared, pan fried in canola oil",0.00,29,g,"1 patty, oval (approx 3 x 1-1/2 x 1/2)",0.00
+170044,11391,NDB #,SR Legacy,"Potatoes, hash brown, frozen, plain, prepared, pan fried in canola oil",0.00,205,g,"1 package yield, 12 oz",0.00
+170044,11391,NDB #,SR Legacy,"Potatoes, hash brown, frozen, plain, prepared, pan fried in canola oil",0.00,150,g,"1 cup prepared",0.00
+170097,11798,NDB #,SR Legacy,"Mushrooms, shiitake, cooked, with salt",0.70,72,g,"4 mushrooms",0.50
+170097,11798,NDB #,SR Legacy,"Mushrooms, shiitake, cooked, with salt",0.70,145,g,"1 cup pieces",1.01
+170143,11998,NDB #,SR Legacy,"Mushrooms, portabella, exposed to ultraviolet light, raw",28.4,86,g,"1 cup diced",24.4
+170143,11998,NDB #,SR Legacy,"Mushrooms, portabella, exposed to ultraviolet light, raw",28.4,84,g,"1 piece whole",23.9
+170853,1042,NDB #,SR Legacy,"Cheese, pasteurized process, American, fortified with vitamin D",0.00,18,g,"1 cubic inch",0.00
+170853,1042,NDB #,SR Legacy,"Cheese, pasteurized process, American, fortified with vitamin D",0.00,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.00
+170853,1042,NDB #,SR Legacy,"Cheese, pasteurized process, American, fortified with vitamin D",0.00,21,g,"1 slice (3/4 oz)",0.00
+170853,1042,NDB #,SR Legacy,"Cheese, pasteurized process, American, fortified with vitamin D",0.00,244,g,"1 cup, melted",0.00
+170853,1042,NDB #,SR Legacy,"Cheese, pasteurized process, American, fortified with vitamin D",0.00,140,g,"1 cup, diced",0.00
+170853,1042,NDB #,SR Legacy,"Cheese, pasteurized process, American, fortified with vitamin D",0.00,28,g,"1 slice (1 oz)",0.00
+170853,1042,NDB #,SR Legacy,"Cheese, pasteurized process, American, fortified with vitamin D",0.00,113,g,"1 cup, shredded",0.00
+170859,1053,NDB #,SR Legacy,"Cream, fluid, heavy whipping",0.00,29.800000000000000710542735760100185871124267578125,g,"1 fl oz",0.00
+170859,1053,NDB #,SR Legacy,"Cream, fluid, heavy whipping",0.00,15,g,"1 tbsp",0.00
+170859,1053,NDB #,SR Legacy,"Cream, fluid, heavy whipping",0.00,238,g,"1 cup, fluid (yields 2 cups whipped)",0.00
+170859,1053,NDB #,SR Legacy,"Cream, fluid, heavy whipping",0.00,120,g,"1 cup, whipped",0.00
+170857,1050,NDB #,SR Legacy,"Cream, fluid, light (coffee cream or table cream)",0.00,240,g,"1 cup",0.00
+170857,1050,NDB #,SR Legacy,"Cream, fluid, light (coffee cream or table cream)",0.00,15,g,"1 tbsp",0.00
+170857,1050,NDB #,SR Legacy,"Cream, fluid, light (coffee cream or table cream)",0.00,30,g,"1 fl oz",0.00
+170857,1050,NDB #,SR Legacy,"Cream, fluid, light (coffee cream or table cream)",0.00,11.0999999999999996447286321199499070644378662109375,g,"1 container, individual",0.00
+170881,1104,NDB #,SR Legacy,"Milk, chocolate, lowfat, with added vitamin A and vitamin D",0.00,250,g,"1 cup",0.00
+170881,1104,NDB #,SR Legacy,"Milk, chocolate, lowfat, with added vitamin A and vitamin D",0.00,1000,g,"1 quart",0.00
+170894,1256,NDB #,SR Legacy,"Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)",0.00,170,g,"1 container",0.00
+170901,1285,NDB #,SR Legacy,"Yogurt, Greek, strawberry, nonfat",0.00,150,g,"1 container (5.3 oz)",0.00
+170904,1289,NDB #,SR Legacy,"Kefir, lowfat, plain, LIFEWAY",0.00,243,g,"1 cup",0.00
+170904,1289,NDB #,SR Legacy,"Kefir, lowfat, plain, LIFEWAY",0.00,971,g,"1 bottle",0.00
+170902,1286,NDB #,SR Legacy,"Yogurt, Greek, vanilla, nonfat",0.00,150,g,"1 container (5.3 oz)",0.00
+170905,1294,NDB #,SR Legacy,"Yogurt, Greek, fruit, whole milk",0.00,100,g,"100 g",0.00
+170910,1305,NDB #,SR Legacy,"Milk, chocolate, lowfat, reduced sugar",0.00,100,g,"100 g",0.00
+170907,1297,NDB #,SR Legacy,"Yogurt, Greek, vanilla, lowfat",0.00,100,g,"100 g",0.00
+170914,1320,NDB #,SR Legacy,"Yogurt, Greek, Blueberry, CHOBANI",0.00,100,g,"100 g",0.00
+170915,1321,NDB #,SR Legacy,"Yogurt, Greek, nonfat, Fruit on Bottom, Strawberry, CHOBANI",0.00,100,g,"100 g",0.00
+170969,3194,NDB #,SR Legacy,"Babyfood, cereal, rice, dry fortified",0.00,2.5,g,"1 tbsp",0.00
+170969,3194,NDB #,SR Legacy,"Babyfood, cereal, rice, dry fortified",0.00,15,g,"0.5 oz",0.00
+171155,6043,NDB #,SR Legacy,"Soup, cream of mushroom, canned, condensed",0.20,126,g,"0.5 cup",0.25
+171252,1046,NDB #,SR Legacy,"Cheese food, pasteurized process, American, vitamin D fortified",0.00,21,g,"1 slice (3/4 oz)",0.00
+171252,1046,NDB #,SR Legacy,"Cheese food, pasteurized process, American, vitamin D fortified",0.00,113,g,"1 cup",0.00
+171252,1046,NDB #,SR Legacy,"Cheese food, pasteurized process, American, vitamin D fortified",0.00,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.00
+171252,1046,NDB #,SR Legacy,"Cheese food, pasteurized process, American, vitamin D fortified",0.00,227,g,"1 package (8 oz)",0.00
+171251,1040,NDB #,SR Legacy,"Cheese, swiss",0.00,28,g,"1 slice (1 oz)",0.00
+171251,1040,NDB #,SR Legacy,"Cheese, swiss",0.00,132,g,"1 cup, diced",0.00
+171251,1040,NDB #,SR Legacy,"Cheese, swiss",0.00,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.00
+171251,1040,NDB #,SR Legacy,"Cheese, swiss",0.00,15,g,"1 cubic inch",0.00
+171251,1040,NDB #,SR Legacy,"Cheese, swiss",0.00,108,g,"1 cup, shredded",0.00
+171251,1040,NDB #,SR Legacy,"Cheese, swiss",0.00,244,g,"1 cup, melted",0.00
+171257,1056,NDB #,SR Legacy,"Cream, sour, cultured",0.00,230,g,"1 cup",0.00
+171257,1056,NDB #,SR Legacy,"Cream, sour, cultured",0.00,12,g,"1 tbsp",0.00
+171255,1049,NDB #,SR Legacy,"Cream, fluid, half and half",0.00,30.199999999999999289457264239899814128875732421875,g,"1 fl oz",0.00
+171255,1049,NDB #,SR Legacy,"Cream, fluid, half and half",0.00,15,g,"1 container, individual (.5 fl oz)",0.00
+171255,1049,NDB #,SR Legacy,"Cream, fluid, half and half",0.00,242,g,"1 cup",0.00
+171255,1049,NDB #,SR Legacy,"Cream, fluid, half and half",0.00,15,g,"1 tbsp",0.00
