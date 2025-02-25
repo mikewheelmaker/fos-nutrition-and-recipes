@@ -9,12 +9,18 @@
 \usepackage{siunitx}
 \usepackage{textgreek}
 
-\begin{document}
 \title{Vitamins}
 \author{Radu-Mihai Rotariu}
+\date{}
+
+\begin{document}
+\begin{titlepage}
 \maketitle
+\end{titlepage}
 \pagenumbering{roman}
-\tableofcontents\newpage
+\tableofcontents
+\newpage
+\begin{sloppypar}
 \pagenumbering{arabic}
 
 \chapter{Vitamin A}
@@ -40,8 +46,8 @@ Since four of the carotenoids can be converted into retinol, an equivalency has 
 
 As such, here is a list of the standard units of measurements for retinol and its equivalent for all the precursors:
 
-\begin{table}[h]
-	\caption{VItamin A standard measurement units}
+\begin{table}[ht]
+	\caption{Vitamin A standard measurement units}
 	\centering \begin{tabular}{| l | c |}
 		\hline
 		\textbf{Substance and its chemical} & \textbf{\textmu g RAE}\\
@@ -68,7 +74,7 @@ The acronyms used are:
 	\item UL --- Upper Limit
 \end{itemize}
 
-\begin{table}[h]
+\begin{table}[ht]
 	\caption{Retinol Daily Reference Intakes}
 	\centering \begin{tabular}{| r | c | c |}
 		\hline
@@ -95,7 +101,7 @@ The acronyms used are:
 \section{Sources}
 
 
-\chapter{Vitamin B\textsubscript{1}}
+\chapter{Vitamin B\texorpdfstring{\textsubscript{1}}{1}}
 \begin{figure}[h]
 	\caption{Chemical structure of  the thiamine cation}
 	\centering \includegraphics[width=\textwidth]{images/Vitamin_B1_chemical_structure}
@@ -118,7 +124,7 @@ The acronyms used are:
 
 \textbf{Note}: Neither the US National Academy of Medicine nor the European Food Safety Authority have determined the tolerable upper intake level for thiamine.
 
-\begin{table}[h]
+\begin{table}[ht]
 	\caption{Thiamine Daily Reference Intakes}
 	\centering \begin{tabular}{| r | c | c |}
 		\hline
@@ -141,7 +147,7 @@ The acronyms used are:
 \section{Sources}
 
 
-\chapter{Vitamin B\textsubscript{2}}
+\chapter{Vitamin B\texorpdfstring{\textsubscript{2}}{2}}
 \begin{figure}[h]
 	\caption{Chemical structure of riboflavin}
 	\centering \includegraphics[width=\textwidth]{images/Vitamin_B2_chemical_structure}
@@ -163,7 +169,7 @@ The acronyms used are:
 
 \textbf{Note}: Since riboflavin is water soluble, the excess will either not be absorbed or, if absorbed, will be excreted via the kidneys into urine, resulting in a bright yellow colour known as flavinuria. There have been no documented adverse effects from taking too much vitamin B\textsubscript{2}.
 
-\begin{table}[h]
+\begin{table}[ht]
 	\caption{Riboflavin Daily Reference Intakes}
 	\centering \begin{tabular}{| r | c | c |}
 		\hline
@@ -187,7 +193,7 @@ The acronyms used are:
 \section{Sources}
 
 
-\chapter{Vitamin B\textsubscript{3}}
+\chapter{Vitamin B\texorpdfstring{\textsubscript{3}}{3}}
 \begin{figure}[h]
 	\caption{Chemical structure of niacin}
 	\centering \includegraphics[width=0.49\textwidth]{images/Vitamin_B3_chemical_structure_niacin}
@@ -215,7 +221,7 @@ The acronyms used are:
 
 \textbf{Note}: Since tryptophan can also be used to synthesize vitamin B\textsubscript{3}, a niacin equivalent has been defined. 1 mg NE is equal to 1 mg of niacin or 60 mg of tryptophan.
 
-\begin{table}[h]
+\begin{table}[ht]
 	\caption{Niacin Daily Reference Intakes}
 	\centering \begin{tabular}{| r | c | c |}
 		\hline
@@ -241,7 +247,7 @@ The acronyms used are:
 \section{Sources}
 
 
-\chapter{Vitamin B\textsubscript{5}}
+\chapter{Vitamin B\texorpdfstring{\textsubscript{5}}{5}}
 \begin{figure}[h]
 	\caption{Chemical structure of pantothenic acid}
 	\centering \includegraphics[width=\textwidth]{images/Vitamin_B5_chemical_structure}
@@ -264,7 +270,7 @@ The acronyms used are:
 
 \textbf{Note}: There is no evidence of adverse effects from high doses of pantothenic acid. Therefore, there is no spcified UL.
 
-\begin{table}[h]
+\begin{table}[ht]
 	\caption{Pantothenic Acid Daily Reference Intakes}
 	\centering \begin{tabular}{| r | c | c |}
 		\hline
@@ -285,7 +291,7 @@ The acronyms used are:
 \section{Sources}
 
 
-\chapter{Vitamin B\textsubscript{6}}
+\chapter{Vitamin B\texorpdfstring{\textsubscript{6}}{6}}
 \begin{figure}[h]
 	\caption{Chemical structure of pyridoxal 5'-phosphate (left) and pyridoxal (right)}
 	\centering {
@@ -303,11 +309,19 @@ The acronyms used are:
 \newpage
 
 \section{About}
-Vitamin B\textsubscript{6} is an essential nutrient family of vitamers, which includes: PLP (PyridoxaL 5'-Phosphate) (the active form), PL (PyridoxaL), PNP (PyridoxiNe 5'-Phosphate), PN (PyridoxiNe), PMP (PyridoxaMine 5'-Phosphate), and PM (PyridoxaMine).
+Vitamin B\textsubscript{6} is an essential nutrient family of vitamers, which includes:
+\begin{itemize}
+	\item PLP (PyridoxaL 5'-Phosphate) (the active form)
+	\item PL (PyridoxaL)
+	\item PNP (PyridoxiNe 5'-Phosphate)
+	\item PN (PyridoxiNe)
+	\item PMP (PyridoxaMine 5'-Phosphate)
+	\item PM (PyridoxaMine)
+\end{itemize}
 
- Vitamin B\textsubscript{6} is a water-soluble vitamin. All of its vitamers get converted in the body to PLP.
+Vitamin B\textsubscript{6} is a water-soluble vitamin. All of its vitamers get converted in the body to PLP.
 
- Vitamin B\textsubscript{6} serves as a co-factor in more than 140 cellular reactions, mostly related to amino acid biosynthesis and catabolism.
+Vitamin B\textsubscript{6} serves as a co-factor in more than 140 cellular reactions, mostly related to amino acid biosynthesis and catabolism.
 
 \section{Dietary recommendations}
 Listed below are the recommendations from the US National Academy of Medicine. Data summarized from \href{https://nap.nationalacademies.org/read/6015/chapter/9}{\textit{this document}}.
@@ -319,9 +333,9 @@ The acronyms used are:
 	\item UL --- Upper Limit
 \end{itemize}
 
-\textbf{Note}: There is no evidence of adverse effects from high doses of vitamin B\textsubscript{6} from food sources.There are documented side effects (sensory neuropathy and dermatological lesions) associated with high intake of supplemental vitamin B\textsubscript{6} in the form of pyridoxine.
+\textbf{Note}: There is no evidence of adverse effects from high doses of vitamin B\textsubscript{6} from food sources. There are documented side effects (sensory neuropathy and dermatological lesions) associated with high intake of supplemental vitamin B\textsubscript{6} in the form of pyridoxine.
 
-\begin{table}[h]
+\begin{table}[ht]
 	\caption{Vitamin B\textsubscript{6} Daily Reference Intakes}
 	\centering \begin{tabular}{| r | c | c |}
 		\hline
@@ -348,7 +362,7 @@ The acronyms used are:
 \section{Sources}
 
 
-\chapter{Vitamin B\textsubscript{7}}
+\chapter{Vitamin B\texorpdfstring{\textsubscript{7}}{7}}
 \begin{figure}[h]
 	\caption{Chemical structure of biotin}
 	\centering \includegraphics[width=\textwidth]{images/Vitamin_B7_chemical_structure}
@@ -371,7 +385,7 @@ The acronyms used are:
 
 \textbf{Note}: There is no evidence of adverse effects from high doses of biotin. Therefore there are no defined ULs.
 
-\begin{table}[h]
+\begin{table}[ht]
 	\caption{Biotin Daily Reference Intakes}
 	\centering \begin{tabular}{| r | c | c |}
 		\hline
@@ -393,7 +407,7 @@ The acronyms used are:
 \section{Sources}
 
 
-\chapter{Vitamin B\textsubscript{9}}
+\chapter{Vitamin B\texorpdfstring{\textsubscript{9}}{9}}
 \begin{figure}[h]
 	\caption{Chemical structure of folic acid}
 	\centering \includegraphics[width=\textwidth]{images/Vitamin_B9_chemical_structure}
@@ -417,7 +431,7 @@ The acronyms used are:
 
 \textbf{Note}: No adverse effects have been associated with the consumption of the amounts of folate normally found in foods. The ULs have been set for the supplemented folate.
 
-\begin{table}[h]
+\begin{table}[ht]
 	\caption{Folic Acid Daily Reference Intakes}
 	\centering \begin{tabular}{| r | c | c |}
 		\hline
@@ -441,7 +455,7 @@ The acronyms used are:
 \section{Sources}
 
 
-\chapter{Vitamin B\textsubscript{12}}
+\chapter{Vitamin B\texorpdfstring{\textsubscript{12}}{12}}
 \begin{figure}[h]
 	\caption{General chemical skeletal structure of cobalamins}
 	\centering \includegraphics[width=0.83\textwidth]{images/Vitamin_B12_chemical_structure}
@@ -471,7 +485,7 @@ The acronyms used are:
 
 \textbf{Note}: There is no human data for adverse effects from high doses of any of the vitamers of vitamin B\textsubscript{12}. As such, there is no UL defined.
 
-\begin{table}[h]
+\begin{table}[ht]
 	\caption{Folic Acid Daily Reference Intakes}
 	\centering \begin{tabular}{| r | c | c |}
 		\hline
@@ -515,12 +529,12 @@ The acronyms used are:
 
 \textbf{Note}: The UL for infants could not be established; source of intake should be formula and food only.
 
-\begin{table}[h]
+\begin{table}[ht]
 	\caption{Vitamin C Daily Reference Intakes}
 	\centering \begin{tabular}{| r | c | c |}
 		\hline
 		\textbf{Life stage group} & \textbf{RDA or AI(*)} & \textbf{UL}\\
-		& \textbf{(\textmu mg/day)} & \textbf{(\textmu mg/day)}\\ \hline
+		& \textbf{(mg/day)} & \textbf{(mg/day)}\\ \hline
 		Infants (0--6 months) & 40* & not defined\\ \hline
 		Infants (7--12 months) & 50* & not defined\\ \hline
 		Children (1--3 years) & 15 & 400\\ \hline
@@ -546,22 +560,6 @@ The acronyms used are:
 \begin{figure}[h]
 	\caption{Chemical structure of Vitamin D}
 	\centering \includegraphics[width=0.75\textwidth]{images/Vitamin_D_chemical_structure}
-\end{figure}
-\newpage
-
-\section{About}
-
-
-\section{Dietary recommendations}
-
-
-\section{Sources}
-
-
-\chapter{Vitamin E}
-\begin{figure}[h]
-	\caption{Chemical structure of Vitamin E}
-	\centering \includegraphics[width=\textwidth]{images/Vitamin_E_chemical_structure}
 \end{figure}
 \newpage
 
@@ -616,7 +614,23 @@ The acronyms used are:
 \section{Sources}
 
 
-\chapter{Vitamin K\textsubscript{1}}
+\chapter{Vitamin E}
+\begin{figure}[h]
+	\caption{Chemical structure of Vitamin E}
+	\centering \includegraphics[width=\textwidth]{images/Vitamin_E_chemical_structure}
+\end{figure}
+\newpage
+
+\section{About}
+
+
+\section{Dietary recommendations}
+
+
+\section{Sources}
+
+
+\chapter{Vitamin K\texorpdfstring{\textsubscript{1}}{1}}
 \begin{figure}[h]
 	\caption{Chemical structure of Vitamin K1}
 	\centering \includegraphics[width=\textwidth]{images/Vitamin_K1_chemical_structure}
@@ -632,7 +646,7 @@ The acronyms used are:
 \section{Sources}
 
 
-\chapter{Vitamin K\textsubscript{2}}
+\chapter{Vitamin K\texorpdfstring{\textsubscript{2}}{2}}
 \begin{figure}[h]
 	\caption{Chemical structure of Vitamin K2}
 	\centering \includegraphics[width=0.75\textwidth]{images/Vitamin_K2_chemical_structure}
@@ -648,7 +662,7 @@ The acronyms used are:
 \section{Sources}
 
 
-\chapter{Vitamin K\textsubscript{3}}
+\chapter{Vitamin K\texorpdfstring{\textsubscript{3}}{3}}
 \begin{figure}[h]
 	\caption{Chemical structure of Vitamin K3}
 	\centering \includegraphics[width=0.5\textwidth]{images/Vitamin_K3_chemical_structure}
@@ -678,6 +692,7 @@ The acronyms used are:
 
 
 \section{Sources}
+\end{sloppypar}
 
 
 \listoffigures
