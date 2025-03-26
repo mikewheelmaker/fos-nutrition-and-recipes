@@ -1,0 +1,1287 @@
+fdcId,identifier,identifierType,foodType,foodDescription,value,foodWeight,valueUnit,foodMeasure,measureValue
+2259793,1116,NDB #,Foundation,"Yogurt, plain, whole milk",0.9,100,g,"100 g",0.9
+2259794,1293,NDB #,Foundation,"Yogurt, Greek, plain, whole milk",1.0,100,g,"100 g",1.0
+2346387,1056,NDB #,Foundation,"Cream, sour, full fat",5.2,100,g,"100 g",5.2
+2346386,1053,NDB #,Foundation,"Cream, heavy",8.9,100,g,"100 g",8.9
+2346385,1017,NDB #,Foundation,"Cream cheese, full fat, block",9.9,100,g,"100 g",9.9
+2346384,1012,NDB #,Foundation,"Cottage cheese, full fat, large or small curd",1.3,100,g,"100 g",1.3
+2259795,100272,NDB #,Foundation,"Cheese, parmesan, grated, refrigerated",7.0,100,g,"100 g",7.0
+2259796,1019,NDB #,Foundation,"Cheese, feta, whole milk, crumbled",4.8,100,g,"100 g",4.8
+2259792,1088,NDB #,Foundation,"Buttermilk, low fat",0.3,100,g,"100 g",0.3
+2346403,100285,NDB #,Foundation,"Potatoes, gold, without skin, raw",0.0,100,g,"100 g",0.0
+2346404,100286,NDB #,Foundation,"Sweet potatoes, orange flesh, without skin, raw",0.0,100,g,"100 g",0.0
+2346402,100284,NDB #,Foundation,"Potatoes, red, without skin, raw",0.0,100,g,"100 g",0.0
+2346401,100283,NDB #,Foundation,"Potatoes, russet, without skin, raw",0.0,100,g,"100 g",0.0
+2346400,11052,NDB #,Foundation,"Beans, snap, green, raw",0.0,100,g,"100 g",0.0
+2346408,11112,NDB #,Foundation,"Cabbage, red, raw",0.0,100,g,"100 g",0.0
+2346407,11109,NDB #,Foundation,"Cabbage, green, raw",0.0,100,g,"100 g",0.0
+2346406,11205,NDB #,Foundation,"Cucumber, with peel, raw",0.0,100,g,"100 g",0.0
+2346390,11257,NDB #,Foundation,"Lettuce, leaf, red, raw",0.0,100,g,"100 g",0.0
+2346391,11253,NDB #,Foundation,"Lettuce, leaf, green, raw",0.0,100,g,"100 g",0.0
+2346389,100281,NDB #,Foundation,"Lettuce, romaine, green, raw",0.0,100,g,"100 g",0.0
+2346388,11252,NDB #,Foundation,"Lettuce, iceberg, raw",0.0,100,g,"100 g",0.0
+2257046,100277,NDB #,Foundation,"Oat milk, unsweetened, plain, refrigerated",0.0,100,g,"100 g",0.0
+2257045,100276,NDB #,Foundation,"Almond milk, unsweetened, plain, refrigerated",0.0,100,g,"100 g",0.0
+2257044,100275,NDB #,Foundation,"Soy milk, sweetened, plain, refrigerated",0.0,100,g,"100 g",0.0
+2346392,12147,NDB #,Foundation,"Nuts, pine nuts, raw",0.0,100,g,"100 g",0.0
+2346393,12061,NDB #,Foundation,"Nuts, almonds, whole, raw",0.0,100,g,"100 g",0.0
+2346394,12155,NDB #,Foundation,"Nuts, walnuts, English, halves, raw",0.0,100,g,"100 g",0.0
+2346395,12142,NDB #,Foundation,"Nuts, pecans, halves, raw",0.0,100,g,"100 g",0.0
+1750348,4042,NDB #,Foundation,"Oil, peanut",0.0,100,g,"100 g",0.0
+1750349,100262,NDB #,Foundation,"Oil, sunflower",0.0,100,g,"100 g",0.0
+1750350,4511,NDB #,Foundation,"Oil, safflower",0.0,100,g,"100 g",0.0
+1750351,100258,NDB #,Foundation,"Oil, olive, extra light",0.0,100,g,"100 g",0.0
+1105314,9040,NDB #,Foundation,"Bananas, ripe and slightly ripe, raw",0.0,115,g,"1 Banana, Peeled",0.0
+1105073,100254,NDB #,Foundation,"Bananas, overripe, raw",0.0,110,g,"1 Banana, Peeled",0.0
+746781,100173,NDB #,Foundation,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",16.8,80.400000000000005684341886080801486968994140625,g,"1 link, medium",13.5
+746781,100173,NDB #,Foundation,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",16.8,185,g,"1 cup, ground",31.1
+746781,100173,NDB #,Foundation,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",16.8,186,g,"1 link, long",31.2
+746783,7919,NDB #,Foundation,"Sausage, turkey, breakfast links, mild, raw",36.6,27.89999999999999857891452847979962825775146484375,g,"1 link",10.2
+746783,7919,NDB #,Foundation,"Sausage, turkey, breakfast links, mild, raw",36.6,450,g,"1 package",165
+746780,7089,NDB #,Foundation,"Sausage, Italian, pork, mild, cooked, pan-fried",18.8,86.599999999999994315658113919198513031005859375,g,"1 link, medium",16.3
+746774,36622,NDB #,Foundation,"Restaurant, Chinese, sweet and sour pork",2.0,41.7999999999999971578290569595992565155029296875,g,"3 pieces",0.8
+746774,36622,NDB #,Foundation,"Restaurant, Chinese, sweet and sour pork",2.0,611,g,"1 order",12.2
+746765,1227,NDB #,Foundation,"Cheese, dry white, queso seco",5.9,97.2999999999999971578290569595992565155029296875,g,"1 cup, grated",5.7
+746767,1040,NDB #,Foundation,"Cheese, swiss",6.3,10.9000000000000003552713678800500929355621337890625,g,"1 slice, thin",0.7
+746767,1040,NDB #,Foundation,"Cheese, swiss",6.3,21.89999999999999857891452847979962825775146484375,g,"1 slice, regular",1.4
+746766,1036,NDB #,Foundation,"Cheese, ricotta, whole milk",3.1,129,g,"0.5 cup",4.0
+746766,1036,NDB #,Foundation,"Cheese, ricotta, whole milk",3.1,258,g,"1 cup",8.0
+746766,1036,NDB #,Foundation,"Cheese, ricotta, whole milk",3.1,64.599999999999994315658113919198513031005859375,g,"0.2 cup",2.0
+334720,36408,NDB #,Foundation,"Restaurant, Latino, pupusas con frijoles (pupusas, bean)",0.8,126,g,"1 piece",1.0
+334628,36412,NDB #,Foundation,"Restaurant, Latino, tamale, pork",2.8,142,g,"1 piece",4.0
+333476,15066,NDB #,Foundation,"Fish, pollock, raw",0.0,177,g,"1 fillet",0.0
+333008,100192,NDB #,Foundation,"Cookies, oatmeal, soft, with raisins",0.0,27,g,"1 cookie",0.0
+332791,9533,NDB #,Foundation,"Olives, green, Manzanilla, stuffed with pimiento",0.0,3.20000000000000017763568394002504646778106689453125,g,"1 olive",0.0
+330458,4047,NDB #,Foundation,"Oil, coconut",0.0,11.5999999999999996447286321199499070644378662109375,g,"1 tablespoon, liquid oil",0.0
+330137,1256,NDB #,Foundation,"Yogurt, Greek, plain, nonfat",0.0,156,g,"1 container",0.0
+329370,1029,NDB #,Foundation,"Cheese, mozzarella, low moisture, part-skim",5.4,86.2000000000000028421709430404007434844970703125,g,"1 cup",4.7
+328637,1009,NDB #,Foundation,"Cheese, cheddar",9.3,105,g,"1 cup",9.8
+328637,1009,NDB #,Foundation,"Cheese, cheddar",9.3,17,g,"1 slice",1.6
+326698,2046,NDB #,Foundation,"Mustard, prepared, yellow",0.0,6,g,"1 teaspoon",0.0
+326698,2046,NDB #,Foundation,"Mustard, prepared, yellow",0.0,249,g,"1 cup",0.0
+326196,11236,NDB #,Foundation,"Kale, frozen, cooked, boiled, drained, without salt",0.0,118,g,"1 cup, cooked",0.0
+325524,12537,NDB #,Foundation,"Seeds, sunflower seed kernels, dry roasted, with salt added",0.0,127,g,"1 cup",0.0
+325198,1042,NDB #,Foundation,"Cheese, pasteurized process, American, vitamin D fortified",10.3,20.60000000000000142108547152020037174224853515625,g,"1 slice",2.1
+325036,1032,NDB #,Foundation,"Cheese, parmesan, grated",7.1,7.5999999999999996447286321199499070644378662109375,g,"1 tablespoon",0.5
+324653,11937,NDB #,Foundation,"Pickles, cucumber, dill or kosher dill",0.0,40.39999999999999857891452847979962825775146484375,g,"1 spear",0.0
+323505,11233,NDB #,Foundation,"Kale, raw",0.0,20.60000000000000142108547152020037174224853515625,g,"1 cup, pieces of ~1",0.0
+323294,12563,NDB #,Foundation,"Nuts, almonds, dry roasted, with salt added",0.0,135,g,"1 cup, whole",0.0
+321358,16158,NDB #,Foundation,"Hummus, commercial",0.0,33.89999999999999857891452847979962825775146484375,g,"2 tablespoon",0.0
+321360,100147,NDB #,Foundation,"Tomatoes, grape, raw",0.0,152,g,"1 cup",0.0
+321360,100147,NDB #,Foundation,"Tomatoes, grape, raw",0.0,49.7000000000000028421709430404007434844970703125,g,"5 tomatoes",0.0
+175175,15260,NDB #,SR Legacy,"Fish, salmon, pink, canned, drained solids",0.5,315,g,"1 can drained solids (total)",1.6
+175175,15260,NDB #,SR Legacy,"Fish, salmon, pink, canned, drained solids",0.5,85,g,"3 oz",0.4
+175171,15244,NDB #,SR Legacy,"Mollusks, oyster, eastern, wild, cooked, dry heat",3.9,85,g,"3 oz",3.3
+175171,15244,NDB #,SR Legacy,"Mollusks, oyster, eastern, wild, cooked, dry heat",3.9,59,g,"6 medium",2.3
+175166,15235,NDB #,SR Legacy,"Fish, catfish, channel, farmed, cooked, dry heat",0.7,143,g,"1 fillet",1.0
+175166,15235,NDB #,SR Legacy,"Fish, catfish, channel, farmed, cooked, dry heat",0.7,85,g,"3 oz",0.6
+175165,15234,NDB #,SR Legacy,"Fish, catfish, channel, farmed, raw",0.6,159,g,"1 fillet",1.0
+175165,15234,NDB #,SR Legacy,"Fish, catfish, channel, farmed, raw",0.6,85,g,"3 oz",0.5
+175167,15236,NDB #,SR Legacy,"Fish, salmon, Atlantic, farmed, raw",0.0,198,g,"0.5 fillet",0.0
+175167,15236,NDB #,SR Legacy,"Fish, salmon, Atlantic, farmed, raw",0.0,85,g,"3 oz",0.0
+175131,15071,NDB #,SR Legacy,"Fish, rockfish, Pacific, mixed species, cooked, dry heat",0.0,149,g,"1 fillet",0.0
+175131,15071,NDB #,SR Legacy,"Fish, rockfish, Pacific, mixed species, cooked, dry heat",0.0,85,g,"3 oz",0.0
+175130,15066,NDB #,SR Legacy,"Fish, pollock, Alaska, raw (may contain additives to retain moisture)",0.0,85,g,"3 oz",0.0
+175130,15066,NDB #,SR Legacy,"Fish, pollock, Alaska, raw (may contain additives to retain moisture)",0.0,77,g,"1 fillet",0.0
+175125,15057,NDB #,SR Legacy,"Fish, ocean perch, Atlantic, raw",0.2,28.35000000000000142108547152020037174224853515625,g,"1 oz, boneless",0.1
+175125,15057,NDB #,SR Legacy,"Fish, ocean perch, Atlantic, raw",0.2,64,g,"1 fillet",0.1
+175125,15057,NDB #,SR Legacy,"Fish, ocean perch, Atlantic, raw",0.2,85,g,"3 oz",0.2
+175126,15058,NDB #,SR Legacy,"Fish, ocean perch, Atlantic, cooked, dry heat",0.2,85,g,"3 oz",0.2
+175126,15058,NDB #,SR Legacy,"Fish, ocean perch, Atlantic, cooked, dry heat",0.2,50,g,"1 fillet",0.1
+175056,18425,NDB #,SR Legacy,"Crackers, saltines, low salt (includes oyster, soda, soup)",0.0,14.199999999999999289457264239899814128875732421875,g,"0.5 oz",0.0
+175056,18425,NDB #,SR Legacy,"Crackers, saltines, low salt (includes oyster, soda, soup)",0.0,1,g,"1 cracker, oyster",0.0
+175056,18425,NDB #,SR Legacy,"Crackers, saltines, low salt (includes oyster, soda, soup)",0.0,45,g,"1 cup oyster crackers",0.0
+175056,18425,NDB #,SR Legacy,"Crackers, saltines, low salt (includes oyster, soda, soup)",0.0,6,g,"1 cracker, rectangle",0.0
+175056,18425,NDB #,SR Legacy,"Crackers, saltines, low salt (includes oyster, soda, soup)",0.0,10,g,"1 cracker, round large",0.0
+175056,18425,NDB #,SR Legacy,"Crackers, saltines, low salt (includes oyster, soda, soup)",0.0,3,g,"1 cracker",0.0
+175043,18375,NDB #,SR Legacy,"Leavening agents, yeast, baker's, active dry",0.0,7.20000000000000017763568394002504646778106689453125,g,"1 packet",0.0
+175043,18375,NDB #,SR Legacy,"Leavening agents, yeast, baker's, active dry",0.0,4,g,"1 tsp",0.0
+175043,18375,NDB #,SR Legacy,"Leavening agents, yeast, baker's, active dry",0.0,12,g,"1 tbsp",0.0
+175037,18364,NDB #,SR Legacy,"Tortillas, ready-to-bake or -fry, flour, refrigerated",0.0,72,g,"1 tortilla (approx 10 dia)",0.0
+175037,18364,NDB #,SR Legacy,"Tortillas, ready-to-bake or -fry, flour, refrigerated",0.0,49,g,"1 tortilla (approx 7-8 dia)",0.0
+175037,18364,NDB #,SR Legacy,"Tortillas, ready-to-bake or -fry, flour, refrigerated",0.0,30,g,"1 tortilla medium (approx 6 dia)",0.0
+175037,18364,NDB #,SR Legacy,"Tortillas, ready-to-bake or -fry, flour, refrigerated",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+175037,18364,NDB #,SR Legacy,"Tortillas, ready-to-bake or -fry, flour, refrigerated",0.0,48,g,"1 tortilla",0.0
+175037,18364,NDB #,SR Legacy,"Tortillas, ready-to-bake or -fry, flour, refrigerated",0.0,407,g,"1 package",0.0
+175037,18364,NDB #,SR Legacy,"Tortillas, ready-to-bake or -fry, flour, refrigerated",0.0,117,g,"1 tortilla (approx 12 dia)",0.0
+175035,18362,NDB #,SR Legacy,"Toaster pastries, fruit (includes apple, blueberry, cherry, strawberry)",0.0,54,g,"1 pastry",0.0
+175035,18362,NDB #,SR Legacy,"Toaster pastries, fruit (includes apple, blueberry, cherry, strawberry)",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+175025,18335,NDB #,SR Legacy,"Pie crust, standard-type, frozen, ready-to-bake, enriched, baked",2.0,154,g,"1 pie crust (average weight of 1 baked crust)",3.1
+175024,18334,NDB #,SR Legacy,"Pie crust, standard-type, frozen, ready-to-bake, enriched",1.8,18,g,"1 piece (1/8 of 9 crust)",0.3
+175024,18334,NDB #,SR Legacy,"Pie crust, standard-type, frozen, ready-to-bake, enriched",1.8,173,g,"1 pie crust (average weight of 1 frozen crust)",3.1
+175021,18324,NDB #,SR Legacy,"Pie, pecan, commercially prepared",0.2,133,g,"1 slice",0.3
+175021,18324,NDB #,SR Legacy,"Pie, pecan, commercially prepared",0.2,833,g,"1 pie",1.7
+175021,18324,NDB #,SR Legacy,"Pie, pecan, commercially prepared",0.2,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.1
+174990,18248,NDB #,SR Legacy,"Doughnuts, cake-type, plain (includes unsugared, old-fashioned)",0.0,71,g,"1 doughnut, large (4 dia)",0.0
+174990,18248,NDB #,SR Legacy,"Doughnuts, cake-type, plain (includes unsugared, old-fashioned)",0.0,40,g,"1 donut",0.0
+174990,18248,NDB #,SR Legacy,"Doughnuts, cake-type, plain (includes unsugared, old-fashioned)",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+174990,18248,NDB #,SR Legacy,"Doughnuts, cake-type, plain (includes unsugared, old-fashioned)",0.0,54,g,"1 doughnut medium (3-1/4 dia)",0.0
+174990,18248,NDB #,SR Legacy,"Doughnuts, cake-type, plain (includes unsugared, old-fashioned)",0.0,52,g,"1 doughnut, long type (twist) (4-1/2 long)",0.0
+174990,18248,NDB #,SR Legacy,"Doughnuts, cake-type, plain (includes unsugared, old-fashioned)",0.0,52,g,"1 doughnut stick",0.0
+174990,18248,NDB #,SR Legacy,"Doughnuts, cake-type, plain (includes unsugared, old-fashioned)",0.0,14,g,"1 doughnut, mini (1-1/2 dia) or doughnut hole",0.0
+174982,18229,NDB #,SR Legacy,"Crackers, standard snack-type, regular",0.0,52,g,"1 cup crushed",0.0
+174982,18229,NDB #,SR Legacy,"Crackers, standard snack-type, regular",0.0,4,g,"1 cracker, rectangular",0.0
+174982,18229,NDB #,SR Legacy,"Crackers, standard snack-type, regular",0.0,16,g,"5 crackers, regular size, round (1 serving)",0.0
+174982,18229,NDB #,SR Legacy,"Crackers, standard snack-type, regular",0.0,16,g,"5 crackers",0.0
+174982,18229,NDB #,SR Legacy,"Crackers, standard snack-type, regular",0.0,3.20000000000000017763568394002504646778106689453125,g,"1 cracker, round",0.0
+174974,18213,NDB #,SR Legacy,"Cookies, vanilla wafers, higher fat",0.0,30,g,"8 wafers",0.0
+174974,18213,NDB #,SR Legacy,"Cookies, vanilla wafers, higher fat",0.0,11.5999999999999996447286321199499070644378662109375,g,"8 wafers mini wafers",0.0
+174975,18214,NDB #,SR Legacy,"Crackers, cheese, regular",0.0,28,g,"1 bag, single serving",0.0
+174975,18214,NDB #,SR Legacy,"Crackers, cheese, regular",0.0,0.59999999999999997779553950749686919152736663818359375,g,"1 gold fish",0.0
+174975,18214,NDB #,SR Legacy,"Crackers, cheese, regular",0.0,14.199999999999999289457264239899814128875732421875,g,"0.5 oz",0.0
+174975,18214,NDB #,SR Legacy,"Crackers, cheese, regular",0.0,72,g,"1 cup, crushed",0.0
+174975,18214,NDB #,SR Legacy,"Crackers, cheese, regular",0.0,2,g,"1 snack stick",0.0
+174975,18214,NDB #,SR Legacy,"Crackers, cheese, regular",0.0,1,g,"1 cracker (1 square)",0.0
+174975,18214,NDB #,SR Legacy,"Crackers, cheese, regular",0.0,62,g,"1 cup, bite size",0.0
+174943,18128,NDB #,SR Legacy,"Cake, snack cakes, creme-filled, sponge",0.6,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.2
+174943,18128,NDB #,SR Legacy,"Cake, snack cakes, creme-filled, sponge",0.6,42,g,"1 cake",0.3
+174913,18033,NDB #,SR Legacy,"Bread, Italian",0.0,29,g,"1 slice",0.0
+174913,18033,NDB #,SR Legacy,"Bread, Italian",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+174899,18001,NDB #,SR Legacy,"Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)",0.0,99,g,"1 bagel",0.0
+174899,18001,NDB #,SR Legacy,"Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)",0.0,69,g,"1 small bagel (3 dia)",0.0
+174899,18001,NDB #,SR Legacy,"Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)",0.0,26,g,"1 mini bagel (2-1/2 dia)",0.0
+174899,18001,NDB #,SR Legacy,"Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)",0.0,131,g,"1 large bagel (4-1/2)",0.0
+174899,18001,NDB #,SR Legacy,"Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+174899,18001,NDB #,SR Legacy,"Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)",0.0,105,g,"1 medium bagel (3-1/2 to 4 dia)",0.0
+174832,14091,NDB #,SR Legacy,"Beverages, almond milk, unsweetened, shelf stable",0.0,262,g,"1 cup",0.0
+174808,27001,NDB #,SR Legacy,"Soup, hot and sour, Chinese restaurant",3.4,233,g,"1 cup",7.9
+174803,25062,NDB #,SR Legacy,"Snack, Mixed Berry Bar",0.0,38,g,"1 bar",0.0
+174802,25054,NDB #,SR Legacy,"Snacks, granola bar, GENERAL MILLS, NATURE VALLEY, with yogurt coating",0.0,35,g,"1 bar",0.0
+174801,25053,NDB #,SR Legacy,"Snacks, granola bar, GENERAL MILLS NATURE VALLEY, SWEET&SALTY NUT, peanut",0.0,35,g,"1 bar",0.0
+174796,25040,NDB #,SR Legacy,"Snacks, vegetable chips, made from garden vegetables",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+174791,25030,NDB #,SR Legacy,"Snacks, vegetable chips, HAIN CELESTIAL GROUP, TERRA CHIPS",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+174787,25021,NDB #,SR Legacy,"Formulated bar, LUNA BAR, NUTZ OVER CHOCOLATE",0.0,48,g,"1 bar",0.0
+174784,25013,NDB #,SR Legacy,"Snacks, FRITOLAY, SUNCHIPS, Multigrain Snack, original flavor",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+174757,23482,NDB #,SR Legacy,"Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 0 fat, all grades, raw",0.2,113,g,"4 oz",0.2
+174655,8573,NDB #,SR Legacy,"Cereals, CREAM OF WHEAT, 2 1/2 minute cook time, dry",0.0,13.800000000000000710542735760100185871124267578125,g,"1 tbsp",0.0
+174655,8573,NDB #,SR Legacy,"Cereals, CREAM OF WHEAT, 2 1/2 minute cook time, dry",0.0,174,g,"1 cup",0.0
+174655,8573,NDB #,SR Legacy,"Cereals, CREAM OF WHEAT, 2 1/2 minute cook time, dry",0.0,33,g,"3 tablespoon (1 NLEA serving)",0.0
+174648,8506,NDB #,SR Legacy,"Cereals ready-to-eat, RALSTON Corn Flakes",0.0,28,g,"1 cup (1 NLEA serving)",0.0
+174649,8507,NDB #,SR Legacy,"Cereals ready-to-eat, RALSTON Crispy Hexagons",0.0,29,g,"1 cup (1 NLEA serving)",0.0
+174600,7919,NDB #,SR Legacy,"Sausage, turkey, breakfast links, mild, raw",36.6,450,g,"1 package",165
+174600,7919,NDB #,SR Legacy,"Sausage, turkey, breakfast links, mild, raw",36.6,28,g,"1 link",10.2
+174584,7074,NDB #,SR Legacy,"Sausage, smoked link sausage, pork",13.7,16,g,"1 link, little (2 long x 3/4 dia)",2.2
+174584,7074,NDB #,SR Legacy,"Sausage, smoked link sausage, pork",13.7,68,g,"1 link (4 long x 1-1/8 dia)",9.3
+174575,7057,NDB #,SR Legacy,"Pepperoni, beef and pork, sliced",41.7,85,g,"3 oz",35.4
+174575,7057,NDB #,SR Legacy,"Pepperoni, beef and pork, sliced",41.7,28,g,"1 oz",11.7
+174575,7057,NDB #,SR Legacy,"Pepperoni, beef and pork, sliced",41.7,2,g,"1 piece",0.8
+174503,5686,NDB #,SR Legacy,"Chicken, skin (drumsticks and thighs), with added solution, cooked, roasted",19.6,85,g,"3 oz",16.7
+174505,5692,NDB #,SR Legacy,"Chicken, dark meat, thigh, meat and skin, with added solution, cooked, roasted",13.1,85,g,"3 oz",11.1
+174505,5692,NDB #,SR Legacy,"Chicken, dark meat, thigh, meat and skin, with added solution, cooked, roasted",13.1,112,g,"1 thigh without skin",14.7
+174505,5692,NDB #,SR Legacy,"Chicken, dark meat, thigh, meat and skin, with added solution, cooked, roasted",13.1,130,g,"1 thigh with skin",17.0
+174502,5685,NDB #,SR Legacy,"Chicken, skin (drumsticks and thighs), with added solution, raw",19.5,113,g,"4 oz",22.0
+174499,5678,NDB #,SR Legacy,"Chicken, dark meat, drumstick, meat only, with added solution, raw",9.5,143,g,"1 drumstick with skin",13.6
+174499,5678,NDB #,SR Legacy,"Chicken, dark meat, drumstick, meat only, with added solution, raw",9.5,136,g,"1 drumstick without skin",12.9
+174499,5678,NDB #,SR Legacy,"Chicken, dark meat, drumstick, meat only, with added solution, raw",9.5,113,g,"4 oz",10.7
+174500,5683,NDB #,SR Legacy,"Chicken, dark meat, thigh, meat only, with added solution, cooked, roasted",11.6,130,g,"1 thigh with skin",15.1
+174500,5683,NDB #,SR Legacy,"Chicken, dark meat, thigh, meat only, with added solution, cooked, roasted",11.6,112,g,"1 thigh without skin",13.0
+174500,5683,NDB #,SR Legacy,"Chicken, dark meat, thigh, meat only, with added solution, cooked, roasted",11.6,85,g,"3 oz",9.9
+174289,16158,NDB #,SR Legacy,"Hummus, commercial",0.0,246,g,"1 cup",0.0
+174289,16158,NDB #,SR Legacy,"Hummus, commercial",0.0,15,g,"1 tbsp",0.0
+174262,16090,NDB #,SR Legacy,"Peanuts, all types, dry-roasted, with salt",0.0,1,g,"1 peanut",0.0
+174262,16090,NDB #,SR Legacy,"Peanuts, all types, dry-roasted, with salt",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+174220,15172,NDB #,SR Legacy,"Mollusks, scallop, mixed species, raw",0.0,85,g,"3 oz",0.0
+174220,15172,NDB #,SR Legacy,"Mollusks, scallop, mixed species, raw",0.0,30,g,"1 unit 2 large or 5 small",0.0
+174214,15157,NDB #,SR Legacy,"Mollusks, clam, mixed species, raw",0.0,20,g,"1 large",0.0
+174214,15157,NDB #,SR Legacy,"Mollusks, clam, mixed species, raw",0.0,227,g,"1 cup (with liquid and clams)",0.0
+174214,15157,NDB #,SR Legacy,"Mollusks, clam, mixed species, raw",0.0,85,g,"3 oz",0.0
+174214,15157,NDB #,SR Legacy,"Mollusks, clam, mixed species, raw",0.0,68,g,"1 lb (with shell), yield after shell removed",0.0
+174214,15157,NDB #,SR Legacy,"Mollusks, clam, mixed species, raw",0.0,14.5,g,"1 medium",0.0
+174214,15157,NDB #,SR Legacy,"Mollusks, clam, mixed species, raw",0.0,9,g,"1 small",0.0
+174210,15149,NDB #,SR Legacy,"Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)",0.3,85,g,"3 oz",0.3
+174210,15149,NDB #,SR Legacy,"Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)",0.3,5,g,"1 small",0.3
+174210,15149,NDB #,SR Legacy,"Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)",0.3,6,g,"1 medium",0.3
+174210,15149,NDB #,SR Legacy,"Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)",0.3,28,g,"4 large",0.1
+174209,15148,NDB #,SR Legacy,"Crustaceans, lobster, northern, cooked, moist heat",0.0,85,g,"3 oz",0.0
+174209,15148,NDB #,SR Legacy,"Crustaceans, lobster, northern, cooked, moist heat",0.0,145,g,"1 cup",0.0
+174208,15147,NDB #,SR Legacy,"Crustaceans, lobster, northern, raw",0.0,150,g,"1 lobster",0.0
+174208,15147,NDB #,SR Legacy,"Crustaceans, lobster, northern, raw",0.0,85,g,"3 oz",0.0
+174203,15138,NDB #,SR Legacy,"Crustaceans, crab, alaska king, imitation, made from surimi",0.0,85,g,"3 oz",0.0
+174205,15140,NDB #,SR Legacy,"Crustaceans, crab, blue, cooked, moist heat",0.0,85,g,"3 oz",0.0
+174205,15140,NDB #,SR Legacy,"Crustaceans, crab, blue, cooked, moist heat",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+174205,15140,NDB #,SR Legacy,"Crustaceans, crab, blue, cooked, moist heat",0.0,118,g,"1 cup, flaked and pieces",0.0
+174205,15140,NDB #,SR Legacy,"Crustaceans, crab, blue, cooked, moist heat",0.0,135,g,"1 cup (not packed)",0.0
+174200,15036,NDB #,SR Legacy,"Fish, halibut, Atlantic and Pacific, raw",0.0,204,g,"0.5 fillet",0.0
+174200,15036,NDB #,SR Legacy,"Fish, halibut, Atlantic and Pacific, raw",0.0,85,g,"3 oz",0.0
+174201,15037,NDB #,SR Legacy,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",0.0,85,g,"3 oz",0.0
+174201,15037,NDB #,SR Legacy,"Fish, halibut, Atlantic and Pacific, cooked, dry heat",0.0,159,g,"0.5 fillet",0.0
+174196,15028,NDB #,SR Legacy,"Fish, flatfish (flounder and sole species), raw",0.2,85,g,"3 oz",0.2
+174196,15028,NDB #,SR Legacy,"Fish, flatfish (flounder and sole species), raw",0.2,28.35000000000000142108547152020037174224853515625,g,"1 oz, boneless",0.1
+174196,15028,NDB #,SR Legacy,"Fish, flatfish (flounder and sole species), raw",0.2,163,g,"1 fillet",0.3
+174197,15029,NDB #,SR Legacy,"Fish, flatfish (flounder and sole species), cooked, dry heat",0.3,127,g,"1 fillet",0.4
+174197,15029,NDB #,SR Legacy,"Fish, flatfish (flounder and sole species), cooked, dry heat",0.3,85,g,"3 oz",0.3
+174195,15027,NDB #,SR Legacy,"Fish, fish sticks, frozen, prepared",0.0,57,g,"1 piece (4 x 2 x 1/2)",0.0
+174195,15027,NDB #,SR Legacy,"Fish, fish sticks, frozen, prepared",0.0,28,g,"1 stick (4 x 1 x 1/2)",0.0
+174191,15019,NDB #,SR Legacy,"Fish, cod, Pacific, raw (may have been previously frozen)",0.0,116,g,"1 fillet",0.0
+174191,15019,NDB #,SR Legacy,"Fish, cod, Pacific, raw (may have been previously frozen)",0.0,85,g,"3 oz",0.0
+174119,14183,NDB #,SR Legacy,"Beverages, coffee, ready to drink, iced, mocha, milk based",0.0,265,g,"1 cup",0.0
+174107,28348,NDB #,SR Legacy,"Rolls, dinner, sweet",2.2,30,g,"1 roll",0.7
+174107,28348,NDB #,SR Legacy,"Rolls, dinner, sweet",2.2,39,g,"1 slice",0.9
+174105,28346,NDB #,SR Legacy,"Waffles, gluten-free, frozen, ready-to-heat",0.0,242,g,"1 box",0.0
+174105,28346,NDB #,SR Legacy,"Waffles, gluten-free, frozen, ready-to-heat",0.0,45,g,"1 waffle",0.0
+174098,28331,NDB #,SR Legacy,"Crackers, flavored, fish-shaped",0.0,5.20000000000000017763568394002504646778106689453125,g,"10 goldfish",0.0
+174089,28312,NDB #,SR Legacy,"Rolls, hamburger or hot dog, wheat/cracked wheat",0.0,51,g,"1 roll",0.0
+174090,28313,NDB #,SR Legacy,"Rolls, hamburger or hot dog, whole wheat",0.0,56,g,"1 roll",0.0
+174072,27061,NDB #,SR Legacy,"Gravy, HEINZ Home Style, classic chicken",3.1,230,g,"1 cup",7.1
+174072,27061,NDB #,SR Legacy,"Gravy, HEINZ Home Style, classic chicken",3.1,324,g,"1 jar 12 oz",10.0
+174072,27061,NDB #,SR Legacy,"Gravy, HEINZ Home Style, classic chicken",3.1,58,g,"0.25 cup",1.8
+174069,27054,NDB #,SR Legacy,"Dip, TOSTITOS, salsa con queso, medium",0.3,30,g,"2 tbsp",0.1
+174069,27054,NDB #,SR Legacy,"Dip, TOSTITOS, salsa con queso, medium",0.3,125,g,"0.5 cup",0.4
+174068,27052,NDB #,SR Legacy,"Dip, salsa con queso, cheese and salsa- medium",0.2,30,g,"2 tbsp",0.1
+174068,27052,NDB #,SR Legacy,"Dip, salsa con queso, cheese and salsa- medium",0.2,125,g,"0.5 cup",0.3
+174015,23495,NDB #,SR Legacy,"Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0 fat, choice, raw",0.1,113,g,"4 oz",0.1
+174014,23494,NDB #,SR Legacy,"Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 0 fat, choice, raw",0.3,113,g,"4 oz",0.3
+173897,8093,NDB #,SR Legacy,"Cereals, QUAKER, corn grits, instant, plain, prepared (microwaved or boiling water added), without salt",0.0,219,g,"1 cup",0.0
+173883,7979,NDB #,SR Legacy,"Sausage, pork, turkey, and beef, reduced sodium",0.8,85,g,"3 oz",0.7
+173883,7979,NDB #,SR Legacy,"Sausage, pork, turkey, and beef, reduced sodium",0.8,56,g,"1 serving",0.4
+173887,8025,NDB #,SR Legacy,"Cereals ready-to-eat, RALSTON CRISP RICE",0.0,28,g,"1 cup",0.0
+173887,8025,NDB #,SR Legacy,"Cereals ready-to-eat, RALSTON CRISP RICE",0.0,33,g,"1.25 cup (1 NLEA serving)",0.0
+173879,7970,NDB #,SR Legacy,"Kielbasa, fully cooked, unheated",15.7,85,g,"3 oz",13.3
+173879,7970,NDB #,SR Legacy,"Kielbasa, fully cooked, unheated",15.7,396,g,"1 link",62.2
+173881,7977,NDB #,SR Legacy,"Ham, smoked, extra lean, low sodium",2.2,100,g,"100 g",2.2
+173880,7976,NDB #,SR Legacy,"Sausage, chicken or turkey, Italian style,  lower sodium",4.6,100,g,"100 g",4.6
+173876,7967,NDB #,SR Legacy,"Pork sausage, link/patty, fully cooked, unheated",18.7,37,g,"1 patty",6.9
+173876,7967,NDB #,SR Legacy,"Pork sausage, link/patty, fully cooked, unheated",18.7,23,g,"1 link",4.3
+173877,7968,NDB #,SR Legacy,"Kielbasa, fully cooked, grilled",20.1,367,g,"1 link",73.8
+173877,7968,NDB #,SR Legacy,"Kielbasa, fully cooked, grilled",20.1,85,g,"3 oz",17.1
+173875,7962,NDB #,SR Legacy,"Frankfurter, meat and poultry, unheated",28.6,51,g,"1 frankfurter",14.6
+173863,7028,NDB #,SR Legacy,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",4.4,13,g,"1 slice",0.6
+173806,16390,NDB #,SR Legacy,"Peanuts, all types, dry-roasted, without salt",0.0,1,g,"1 peanut",0.0
+173806,16390,NDB #,SR Legacy,"Peanuts, all types, dry-roasted, without salt",0.0,146,g,"1 cup",0.0
+173806,16390,NDB #,SR Legacy,"Peanuts, all types, dry-roasted, without salt",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+173692,15086,NDB #,SR Legacy,"Fish, salmon, sockeye, cooked, dry heat",0.4,155,g,"0.5 fillet",0.6
+173692,15086,NDB #,SR Legacy,"Fish, salmon, sockeye, cooked, dry heat",0.4,85,g,"3 oz",0.3
+173691,15085,NDB #,SR Legacy,"Fish, salmon, sockeye, raw",0.3,85,g,"3 oz",0.3
+173691,15085,NDB #,SR Legacy,"Fish, salmon, sockeye, raw",0.3,198,g,"0.5 fillet",0.6
+173691,15085,NDB #,SR Legacy,"Fish, salmon, sockeye, raw",0.3,28.35000000000000142108547152020037174224853515625,g,"1 oz, boneless",0.1
+173684,15070,NDB #,SR Legacy,"Fish, rockfish, Pacific, mixed species, raw",0.0,191,g,"1 fillet",0.0
+173684,15070,NDB #,SR Legacy,"Fish, rockfish, Pacific, mixed species, raw",0.0,85,g,"3 oz",0.0
+173666,14542,NDB #,SR Legacy,"Lemonade, frozen concentrate, pink",0.0,218,g,"1 can (6 fl oz)",0.0
+173666,14542,NDB #,SR Legacy,"Lemonade, frozen concentrate, pink",0.0,437,g,"1 can (12 fl oz)",0.0
+173666,14542,NDB #,SR Legacy,"Lemonade, frozen concentrate, pink",0.0,36.39999999999999857891452847979962825775146484375,g,"1 fl oz",0.0
+173562,4539,NDB #,SR Legacy,"Salad dressing, blue or roquefort cheese dressing, commercial, regular",0.0,15,g,"1 tbsp",0.0
+173562,4539,NDB #,SR Legacy,"Salad dressing, blue or roquefort cheese dressing, commercial, regular",0.0,245,g,"1 cup",0.0
+173530,3686,NDB #,SR Legacy,"Babyfood, cereal, mixed, with bananas, prepared with whole milk",0.9,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.3
+173534,3712,NDB #,SR Legacy,"Babyfood, cereal, rice, with bananas, prepared with whole milk",0.9,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.3
+173529,3685,NDB #,SR Legacy,"Babyfood, cereal, mixed, prepared with whole milk",0.8,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.2
+173509,3113,NDB #,SR Legacy,"Babyfood, cereal, Oatmeal, dry, GERBER, SINGLE GRAIN, fortified",0.0,16,g,"0 cup",0.0
+173494,3053,NDB #,SR Legacy,"Babyfood, dinner, vegetables and beef, strained",0.4,113,g,"1 jar",0.5
+173494,3053,NDB #,SR Legacy,"Babyfood, dinner, vegetables and beef, strained",0.4,256,g,"1 cup",1.0
+173494,3053,NDB #,SR Legacy,"Babyfood, dinner, vegetables and beef, strained",0.4,113,g,"1 jar Heinz Strained-2 (4 oz)",0.5
+173494,3053,NDB #,SR Legacy,"Babyfood, dinner, vegetables and beef, strained",0.4,128,g,"1 jar Earth's Best (4.5 oz)",0.5
+173494,3053,NDB #,SR Legacy,"Babyfood, dinner, vegetables and beef, strained",0.4,113,g,"1 jar Beech-Nut Stage 2 (4 oz)",0.5
+173494,3053,NDB #,SR Legacy,"Babyfood, dinner, vegetables and beef, strained",0.4,16,g,"1 tbsp",0.1
+173494,3053,NDB #,SR Legacy,"Babyfood, dinner, vegetables and beef, strained",0.4,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.1
+173494,3053,NDB #,SR Legacy,"Babyfood, dinner, vegetables and beef, strained",0.4,113,g,"1 jar Gerber Second Food (4 oz)",0.5
+173495,3054,NDB #,SR Legacy,"Babyfood, dinner, vegetables and beef, junior",0.4,170,g,"1 jar Beech-Nut Stage 3 (6 oz)",0.7
+173495,3054,NDB #,SR Legacy,"Babyfood, dinner, vegetables and beef, junior",0.4,16,g,"1 tbsp",0.1
+173495,3054,NDB #,SR Legacy,"Babyfood, dinner, vegetables and beef, junior",0.4,170,g,"1 jar Heinz Junior-3 (6 oz)",0.7
+173495,3054,NDB #,SR Legacy,"Babyfood, dinner, vegetables and beef, junior",0.4,170,g,"1 jar",0.7
+173495,3054,NDB #,SR Legacy,"Babyfood, dinner, vegetables and beef, junior",0.4,256,g,"1 cup",1.0
+173495,3054,NDB #,SR Legacy,"Babyfood, dinner, vegetables and beef, junior",0.4,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.1
+173495,3054,NDB #,SR Legacy,"Babyfood, dinner, vegetables and beef, junior",0.4,170,g,"1 jar Gerber Third Foods (6 oz)",0.7
+173479,3002,NDB #,SR Legacy,"Babyfood, meat, beef, strained",1.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.3
+173479,3002,NDB #,SR Legacy,"Babyfood, meat, beef, strained",1.0,14.699999999999999289457264239899814128875732421875,g,"1 tbsp",0.1
+173479,3002,NDB #,SR Legacy,"Babyfood, meat, beef, strained",1.0,71,g,"1 jar",0.7
+173481,3010,NDB #,SR Legacy,"Babyfood, meat, lamb, strained",5.3,22,g,"1 tbsp",1.2
+173481,3010,NDB #,SR Legacy,"Babyfood, meat, lamb, strained",5.3,70,g,"1 container",3.7
+173481,3010,NDB #,SR Legacy,"Babyfood, meat, lamb, strained",5.3,71,g,"1 jar",3.8
+173481,3010,NDB #,SR Legacy,"Babyfood, meat, lamb, strained",5.3,28.35000000000000142108547152020037174224853515625,g,"1 oz",1.5
+173477,3000,NDB #,SR Legacy,"Clif Z bar",0.0,36,g,"1 bar",0.0
+173461,1225,NDB #,SR Legacy,"Dulce de Leche",4.2,19,g,"1 tbsp",0.8
+173418,1017,NDB #,SR Legacy,"Cheese, cream",8.7,28.35000000000000142108547152020037174224853515625,g,"1 oz",2.5
+173418,1017,NDB #,SR Legacy,"Cheese, cream",8.7,14.5,g,"1 tbsp",1.3
+173418,1017,NDB #,SR Legacy,"Cheese, cream",8.7,85,g,"1 package, small (3 oz)",7.4
+173418,1017,NDB #,SR Legacy,"Cheese, cream",8.7,10,g,"1 tbsp, whipped",0.9
+173418,1017,NDB #,SR Legacy,"Cheese, cream",8.7,232,g,"1 cup",20.2
+173418,1017,NDB #,SR Legacy,"Cheese, cream",8.7,16,g,"1 cubic inch",1.4
+173414,1009,NDB #,SR Legacy,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",8.6,132,g,"1 cup, diced",11.4
+173414,1009,NDB #,SR Legacy,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",8.6,17,g,"1 cubic inch",1.5
+173414,1009,NDB #,SR Legacy,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",8.6,28.35000000000000142108547152020037174224853515625,g,"1 oz",2.4
+173414,1009,NDB #,SR Legacy,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",8.6,113,g,"1 cup, shredded",9.7
+173414,1009,NDB #,SR Legacy,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",8.6,28,g,"1 slice (1 oz)",2.4
+173414,1009,NDB #,SR Legacy,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",8.6,244,g,"1 cup, melted",21.0
+173411,1002,NDB #,SR Legacy,"Butter, whipped, with salt",20.9,76,g,"1 stick",15.9
+173411,1002,NDB #,SR Legacy,"Butter, whipped, with salt",20.9,3.79999999999999982236431605997495353221893310546875,g,"1 pat (1 sq, 1/3 high)",0.8
+173411,1002,NDB #,SR Legacy,"Butter, whipped, with salt",20.9,9.4000000000000003552713678800500929355621337890625,g,"1 tbsp",2.0
+173411,1002,NDB #,SR Legacy,"Butter, whipped, with salt",20.9,151,g,"1 cup",31.6
+173371,23063,NDB #,SR Legacy,"Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0 fat, all grades, raw",1.7,305,g,"1 steak",5.2
+173371,23063,NDB #,SR Legacy,"Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0 fat, all grades, raw",1.7,85,g,"3 oz",1.4
+173367,23055,NDB #,SR Legacy,"Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0 fat, all grades, raw",1.2,113,g,"4 oz",1.4
+173367,23055,NDB #,SR Legacy,"Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0 fat, all grades, raw",1.2,207,g,"1 steak",2.5
+173369,23061,NDB #,SR Legacy,"Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0 fat, all grades, raw",1.5,113,g,"4 oz",1.7
+173369,23061,NDB #,SR Legacy,"Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0 fat, all grades, raw",1.5,197,g,"1 steak",3.0
+173368,23060,NDB #,SR Legacy,"Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0 fat, all grades, cooked, grilled",3.1,190,g,"1 steak",5.9
+173368,23060,NDB #,SR Legacy,"Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0 fat, all grades, cooked, grilled",3.1,85,g,"3 oz",2.6
+173370,23062,NDB #,SR Legacy,"Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0 fat, all grades, cooked, grilled",1.6,85,g,"3 oz",1.4
+173370,23062,NDB #,SR Legacy,"Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0 fat, all grades, cooked, grilled",1.6,150,g,"1 steak",2.4
+173364,23052,NDB #,SR Legacy,"Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0 fat, select, cooked, grilled",2.0,85,g,"3 oz",1.7
+173364,23052,NDB #,SR Legacy,"Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0 fat, select, cooked, grilled",2.0,253,g,"1 steak",5.1
+173365,23053,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0 fat, all grades, raw",1.5,113,g,"4 oz",1.7
+173363,23047,NDB #,SR Legacy,"Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0 fat, select, raw",1.5,203,g,"1 steak",3.0
+173363,23047,NDB #,SR Legacy,"Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0 fat, select, raw",1.5,113,g,"4 oz",1.7
+173362,23046,NDB #,SR Legacy,"Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0 fat, choice, cooked, grilled",1.6,85,g,"3 oz",1.4
+173362,23046,NDB #,SR Legacy,"Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0 fat, choice, cooked, grilled",1.6,156,g,"1 steak",2.5
+173366,23054,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0 fat, all grades, cooked, grilled",1.3,85,g,"3 oz",1.1
+173366,23054,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0 fat, all grades, cooked, grilled",1.3,32,g,"1 medallion",0.4
+173360,23044,NDB #,SR Legacy,"Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0 fat, select, cooked, grilled",3.1,186,g,"1 steak",5.8
+173360,23044,NDB #,SR Legacy,"Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0 fat, select, cooked, grilled",3.1,85,g,"3 oz",2.6
+173358,23038,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0 fat, choice, cooked, grilled",1.8,188,g,"1 steak",3.4
+173358,23038,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0 fat, choice, cooked, grilled",1.8,85,g,"1 serving (3 oz)",1.5
+173359,23043,NDB #,SR Legacy,"Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0 fat, select, raw",3.1,243,g,"1 steak",7.5
+173359,23043,NDB #,SR Legacy,"Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0 fat, select, raw",3.1,113,g,"4 oz",3.5
+173361,23045,NDB #,SR Legacy,"Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0 fat, choice, raw",1.5,113,g,"4 oz",1.7
+173361,23045,NDB #,SR Legacy,"Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0 fat, choice, raw",1.5,209,g,"1 steak",3.1
+173356,23036,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0 fat, select, raw",1.5,113,g,"4 oz",1.7
+173356,23036,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0 fat, select, raw",1.5,44,g,"1 medallion",0.7
+173357,23037,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0 fat, choice, raw",1.5,113,g,"4 oz",1.7
+173357,23037,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0 fat, choice, raw",1.5,246,g,"1 steak",3.7
+173355,23035,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0 fat, choice, cooked, grilled",1.3,85,g,"3 oz",1.1
+173355,23035,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0 fat, choice, cooked, grilled",1.3,30,g,"1 medallion",0.4
+173354,23030,NDB #,SR Legacy,"Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0 fat, choice, raw",1.2,113,g,"4 oz",1.4
+173354,23030,NDB #,SR Legacy,"Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0 fat, choice, raw",1.2,191,g,"1 steak",2.3
+173346,22978,NDB #,SR Legacy,"Chicken tenders, breaded, frozen, prepared",6.6,21,g,"1 piece",1.4
+173345,22973,NDB #,SR Legacy,"Corn dogs, frozen, prepared",11.1,17,g,"1 corndog mini",1.9
+173345,22973,NDB #,SR Legacy,"Corn dogs, frozen, prepared",11.1,78,g,"1 corndog",8.7
+173344,22972,NDB #,SR Legacy,"Pulled pork in barbecue sauce",1.5,249,g,"1 cup",3.7
+173339,22958,NDB #,SR Legacy,"Rice bowl with chicken, frozen entree, prepared (includes fried, teriyaki, and sweet and sour varieties)",2.1,340,g,"1 bowl",7.1
+173334,22916,NDB #,SR Legacy,"Lasagna with meat & sauce, frozen entree",1.2,134,g,"1 piece side",1.6
+173334,22916,NDB #,SR Legacy,"Lasagna with meat & sauce, frozen entree",1.2,115,g,"1 piece corner",1.4
+173334,22916,NDB #,SR Legacy,"Lasagna with meat & sauce, frozen entree",1.2,278,g,"1 piece center",3.3
+173331,22906,NDB #,SR Legacy,"Chicken pot pie, frozen entree, prepared",9.9,302,g,"1 pie",29.9
+173329,22900,NDB #,SR Legacy,"Ravioli, meat-filled, with tomato sauce or meat sauce, canned",0.2,262,g,"1 cup",0.5
+173327,22537,NDB #,SR Legacy,"HOT POCKETS Ham 'N Cheese Stuffed Sandwich, frozen",1.8,127,g,"1 serving (1 hot pocket)",2.3
+173327,22537,NDB #,SR Legacy,"HOT POCKETS Ham 'N Cheese Stuffed Sandwich, frozen",1.8,256,g,"1 package yields",4.6
+173290,21293,NDB #,SR Legacy,"PIZZA HUT 14 Cheese Pizza, Hand-Tossed Crust",1.3,105,g,"1 slice",1.4
+173290,21293,NDB #,SR Legacy,"PIZZA HUT 14 Cheese Pizza, Hand-Tossed Crust",1.3,841,g,"1 pizza",10.9
+173291,21294,NDB #,SR Legacy,"PIZZA HUT 14 Cheese Pizza, Pan Crust",1.1,897,g,"1 pizza",9.9
+173291,21294,NDB #,SR Legacy,"PIZZA HUT 14 Cheese Pizza, Pan Crust",1.1,112,g,"1 slice",1.2
+173268,21010,NDB #,SR Legacy,"Fast foods, biscuit, with crispy chicken fillet",2.9,132,g,"1 item",3.8
+173263,20651,NDB #,SR Legacy,"Rice, brown, parboiled, cooked, UNCLE BENS",0.0,155,g,"1 cup",0.0
+173258,18621,NDB #,SR Legacy,"Nabisco, Nabisco Ritz Crackers",0.0,16,g,"5 cracker (1 NLEA serving)",0.0
+173258,18621,NDB #,SR Legacy,"Nabisco, Nabisco Ritz Crackers",0.0,3.29999999999999982236431605997495353221893310546875,g,"1 cracker",0.0
+173216,14292,NDB #,SR Legacy,"Lemonade, frozen concentrate, white",0.0,36.5,g,"1 fl oz",0.0
+173216,14292,NDB #,SR Legacy,"Lemonade, frozen concentrate, white",0.0,438,g,"1 can (12 fl oz)",0.0
+173216,14292,NDB #,SR Legacy,"Lemonade, frozen concentrate, white",0.0,219,g,"1 can (6 fl oz)",0.0
+173160,25070,NDB #,SR Legacy,"Snacks, shrimp cracker",0.0,28,g,"1 serving",0.0
+173158,25067,NDB #,SR Legacy,"Formulated Bar, SOUTH BEACH protein bar",0.0,53,g,"1 bar",0.0
+173152,25050,NDB #,SR Legacy,"Snacks, yucca (cassava) chips, salted",0.0,17,g,"10 chips",0.0
+173152,25050,NDB #,SR Legacy,"Snacks, yucca (cassava) chips, salted",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+173152,25050,NDB #,SR Legacy,"Snacks, yucca (cassava) chips, salted",0.0,105,g,"1 bag",0.0
+173153,25055,NDB #,SR Legacy,"Snacks, granola bar, GENERAL MILLS, NATURE VALLEY, CHEWY TRAIL MIX",0.0,35,g,"1 bar",0.0
+173154,25056,NDB #,SR Legacy,"Snacks, granola bar, QUAKER, DIPPS, all flavors",0.0,31,g,"1 bar",0.0
+173150,25046,NDB #,SR Legacy,"Snacks, bagel chips, plain",0.0,175,g,"1 bag",0.0
+173150,25046,NDB #,SR Legacy,"Snacks, bagel chips, plain",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+173150,25046,NDB #,SR Legacy,"Snacks, bagel chips, plain",0.0,28,g,"6 piece chips",0.0
+173149,25045,NDB #,SR Legacy,"Formulated bar, high fiber, chewy, oats and chocolate",0.0,40,g,"1 bar",0.0
+173142,25027,NDB #,SR Legacy,"Snacks, plantain chips, salted",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+173139,25020,NDB #,SR Legacy,"Formulated bar, SLIM-FAST OPTIMA meal bar, milk chocolate peanut",0.0,55,g,"1 bar",0.0
+173012,8578,NDB #,SR Legacy,"Cereals, CREAM OF WHEAT, 1 minute cook time, cooked with water, microwaved, without salt",0.0,237,g,"1 cup",0.0
+173011,8577,NDB #,SR Legacy,"Cereals, CREAM OF WHEAT, 1 minute cook time, cooked with water, stove-top, without salt",0.0,245,g,"1 cup",0.0
+173009,8575,NDB #,SR Legacy,"Cereals, CREAM OF WHEAT, 2 1/2 minute cook time, cooked with water, microwaved, without salt",0.0,231,g,"1 cup",0.0
+173008,8574,NDB #,SR Legacy,"Cereals, CREAM OF WHEAT, 2 1/2 minute cook time, cooked with water, stove-top, without salt",0.0,244,g,"1 cup",0.0
+173010,8576,NDB #,SR Legacy,"Cereals, CREAM OF WHEAT, 1 minute cook time, dry",0.0,13.699999999999999289457264239899814128875732421875,g,"1 tbsp",0.0
+173010,8576,NDB #,SR Legacy,"Cereals, CREAM OF WHEAT, 1 minute cook time, dry",0.0,33,g,"3 tablespoon (1 serving)",0.0
+173010,8576,NDB #,SR Legacy,"Cereals, CREAM OF WHEAT, 1 minute cook time, dry",0.0,194,g,"1 cup",0.0
+173002,8504,NDB #,SR Legacy,"Cereals ready-to-eat, RALSTON Enriched Wheat Bran flakes",0.0,42,g,"1 cup",0.0
+173002,8504,NDB #,SR Legacy,"Cereals ready-to-eat, RALSTON Enriched Wheat Bran flakes",0.0,29,g,"1 serving (NLEA serving size = 0.75 cup)",0.0
+173003,8505,NDB #,SR Legacy,"Cereals ready-to-eat, RALSTON Corn Biscuits",0.0,30,g,"1 cup (NLEA serving)",0.0
+172971,7953,NDB #,SR Legacy,"Pork sausage, link/patty, fully cooked, microwaved",22.5,48,g,"1 serving",10.8
+172971,7953,NDB #,SR Legacy,"Pork sausage, link/patty, fully cooked, microwaved",22.5,30,g,"1 patty",6.8
+172971,7953,NDB #,SR Legacy,"Pork sausage, link/patty, fully cooked, microwaved",22.5,21,g,"1 link",4.7
+172934,7063,NDB #,SR Legacy,"Pork sausage, link/patty, unprepared",18.3,25,g,"1 link",4.6
+172936,7069,NDB #,SR Legacy,"Salami, cooked, beef and pork",28.0,12.300000000000000710542735760100185871124267578125,g,"1 slice round",3.4
+172863,5691,NDB #,SR Legacy,"Chicken, dark meat, thigh, meat and skin, with added solution, raw",12.0,113,g,"4 oz",13.6
+172863,5691,NDB #,SR Legacy,"Chicken, dark meat, thigh, meat and skin, with added solution, raw",12.0,181,g,"1 thigh",21.7
+172863,5691,NDB #,SR Legacy,"Chicken, dark meat, thigh, meat and skin, with added solution, raw",12.0,148,g,"1 thigh without skin",17.8
+172861,5689,NDB #,SR Legacy,"Chicken, dark meat, drumstick, meat and skin, with added solution, cooked, roasted",13.5,85,g,"3 oz",11.5
+172861,5689,NDB #,SR Legacy,"Chicken, dark meat, drumstick, meat and skin, with added solution, cooked, roasted",13.5,129,g,"1 drumstick with skin",17.4
+172861,5689,NDB #,SR Legacy,"Chicken, dark meat, drumstick, meat and skin, with added solution, cooked, roasted",13.5,91,g,"1 drumstick without skin",12.3
+172859,5682,NDB #,SR Legacy,"Chicken, dark meat, thigh, meat only, with added solution, raw",8.5,148,g,"1 thigh without skin",12.6
+172859,5682,NDB #,SR Legacy,"Chicken, dark meat, thigh, meat only, with added solution, raw",8.5,191,g,"1 thigh with skin",16.2
+172859,5682,NDB #,SR Legacy,"Chicken, dark meat, thigh, meat only, with added solution, raw",8.5,113,g,"4 oz",9.6
+172856,5679,NDB #,SR Legacy,"Chicken, dark meat, drumstick, meat only, with added solution, cooked, roasted",12.7,91,g,"1 drumstick without skin",11.6
+172856,5679,NDB #,SR Legacy,"Chicken, dark meat, drumstick, meat only, with added solution, cooked, roasted",12.7,129,g,"1 drumstick with skin",16.4
+172856,5679,NDB #,SR Legacy,"Chicken, dark meat, drumstick, meat only, with added solution, cooked, roasted",12.7,85,g,"3 oz",10.8
+172860,5688,NDB #,SR Legacy,"Chicken, dark meat, drumstick, meat and skin, with added solution, raw",11.0,143,g,"1 drumstick with skin",15.7
+172860,5688,NDB #,SR Legacy,"Chicken, dark meat, drumstick, meat and skin, with added solution, raw",11.0,130,g,"1 drumstick without skin",14.3
+172860,5688,NDB #,SR Legacy,"Chicken, dark meat, drumstick, meat and skin, with added solution, raw",11.0,113,g,"4 oz",12.4
+172796,18350,NDB #,SR Legacy,"Rolls, hamburger or hotdog, plain",0.0,44,g,"1 roll 1 serving",0.0
+172796,18350,NDB #,SR Legacy,"Rolls, hamburger or hotdog, plain",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+172787,18326,NDB #,SR Legacy,"Pie, pumpkin, commercially prepared",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+172787,18326,NDB #,SR Legacy,"Pie, pumpkin, commercially prepared",0.0,133,g,"1 slice",0.0
+172787,18326,NDB #,SR Legacy,"Pie, pumpkin, commercially prepared",0.0,995,g,"1 pie",0.0
+172749,18235,NDB #,SR Legacy,"Crackers, whole-wheat",0.0,94,g,"1 cup, crushed",0.0
+172749,18235,NDB #,SR Legacy,"Crackers, whole-wheat",0.0,10,g,"10 Triscuit Bits",0.0
+172749,18235,NDB #,SR Legacy,"Crackers, whole-wheat",0.0,14.199999999999999289457264239899814128875732421875,g,"0.5 oz",0.0
+172749,18235,NDB #,SR Legacy,"Crackers, whole-wheat",0.0,28,g,"6 crackers, Triscuits, regular size",0.0
+172749,18235,NDB #,SR Legacy,"Crackers, whole-wheat",0.0,4.5999999999999996447286321199499070644378662109375,g,"1 cracker",0.0
+172749,18235,NDB #,SR Legacy,"Crackers, whole-wheat",0.0,28,g,"1 serving",0.0
+172746,18228,NDB #,SR Legacy,"Crackers, saltines (includes oyster, soda, soup)",0.0,6,g,"1 cracker, rectangle",0.0
+172746,18228,NDB #,SR Legacy,"Crackers, saltines (includes oyster, soda, soup)",0.0,1,g,"1 cracker, oyster",0.0
+172746,18228,NDB #,SR Legacy,"Crackers, saltines (includes oyster, soda, soup)",0.0,14.199999999999999289457264239899814128875732421875,g,"0.5 oz",0.0
+172746,18228,NDB #,SR Legacy,"Crackers, saltines (includes oyster, soda, soup)",0.0,10,g,"1 cracker, round large",0.0
+172746,18228,NDB #,SR Legacy,"Crackers, saltines (includes oyster, soda, soup)",0.0,15,g,"5 crackers square (1 serving)",0.0
+172746,18228,NDB #,SR Legacy,"Crackers, saltines (includes oyster, soda, soup)",0.0,70,g,"1 cup, crushed",0.0
+172746,18228,NDB #,SR Legacy,"Crackers, saltines (includes oyster, soda, soup)",0.0,14.9000000000000003552713678800500929355621337890625,g,"5 crackers",0.0
+172746,18228,NDB #,SR Legacy,"Crackers, saltines (includes oyster, soda, soup)",0.0,45,g,"1 cup oyster crackers",0.0
+172746,18228,NDB #,SR Legacy,"Crackers, saltines (includes oyster, soda, soup)",0.0,3,g,"1 cracker square",0.0
+172717,18160,NDB #,SR Legacy,"Cookies, chocolate chip, commercially prepared, soft-type",0.0,12.199999999999999289457264239899814128875732421875,g,"1 cookie (average weight of 1 cookie)",0.0
+172717,18160,NDB #,SR Legacy,"Cookies, chocolate chip, commercially prepared, soft-type",0.0,15,g,"1 cookie",0.0
+172717,18160,NDB #,SR Legacy,"Cookies, chocolate chip, commercially prepared, soft-type",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+172717,18160,NDB #,SR Legacy,"Cookies, chocolate chip, commercially prepared, soft-type",0.0,14.199999999999999289457264239899814128875732421875,g,"1 cookie",0.0
+172716,18159,NDB #,SR Legacy,"Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched",0.0,12,g,"1 cookie Pepperidge Farm Chocolate Chunk Pecan",0.0
+172716,18159,NDB #,SR Legacy,"Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched",0.0,12.9000000000000003552713678800500929355621337890625,g,"1 cookie",0.0
+172716,18159,NDB #,SR Legacy,"Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+172716,18159,NDB #,SR Legacy,"Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched",0.0,12,g,"1 cookie Pepperidge Farm Chocolate Chunk Pecan",0.0
+172716,18159,NDB #,SR Legacy,"Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched",0.0,10,g,"1 cookie, medium (2-1/4 dia)",0.0
+172716,18159,NDB #,SR Legacy,"Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched",0.0,2.20000000000000017763568394002504646778106689453125,g,"1 cookie, bite size (include Mini Chips Ahoy!)",0.0
+172716,18159,NDB #,SR Legacy,"Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched",0.0,40,g,"1 cookie, big (3-1/2 - 4 dia) (include Grandma brand)",0.0
+172716,18159,NDB #,SR Legacy,"Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched",0.0,12.199999999999999289457264239899814128875732421875,g,"1 cookie (average weight of 1 cookie, variety of brands)",0.0
+172716,18159,NDB #,SR Legacy,"Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched",0.0,14,g,"1 cookie, large (include Keebler Rich 'n Chips, Pecan Chips Delux)",0.0
+172669,18015,NDB #,SR Legacy,"Biscuits, plain or buttermilk, refrigerated dough, higher fat, baked",0.0,51,g,"1 biscuit",0.0
+172669,18015,NDB #,SR Legacy,"Biscuits, plain or buttermilk, refrigerated dough, higher fat, baked",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+172669,18015,NDB #,SR Legacy,"Biscuits, plain or buttermilk, refrigerated dough, higher fat, baked",0.0,27,g,"1 biscuit (2-1/2 dia)",0.0
+172428,16085,NDB #,SR Legacy,"Peas, green, split, mature seeds, raw",0.0,196,g,"1 cup",0.0
+172390,5100,NDB #,SR Legacy,"Chicken, broilers or fryers, wing, meat and skin, raw",23.7,107,g,"1 piece",25.4
+172390,5100,NDB #,SR Legacy,"Chicken, broilers or fryers, wing, meat and skin, raw",23.7,113,g,"4 oz",26.8
+172390,5100,NDB #,SR Legacy,"Chicken, broilers or fryers, wing, meat and skin, raw",23.7,1150,g,"1 package",272
+172347,4611,NDB #,SR Legacy,"Margarine, regular, 80% fat, composite, tub, with salt",0.0,227,g,"1 cup",0.0
+172347,4611,NDB #,SR Legacy,"Margarine, regular, 80% fat, composite, tub, with salt",0.0,14.199999999999999289457264239899814128875732421875,g,"1 tbsp",0.0
+172339,4585,NDB #,SR Legacy,"Margarine-like, margarine-butter blend, soybean oil and butter",1.7,227,g,"1 cup",3.9
+172339,4585,NDB #,SR Legacy,"Margarine-like, margarine-butter blend, soybean oil and butter",1.7,4.70000000000000017763568394002504646778106689453125,g,"1 tsp",0.1
+172339,4585,NDB #,SR Legacy,"Margarine-like, margarine-butter blend, soybean oil and butter",1.7,111,g,"1 stick",1.9
+172339,4585,NDB #,SR Legacy,"Margarine-like, margarine-butter blend, soybean oil and butter",1.7,14.0999999999999996447286321199499070644378662109375,g,"1 tbsp",0.2
+172336,4582,NDB #,SR Legacy,"Oil, canola",0.0,14,g,"1 tbsp",0.0
+172336,4582,NDB #,SR Legacy,"Oil, canola",0.0,218,g,"1 cup",0.0
+172336,4582,NDB #,SR Legacy,"Oil, canola",0.0,4.5,g,"1 tsp",0.0
+172297,3690,NDB #,SR Legacy,"Babyfood, cereal, oatmeal, with bananas, prepared with whole milk",0.9,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.3
+172296,3681,NDB #,SR Legacy,"Babyfood, cereal, barley, prepared with whole milk",0.9,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.3
+172299,3694,NDB #,SR Legacy,"Babyfood, cereal, rice, prepared with whole milk",0.9,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.3
+172288,3298,NDB #,SR Legacy,"Babyfood, dinner, broccoli and chicken, junior",4.1,162,g,"1 container",6.6
+172288,3298,NDB #,SR Legacy,"Babyfood, dinner, broccoli and chicken, junior",4.1,29,g,"1 tbsp",1.2
+172275,3105,NDB #,SR Legacy,"Babyfood, vegetables, squash, junior",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+172275,3105,NDB #,SR Legacy,"Babyfood, vegetables, squash, junior",0.0,99,g,"1 jar",0.0
+172275,3105,NDB #,SR Legacy,"Babyfood, vegetables, squash, junior",0.0,67,g,"1 container",0.0
+172275,3105,NDB #,SR Legacy,"Babyfood, vegetables, squash, junior",0.0,16,g,"1 tbsp",0.0
+172271,3091,NDB #,SR Legacy,"Babyfood, vegetables, green beans, strained",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+172271,3091,NDB #,SR Legacy,"Babyfood, vegetables, green beans, strained",0.0,71,g,"1 jar Gerber First Foods (2.5 oz)",0.0
+172271,3091,NDB #,SR Legacy,"Babyfood, vegetables, green beans, strained",0.0,15,g,"1 tbsp",0.0
+172271,3091,NDB #,SR Legacy,"Babyfood, vegetables, green beans, strained",0.0,113,g,"1 jar Beech-Nut Stage I (4 oz)",0.0
+172271,3091,NDB #,SR Legacy,"Babyfood, vegetables, green beans, strained",0.0,240,g,"1 cup",0.0
+172271,3091,NDB #,SR Legacy,"Babyfood, vegetables, green beans, strained",0.0,71,g,"1 jar Heinz Beginner-1 (2.5 oz)",0.0
+172271,3091,NDB #,SR Legacy,"Babyfood, vegetables, green beans, strained",0.0,113,g,"1 jar Gerber Second Food (4 oz)",0.0
+172271,3091,NDB #,SR Legacy,"Babyfood, vegetables, green beans, strained",0.0,113,g,"1 jar",0.0
+172271,3091,NDB #,SR Legacy,"Babyfood, vegetables, green beans, strained",0.0,113,g,"1 jar Heinz Strained-2 (4 oz)",0.0
+172274,3104,NDB #,SR Legacy,"Babyfood, vegetables, squash, strained",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+172274,3104,NDB #,SR Legacy,"Babyfood, vegetables, squash, strained",0.0,113,g,"1 jar",0.0
+172274,3104,NDB #,SR Legacy,"Babyfood, vegetables, squash, strained",0.0,16,g,"1 tbsp",0.0
+172251,3016,NDB #,SR Legacy,"Babyfood, meat, turkey, junior",18.7,68,g,"1 container",12.7
+172251,3016,NDB #,SR Legacy,"Babyfood, meat, turkey, junior",18.7,19,g,"1 tbsp",3.6
+172250,3015,NDB #,SR Legacy,"Babyfood, meat, turkey, strained",18.7,71,g,"1 jar Gerber Second Foods (2.5 oz)",13.3
+172250,3015,NDB #,SR Legacy,"Babyfood, meat, turkey, strained",18.7,71,g,"1 jar Beech-Nut Stage 1 (2.5 oz)",13.3
+172250,3015,NDB #,SR Legacy,"Babyfood, meat, turkey, strained",18.7,71,g,"1 jar",13.3
+172250,3015,NDB #,SR Legacy,"Babyfood, meat, turkey, strained",18.7,28.35000000000000142108547152020037174224853515625,g,"1 oz",5.3
+172250,3015,NDB #,SR Legacy,"Babyfood, meat, turkey, strained",18.7,71,g,"1 jar Heinz Strained-2 (2.5 oz)",13.3
+172250,3015,NDB #,SR Legacy,"Babyfood, meat, turkey, strained",18.7,15,g,"1 tbsp",2.8
+172245,3005,NDB #,SR Legacy,"Babyfood, meat, veal, strained",1.5,71,g,"1 jar",1.1
+172245,3005,NDB #,SR Legacy,"Babyfood, meat, veal, strained",1.5,16,g,"1 tbsp",0.2
+172245,3005,NDB #,SR Legacy,"Babyfood, meat, veal, strained",1.5,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.4
+172244,3003,NDB #,SR Legacy,"Babyfood, meat, beef, junior",1.0,14.699999999999999289457264239899814128875732421875,g,"1 tbsp",0.1
+172244,3003,NDB #,SR Legacy,"Babyfood, meat, beef, junior",1.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.3
+172244,3003,NDB #,SR Legacy,"Babyfood, meat, beef, junior",1.0,71,g,"1 jar",0.7
+172234,2046,NDB #,SR Legacy,"Mustard, prepared, yellow",0.0,5,g,"1 tsp or 1 packet",0.0
+172234,2046,NDB #,SR Legacy,"Mustard, prepared, yellow",0.0,249,g,"1 cup",0.0
+172224,1229,NDB #,SR Legacy,"Cheese, white, queso blanco",5.8,118,g,"1 cup, crumbled",6.8
+172223,1228,NDB #,SR Legacy,"Cheese, fresh, queso fresco",3.6,122,g,"1 cup, crumbled",4.4
+172222,1227,NDB #,SR Legacy,"Cheese, dry white, queso seco",5.9,97,g,"1 cup grated",5.7
+172217,1211,NDB #,SR Legacy,"Milk, whole, 3.25% milkfat, without added vitamin A and vitamin D",1.0,244,g,"1 cup",2.4
+172217,1211,NDB #,SR Legacy,"Milk, whole, 3.25% milkfat, without added vitamin A and vitamin D",1.0,976,g,"1 quart",9.8
+172217,1211,NDB #,SR Legacy,"Milk, whole, 3.25% milkfat, without added vitamin A and vitamin D",1.0,15,g,"1 tbsp",0.2
+172217,1211,NDB #,SR Legacy,"Milk, whole, 3.25% milkfat, without added vitamin A and vitamin D",1.0,30.5,g,"1 fl oz",0.3
+172207,1186,NDB #,SR Legacy,"Cheese, cream, fat free",0.1,18,g,"1 tbsp",0.1
+172187,1132,NDB #,SR Legacy,"Egg, whole, cooked, scrambled",0.2,13.699999999999999289457264239899814128875732421875,g,"1 tbsp",0.2
+172187,1132,NDB #,SR Legacy,"Egg, whole, cooked, scrambled",0.2,61,g,"1 large",0.1
+172187,1132,NDB #,SR Legacy,"Egg, whole, cooked, scrambled",0.2,220,g,"1 cup",0.4
+172182,1015,NDB #,SR Legacy,"Cheese, cottage, lowfat, 2% milkfat",0.0,113,g,"4 oz",0.0
+172182,1015,NDB #,SR Legacy,"Cheese, cottage, lowfat, 2% milkfat",0.0,226,g,"1 cup (not packed)",0.0
+172179,1012,NDB #,SR Legacy,"Cheese, cottage, creamed, large or small curd",0.9,225,g,"1 cup, small curd (not packed)",2.0
+172179,1012,NDB #,SR Legacy,"Cheese, cottage, creamed, large or small curd",0.9,210,g,"1 cup, large curd (not packed)",1.9
+172179,1012,NDB #,SR Legacy,"Cheese, cottage, creamed, large or small curd",0.9,113,g,"4 oz",1.0
+172135,23064,NDB #,SR Legacy,"Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0 fat, all grades, cooked, grilled",1.9,236,g,"1 steak",4.5
+172135,23064,NDB #,SR Legacy,"Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0 fat, all grades, cooked, grilled",1.9,85,g,"3 oz",1.6
+172136,23065,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0 fat, select, cooked, grilled",1.3,34,g,"1 medallion",0.4
+172136,23065,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0 fat, select, cooked, grilled",1.3,85,g,"3 oz",1.1
+172131,23056,NDB #,SR Legacy,"Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0 fat, all grades, cooked, grilled",1.8,85,g,"3 oz",1.5
+172131,23056,NDB #,SR Legacy,"Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0 fat, all grades, cooked, grilled",1.8,168,g,"1 steak",3.0
+172133,23058,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0 fat, all grades, cooked, grilled",1.8,184,g,"1 steak",3.3
+172133,23058,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0 fat, all grades, cooked, grilled",1.8,85,g,"3 oz",1.5
+172132,23057,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0 fat, all grades, raw",1.5,113,g,"4 oz",1.7
+172132,23057,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0 fat, all grades, raw",1.5,241,g,"1 steak",3.6
+172134,23059,NDB #,SR Legacy,"Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0 fat, all grades, raw",3.2,113,g,"4 oz",3.6
+172134,23059,NDB #,SR Legacy,"Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0 fat, all grades, raw",3.2,250,g,"1 steak",8.0
+172130,23051,NDB #,SR Legacy,"Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0 fat, select, raw",1.4,324,g,"1 steak",4.5
+172130,23051,NDB #,SR Legacy,"Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0 fat, select, raw",1.4,113,g,"4 oz",1.6
+172128,23049,NDB #,SR Legacy,"Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0 fat, choice, raw",1.7,293,g,"1 steak",5.0
+172128,23049,NDB #,SR Legacy,"Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0 fat, choice, raw",1.7,113,g,"4 oz",1.9
+172127,23048,NDB #,SR Legacy,"Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0 fat, select, cooked, grilled",1.5,85,g,"3 oz",1.3
+172127,23048,NDB #,SR Legacy,"Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0 fat, select, cooked, grilled",1.5,160,g,"1 steak",2.4
+172129,23050,NDB #,SR Legacy,"Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0 fat, choice, cooked, grilled",1.9,85,g,"3 oz",1.6
+172129,23050,NDB #,SR Legacy,"Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0 fat, choice, cooked, grilled",1.9,225,g,"1 steak",4.3
+172123,23039,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0 fat, select, raw",1.5,233,g,"1 steak",3.5
+172123,23039,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0 fat, select, raw",1.5,113,g,"4 oz",1.7
+172124,23040,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0 fat, select, cooked, grilled",1.9,85,g,"3 oz",1.6
+172124,23040,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0 fat, select, cooked, grilled",1.9,179,g,"1 steak",3.4
+172125,23041,NDB #,SR Legacy,"Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0 fat, choice, raw",3.2,113,g,"4 oz",3.6
+172125,23041,NDB #,SR Legacy,"Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0 fat, choice, raw",3.2,254,g,"1 steak",8.1
+172126,23042,NDB #,SR Legacy,"Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0 fat, choice, cooked, grilled",3.1,193,g,"1 steak",6.0
+172126,23042,NDB #,SR Legacy,"Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0 fat, choice, cooked, grilled",3.1,85,g,"3 oz",2.6
+172122,23034,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0 fat, choice, raw",1.5,113,g,"4 oz",1.7
+172122,23034,NDB #,SR Legacy,"Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0 fat, choice, raw",1.5,40,g,"1 medallion",0.6
+172121,23033,NDB #,SR Legacy,"Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0 fat, select, cooked, grilled",1.7,85,g,"3 oz",1.4
+172121,23033,NDB #,SR Legacy,"Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0 fat, select, cooked, grilled",1.7,174,g,"1 steak",3.0
+172119,23031,NDB #,SR Legacy,"Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0 fat, choice, cooked, grilled",1.8,85,g,"3 oz",1.5
+172119,23031,NDB #,SR Legacy,"Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0 fat, choice, cooked, grilled",1.8,141,g,"1 steak",2.5
+172120,23032,NDB #,SR Legacy,"Beef, round, knuckle, tip side, steak, separable lean and fat , trimmed to 0 fat, select, raw",1.2,200,g,"1 steak",2.4
+172120,23032,NDB #,SR Legacy,"Beef, round, knuckle, tip side, steak, separable lean and fat , trimmed to 0 fat, select, raw",1.2,113,g,"4 oz",1.4
+172113,22976,NDB #,SR Legacy,"Ravioli, cheese with tomato sauce, frozen, not prepared, includes regular and light entrees",0.3,159,g,"1 cup",0.5
+172114,22977,NDB #,SR Legacy,"Lasagna with meat sauce, frozen, prepared",1.4,255,g,"1 piece center",3.6
+172114,22977,NDB #,SR Legacy,"Lasagna with meat sauce, frozen, prepared",1.4,123,g,"1 piece side",1.7
+172114,22977,NDB #,SR Legacy,"Lasagna with meat sauce, frozen, prepared",1.4,114,g,"1 piece corner",1.6
+172109,22963,NDB #,SR Legacy,"Lean Pockets, Meatballs & Mozzarella",1.1,128,g,"1 each",1.4
+172105,22955,NDB #,SR Legacy,"Egg rolls, vegetable, frozen, prepared",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+172105,22955,NDB #,SR Legacy,"Egg rolls, vegetable, frozen, prepared",0.0,68,g,"1 egg roll",0.0
+172107,22961,NDB #,SR Legacy,"HOT POCKETS, meatballs & mozzarella stuffed sandwich, frozen",1.6,127,g,"1 hot pocket (1 NLEA serving)",2.0
+172108,22962,NDB #,SR Legacy,"LEAN POCKETS, Ham N Cheddar",1.5,129,g,"1 each (analytical measurement)",1.9
+172108,22962,NDB #,SR Legacy,"LEAN POCKETS, Ham N Cheddar",1.5,127,g,"1 hot pocket (1 NLEA serving)",1.9
+172099,22912,NDB #,SR Legacy,"Spaghetti, with meatballs in tomato sauce, canned",0.9,411,g,"1 can",3.7
+172099,22912,NDB #,SR Legacy,"Spaghetti, with meatballs in tomato sauce, canned",0.9,246,g,"1 cup",2.2
+172093,22529,NDB #,SR Legacy,"Beef Pot Pie, frozen entree, prepared",2.2,268,g,"1 pie, cooked (average weight)",5.9
+172055,21304,NDB #,SR Legacy,"Fast Food, Pizza Chain, 14 pizza, meat and vegetable topping, regular crust",2.0,136,g,"1 slice",2.7
+172055,21304,NDB #,SR Legacy,"Fast Food, Pizza Chain, 14 pizza, meat and vegetable topping, regular crust",2.0,1168,g,"1 pie",23.4
+172053,21297,NDB #,SR Legacy,"PIZZA HUT 14 Pepperoni Pizza, Pan Crust",2.1,909,g,"1 pizza",19.1
+172053,21297,NDB #,SR Legacy,"PIZZA HUT 14 Pepperoni Pizza, Pan Crust",2.1,113,g,"1 slice",2.4
+172052,21296,NDB #,SR Legacy,"PIZZA HUT 14 Pepperoni Pizza, Hand-Tossed Crust",2.5,883,g,"1 pizza",22.1
+172052,21296,NDB #,SR Legacy,"PIZZA HUT 14 Pepperoni Pizza, Hand-Tossed Crust",2.5,110,g,"1 slice",2.8
+172054,21298,NDB #,SR Legacy,"PIZZA HUT 14 Super Supreme Pizza, Hand-Tossed Crust",2.0,123,g,"1 slice",2.5
+172054,21298,NDB #,SR Legacy,"PIZZA HUT 14 Super Supreme Pizza, Hand-Tossed Crust",2.0,1313,g,"1 pizza",26.3
+172051,21295,NDB #,SR Legacy,"PIZZA HUT 14 Cheese Pizza, THIN 'N CRISPY Crust",2.8,79,g,"1 slice",2.2
+172051,21295,NDB #,SR Legacy,"PIZZA HUT 14 Cheese Pizza, THIN 'N CRISPY Crust",2.8,641,g,"1 pizza",17.9
+172025,20653,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining enriched semolina, dry (Includes foods for USDA's Food Distribution Program)",0.0,90,g,"1 cup lasagne",0.0
+172025,20653,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining enriched semolina, dry (Includes foods for USDA's Food Distribution Program)",0.0,91,g,"1 cup spaghetti",0.0
+172025,20653,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining enriched semolina, dry (Includes foods for USDA's Food Distribution Program)",0.0,96,g,"1 cup rotini",0.0
+172025,20653,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining enriched semolina, dry (Includes foods for USDA's Food Distribution Program)",0.0,81,g,"1 cup farfalle",0.0
+172025,20653,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining enriched semolina, dry (Includes foods for USDA's Food Distribution Program)",0.0,64,g,"1 cup shells",0.0
+172025,20653,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining enriched semolina, dry (Includes foods for USDA's Food Distribution Program)",0.0,95,g,"1 cup penne",0.0
+172025,20653,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining enriched semolina, dry (Includes foods for USDA's Food Distribution Program)",0.0,122,g,"1 cup elbows",0.0
+172024,20652,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining enriched semolina, cooked (Includes foods for USDA's Food Distribution Program)",0.0,105,g,"1 cup shells",0.0
+172024,20652,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining enriched semolina, cooked (Includes foods for USDA's Food Distribution Program)",0.0,117,g,"1 cup elbows",0.0
+172024,20652,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining enriched semolina, cooked (Includes foods for USDA's Food Distribution Program)",0.0,107,g,"1 cup rotini",0.0
+172024,20652,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining enriched semolina, cooked (Includes foods for USDA's Food Distribution Program)",0.0,116,g,"1 cup spaghetti not packed",0.0
+172024,20652,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining enriched semolina, cooked (Includes foods for USDA's Food Distribution Program)",0.0,107,g,"1 cup farfalle",0.0
+172024,20652,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining enriched semolina, cooked (Includes foods for USDA's Food Distribution Program)",0.0,97,g,"1 cup penne",0.0
+172024,20652,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining enriched semolina, cooked (Includes foods for USDA's Food Distribution Program)",0.0,151,g,"1 cup spaghetti packed",0.0
+172024,20652,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining enriched semolina, cooked (Includes foods for USDA's Food Distribution Program)",0.0,116,g,"1 cup lasagne",0.0
+172023,20647,NDB #,SR Legacy,"Millet flour",0.2,119,g,"1 cup",0.2
+172012,7007,NDB #,SR Legacy,"Bologna, beef",6.3,28,g,"1 serving",1.8
+172012,7007,NDB #,SR Legacy,"Bologna, beef",6.3,30,g,"1 slice",1.9
+171990,15192,NDB #,SR Legacy,"Fish, cod, Pacific, cooked, dry heat (may contain additives to retain moisture)",0.0,85,g,"3 oz",0.0
+171990,15192,NDB #,SR Legacy,"Fish, cod, Pacific, cooked, dry heat (may contain additives to retain moisture)",0.0,90,g,"1 fillet",0.0
+171980,15169,NDB #,SR Legacy,"Mollusks, oyster, eastern, wild, cooked, moist heat",5.0,85,g,"3 oz",4.2
+171980,15169,NDB #,SR Legacy,"Mollusks, oyster, eastern, wild, cooked, moist heat",5.0,42,g,"6 medium",2.1
+171978,15167,NDB #,SR Legacy,"Mollusks, oyster, eastern, wild, raw",2.5,84,g,"6 medium",2.1
+171978,15167,NDB #,SR Legacy,"Mollusks, oyster, eastern, wild, raw",2.5,248,g,"1 cup",6.2
+171971,15151,NDB #,SR Legacy,"Crustaceans, shrimp, mixed species, cooked, moist heat (may contain additives to retain moisture)",0.4,22,g,"4 large",0.1
+171971,15151,NDB #,SR Legacy,"Crustaceans, shrimp, mixed species, cooked, moist heat (may contain additives to retain moisture)",0.4,85,g,"3 oz",0.3
+171976,15160,NDB #,SR Legacy,"Mollusks, clam, mixed species, canned, drained solids",0.1,160,g,"1 cup",0.2
+171976,15160,NDB #,SR Legacy,"Mollusks, clam, mixed species, canned, drained solids",0.1,85,g,"3 oz",0.1
+171970,15150,NDB #,SR Legacy,"Crustaceans, shrimp, mixed species, cooked, breaded and fried",0.3,85,g,"3 oz",0.3
+171970,15150,NDB #,SR Legacy,"Crustaceans, shrimp, mixed species, cooked, breaded and fried",0.3,30,g,"4 large",0.1
+171966,15141,NDB #,SR Legacy,"Crustaceans, crab, blue, canned",0.0,135,g,"1 cup",0.0
+171966,15141,NDB #,SR Legacy,"Crustaceans, crab, blue, canned",0.0,85,g,"3 oz",0.0
+171966,15141,NDB #,SR Legacy,"Crustaceans, crab, blue, canned",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+171966,15141,NDB #,SR Legacy,"Crustaceans, crab, blue, canned",0.0,125,g,"1 can (6.5 oz), drained",0.0
+171941,14638,NDB #,SR Legacy,"Beverages, Horchata, as served in restaurant",0.0,228,g,"1 cup",0.0
+171881,14180,NDB #,SR Legacy,"Beverages, coffee, brewed, breakfast blend",0.0,248,g,"1 cup",0.0
+171874,14164,NDB #,SR Legacy,"Beverages, chocolate malt powder, prepared with 1% milk, fortified",0.0,251,g,"1 cup prepared",0.0
+171874,14164,NDB #,SR Legacy,"Beverages, chocolate malt powder, prepared with 1% milk, fortified",0.0,98,g,"1 cup dry mix",0.0
+171834,27068,NDB #,SR Legacy,"Dip, FRITO'S, bean, original flavor",0.0,36,g,"2 tbsp",0.0
+171834,27068,NDB #,SR Legacy,"Dip, FRITO'S, bean, original flavor",0.0,259,g,"1 container (9oz)",0.0
+171831,27064,NDB #,SR Legacy,"Wasabi",0.0,20,g,"1 tablespoon",0.0
+171831,27064,NDB #,SR Legacy,"Wasabi",0.0,6.5,g,"1 teaspoon",0.0
+171821,27002,NDB #,SR Legacy,"Soup, wonton, Chinese restaurant",0.0,223,g,"1 cup",0.0
+171777,23497,NDB #,SR Legacy,"Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 0 fat, select, raw",0.2,113,g,"4 oz",0.2
+171776,23496,NDB #,SR Legacy,"Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0 fat, select, raw",0.2,113,g,"4 oz",0.2
+171695,9019,NDB #,SR Legacy,"Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)",0.0,244,g,"1 cup",0.0
+171696,9020,NDB #,SR Legacy,"Applesauce, canned, sweetened, without salt",0.0,246,g,"1 cup",0.0
+171672,8164,NDB #,SR Legacy,"Cereals, corn grits, yellow, regular and quick, enriched, cooked with water, without salt",0.0,233,g,"1 cup",0.0
+171659,8105,NDB #,SR Legacy,"Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3 minutes), cooked with water, without salt",0.0,14.9000000000000003552713678800500929355621337890625,g,"1 tbsp",0.0
+171659,8105,NDB #,SR Legacy,"Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3 minutes), cooked with water, without salt",0.0,240,g,"1 cup",0.0
+171659,8105,NDB #,SR Legacy,"Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3 minutes), cooked with water, without salt",0.0,179,g,"0.75 cup",0.0
+171658,8104,NDB #,SR Legacy,"Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3 minutes), dry",0.0,11,g,"1 tbsp",0.0
+171658,8104,NDB #,SR Legacy,"Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3 minutes), dry",0.0,176,g,"1 cup",0.0
+171655,8091,NDB #,SR Legacy,"Cereals, corn grits, white, regular and quick, enriched, cooked with water, without salt",0.0,16,g,"1 tbsp",0.0
+171655,8091,NDB #,SR Legacy,"Cereals, corn grits, white, regular and quick, enriched, cooked with water, without salt",0.0,257,g,"1 cup",0.0
+171656,8092,NDB #,SR Legacy,"Cereals, QUAKER, corn grits, instant, plain, dry",0.0,7,g,"1 tbsp",0.0
+171656,8092,NDB #,SR Legacy,"Cereals, QUAKER, corn grits, instant, plain, dry",0.0,29,g,"1 packet",0.0
+171654,8090,NDB #,SR Legacy,"Cereals, corn grits, white, regular and quick, enriched, dry",0.0,9.699999999999999289457264239899814128875732421875,g,"1 tbsp",0.0
+171654,8090,NDB #,SR Legacy,"Cereals, corn grits, white, regular and quick, enriched, dry",0.0,156,g,"1 cup",0.0
+171638,7972,NDB #,SR Legacy,"Meatballs, frozen, Italian style",28.1,85,g,"3 oz",23.9
+171638,7972,NDB #,SR Legacy,"Meatballs, frozen, Italian style",28.1,56,g,"3 pieces",15.7
+171634,7964,NDB #,SR Legacy,"Frankfurter, meat and poultry, cooked, grilled",35.6,48,g,"1 frankfurter",17.1
+171625,7025,NDB #,SR Legacy,"Frankfurter, turkey",31.2,45,g,"1 frankfurter",14.0
+171625,7025,NDB #,SR Legacy,"Frankfurter, turkey",31.2,28.35000000000000142108547152020037174224853515625,g,"1 oz",8.8
+171624,7024,NDB #,SR Legacy,"Frankfurter, chicken",25.1,45,g,"1 link",11.3
+171624,7024,NDB #,SR Legacy,"Frankfurter, chicken",25.1,85,g,"3 oz",21.3
+171600,6999,NDB #,SR Legacy,"Gravy, CAMPBELL'S, chicken",1.7,273,g,"1 can 10.5 oz",4.6
+171600,6999,NDB #,SR Legacy,"Gravy, CAMPBELL'S, chicken",1.7,56,g,"0.25 cup",1.0
+171600,6999,NDB #,SR Legacy,"Gravy, CAMPBELL'S, chicken",1.7,226,g,"1 cup",3.8
+171581,6628,NDB #,SR Legacy,"Sauce, pesto, BUITONI, pesto with basil, ready-to-serve, refrigerated",0.0,63,g,"0.25 cup",0.0
+171582,6629,NDB #,SR Legacy,"Sauce, pesto, CLASSICO, basil pesto, ready-to-serve",0.0,62,g,"0.25 cup",0.0
+171579,6626,NDB #,SR Legacy,"Sauce, pesto, ready-to-serve, refrigerated",0.0,63,g,"0.25 cup",0.0
+171580,6627,NDB #,SR Legacy,"Sauce, pesto, ready-to-serve, shelf stable",0.0,61,g,"0.25 cup",0.0
+171566,6119,NDB #,SR Legacy,"Gravy, chicken, canned or bottled, ready-to-serve",2.7,324,g,"1 jar 12 oz",8.7
+171566,6119,NDB #,SR Legacy,"Gravy, chicken, canned or bottled, ready-to-serve",2.7,273,g,"1 jar 10.5 oz",7.4
+171566,6119,NDB #,SR Legacy,"Gravy, chicken, canned or bottled, ready-to-serve",2.7,228,g,"1 cup",6.2
+171566,6119,NDB #,SR Legacy,"Gravy, chicken, canned or bottled, ready-to-serve",2.7,57,g,"0.25 cup",1.5
+171534,5747,NDB #,SR Legacy,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, grilled",11.1,196,g,"1 piece",21.8
+171534,5747,NDB #,SR Legacy,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, grilled",11.1,85,g,"3 oz",9.4
+171522,5351,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, thigh, meat and skin, cooked",23.5,89,g,"1 thigh",20.9
+171522,5351,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, thigh, meat and skin, cooked",23.5,85,g,"1 serving",20.0
+171523,5352,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, wing, meat and skin, cooked",25.3,53,g,"1 wing",13.4
+171523,5352,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, wing, meat and skin, cooked",25.3,85,g,"1 serving (3 oz)",21.5
+171523,5352,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, wing, meat and skin, cooked",25.3,28.35000000000000142108547152020037174224853515625,g,"1 oz",7.2
+171521,5349,NDB #,SR Legacy,"Chicken, broilers or fryers,  rotisserie, original seasoning, drumstick, meat and skin, cooked",33.2,85,g,"1 serving (3 oz)",28.2
+171521,5349,NDB #,SR Legacy,"Chicken, broilers or fryers,  rotisserie, original seasoning, drumstick, meat and skin, cooked",33.2,28.35000000000000142108547152020037174224853515625,g,"1 oz",9.4
+171521,5349,NDB #,SR Legacy,"Chicken, broilers or fryers,  rotisserie, original seasoning, drumstick, meat and skin, cooked",33.2,53,g,"1 drumstick",17.6
+171519,5343,NDB #,SR Legacy,"Chicken, broilers or fryers, drumstick, rotisserie, original seasoning, meat only, cooked",35.7,53,g,"1 drumstick",18.9
+171519,5343,NDB #,SR Legacy,"Chicken, broilers or fryers, drumstick, rotisserie, original seasoning, meat only, cooked",35.7,28.35000000000000142108547152020037174224853515625,g,"1 oz",10.1
+171519,5343,NDB #,SR Legacy,"Chicken, broilers or fryers, drumstick, rotisserie, original seasoning, meat only, cooked",35.7,85,g,"1 serving (3oz)",30.3
+171517,5341,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, back, meat only, cooked",25.6,28.35000000000000142108547152020037174224853515625,g,"1 oz",7.3
+171517,5341,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, back, meat only, cooked",25.6,85,g,"1 serving (3 oz)",21.8
+171517,5341,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, back, meat only, cooked",25.6,102,g,"1 back",26.1
+171520,5344,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, skin only, cooked",20.9,85,g,"3 oz",17.8
+171509,5314,NDB #,SR Legacy,"Chicken, broilers or fryers, breast, skinless, boneless, meat only, with added solution, raw",10.5,263,g,"1 piece",27.6
+171509,5314,NDB #,SR Legacy,"Chicken, broilers or fryers, breast, skinless, boneless, meat only, with added solution, raw",10.5,113,g,"4 oz",11.9
+171509,5314,NDB #,SR Legacy,"Chicken, broilers or fryers, breast, skinless, boneless, meat only, with added solution, raw",10.5,118,g,"0.5 breast",12.4
+171442,4707,NDB #,SR Legacy,"Oil, flaxseed, contains added sliced flaxseed",2.0,219,g,"1 cup",4.4
+171442,4707,NDB #,SR Legacy,"Oil, flaxseed, contains added sliced flaxseed",2.0,13.699999999999999289457264239899814128875732421875,g,"1 tablespoon",0.3
+171436,4692,NDB #,SR Legacy,"Margarine, regular, 80% fat, composite, tub, with salt, with added vitamin D",0.0,14,g,"1 tbsp",0.0
+171434,4690,NDB #,SR Legacy,"Margarine-like, vegetable oil spread, approximately 37% fat, unspecified oils, with salt, with added vitamin D",0.0,14.9000000000000003552713678800500929355621337890625,g,"1 tbsp",0.0
+171412,4047,NDB #,SR Legacy,"Oil, coconut",0.0,13.5999999999999996447286321199499070644378662109375,g,"1 tbsp",0.0
+171412,4047,NDB #,SR Legacy,"Oil, coconut",0.0,4.5,g,"1 tsp",0.0
+171412,4047,NDB #,SR Legacy,"Oil, coconut",0.0,218,g,"1 cup",0.0
+171411,4044,NDB #,SR Legacy,"Oil, soybean, salad or cooking",0.0,218,g,"1 cup",0.0
+171411,4044,NDB #,SR Legacy,"Oil, soybean, salad or cooking",0.0,4.5,g,"1 tsp",0.0
+171411,4044,NDB #,SR Legacy,"Oil, soybean, salad or cooking",0.0,13.5999999999999996447286321199499070644378662109375,g,"1 tbsp",0.0
+171371,3216,NDB #,SR Legacy,"Babyfood, GERBER, GRADUATES Lil Biscuits Vanilla Wheat",0.0,7,g,"1 biscuit",0.0
+171371,3216,NDB #,SR Legacy,"Babyfood, GERBER, GRADUATES Lil Biscuits Vanilla Wheat",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+171371,3216,NDB #,SR Legacy,"Babyfood, GERBER, GRADUATES Lil Biscuits Vanilla Wheat",0.0,7,g,"1 biscuit",0.0
+171360,3189,NDB #,SR Legacy,"Babyfood, cereal, oatmeal, dry fortified",0.0,3.20000000000000017763568394002504646778106689453125,g,"1 tbsp",0.0
+171360,3189,NDB #,SR Legacy,"Babyfood, cereal, oatmeal, dry fortified",0.0,15,g,"0.5 oz",0.0
+171360,3189,NDB #,SR Legacy,"Babyfood, cereal, oatmeal, dry fortified",0.0,223,g,"1 box",0.0
+171360,3189,NDB #,SR Legacy,"Babyfood, cereal, oatmeal, dry fortified",0.0,12.199999999999999289457264239899814128875732421875,g,"0.25 cup",0.0
+171336,3130,NDB #,SR Legacy,"Babyfood, fruit, peaches, strained",0.0,95,g,"1 jar",0.0
+171336,3130,NDB #,SR Legacy,"Babyfood, fruit, peaches, strained",0.0,17,g,"1 tbsp",0.0
+171336,3130,NDB #,SR Legacy,"Babyfood, fruit, peaches, strained",0.0,67,g,"1 container",0.0
+171336,3130,NDB #,SR Legacy,"Babyfood, fruit, peaches, strained",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+171337,3131,NDB #,SR Legacy,"Babyfood, fruit, peaches, junior",0.0,67,g,"1 container",0.0
+171337,3131,NDB #,SR Legacy,"Babyfood, fruit, peaches, junior",0.0,17,g,"1 tbsp",0.0
+171337,3131,NDB #,SR Legacy,"Babyfood, fruit, peaches, junior",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+171337,3131,NDB #,SR Legacy,"Babyfood, fruit, peaches, junior",0.0,95,g,"1 jar",0.0
+171291,1254,NDB #,SR Legacy,"Cheese food, pasteurized process, American, without added vitamin D",8.9,28.35000000000000142108547152020037174224853515625,g,"1 oz",2.5
+171291,1254,NDB #,SR Legacy,"Cheese food, pasteurized process, American, without added vitamin D",8.9,21,g,"1 slice (3/4 oz)",1.9
+171291,1254,NDB #,SR Legacy,"Cheese food, pasteurized process, American, without added vitamin D",8.9,113,g,"1 cup",10.1
+171291,1254,NDB #,SR Legacy,"Cheese food, pasteurized process, American, without added vitamin D",8.9,227,g,"1 package (8 oz)",20.2
+171289,1252,NDB #,SR Legacy,"Cheese product, pasteurized process, American, vitamin D fortified",5.0,21,g,"1 slice (3/4 oz)",1.0
+171289,1252,NDB #,SR Legacy,"Cheese product, pasteurized process, American, vitamin D fortified",5.0,19,g,"1 slice (2/3 oz)",1.0
+171265,1077,NDB #,SR Legacy,"Milk, whole, 3.25% milkfat, with added vitamin D",1.0,976,g,"1 quart",9.8
+171265,1077,NDB #,SR Legacy,"Milk, whole, 3.25% milkfat, with added vitamin D",1.0,15,g,"1 tbsp",0.2
+171265,1077,NDB #,SR Legacy,"Milk, whole, 3.25% milkfat, with added vitamin D",1.0,244,g,"1 cup",2.4
+171265,1077,NDB #,SR Legacy,"Milk, whole, 3.25% milkfat, with added vitamin D",1.0,30.5,g,"1 fl oz",0.3
+171263,1069,NDB #,SR Legacy,"Cream substitute, powdered",0.0,3,g,"1 packet",0.0
+171263,1069,NDB #,SR Legacy,"Cream substitute, powdered",0.0,94,g,"1 cup",0.0
+171263,1069,NDB #,SR Legacy,"Cream substitute, powdered",0.0,2,g,"1 tsp",0.0
+171257,1056,NDB #,SR Legacy,"Cream, sour, cultured",6.0,230,g,"1 cup",13.8
+171257,1056,NDB #,SR Legacy,"Cream, sour, cultured",6.0,12,g,"1 tbsp",0.7
+171251,1040,NDB #,SR Legacy,"Cheese, swiss",6.3,28,g,"1 slice (1 oz)",1.8
+171251,1040,NDB #,SR Legacy,"Cheese, swiss",6.3,132,g,"1 cup, diced",8.3
+171251,1040,NDB #,SR Legacy,"Cheese, swiss",6.3,28.35000000000000142108547152020037174224853515625,g,"1 oz",1.8
+171251,1040,NDB #,SR Legacy,"Cheese, swiss",6.3,15,g,"1 cubic inch",0.9
+171251,1040,NDB #,SR Legacy,"Cheese, swiss",6.3,108,g,"1 cup, shredded",6.8
+171251,1040,NDB #,SR Legacy,"Cheese, swiss",6.3,244,g,"1 cup, melted",15.4
+171246,1031,NDB #,SR Legacy,"Cheese, neufchatel",9.3,85,g,"1 package (3 oz)",7.9
+171246,1031,NDB #,SR Legacy,"Cheese, neufchatel",9.3,28.35000000000000142108547152020037174224853515625,g,"1 oz",2.6
+171247,1032,NDB #,SR Legacy,"Cheese, parmesan, grated",7.1,5,g,"1 tbsp",0.4
+171247,1032,NDB #,SR Legacy,"Cheese, parmesan, grated",7.1,100,g,"1 cup",7.1
+171247,1032,NDB #,SR Legacy,"Cheese, parmesan, grated",7.1,28.35000000000000142108547152020037174224853515625,g,"1 oz",2.0
+171244,1029,NDB #,SR Legacy,"Cheese, mozzarella, low moisture, part-skim",4.1,113,g,"1 cup, shredded",4.6
+171244,1029,NDB #,SR Legacy,"Cheese, mozzarella, low moisture, part-skim",4.1,18,g,"1 cubic inch",0.7
+171244,1029,NDB #,SR Legacy,"Cheese, mozzarella, low moisture, part-skim",4.1,28,g,"1 slice (1 oz)",1.1
+171244,1029,NDB #,SR Legacy,"Cheese, mozzarella, low moisture, part-skim",4.1,132,g,"1 cup, diced",5.4
+171244,1029,NDB #,SR Legacy,"Cheese, mozzarella, low moisture, part-skim",4.1,28.35000000000000142108547152020037174224853515625,g,"1 oz",1.2
+171186,6631,NDB #,SR Legacy,"Sauce, hot chile, sriracha",0.0,6.5,g,"1 tsp",0.0
+171188,6633,NDB #,SR Legacy,"Sauce, hot chile, sriracha, TUONG OT SRIRACHA",0.0,6.20000000000000017763568394002504646778106689453125,g,"1 tsp",0.0
+171121,5346,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, wing, meat only, cooked",27.5,28.35000000000000142108547152020037174224853515625,g,"1 oz",7.8
+171121,5346,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, wing, meat only, cooked",27.5,53,g,"1 wing",14.6
+171121,5346,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, wing, meat only, cooked",27.5,85,g,"1 serving (3 oz)",23.4
+171123,5348,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, breast, meat and skin, cooked",15.5,28.35000000000000142108547152020037174224853515625,g,"1 oz",4.4
+171123,5348,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, breast, meat and skin, cooked",15.5,343,g,"1 breast",53.2
+171123,5348,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, breast, meat and skin, cooked",15.5,85,g,"1 serving (3 oz)",13.2
+171122,5347,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, back, meat and skin, cooked",24.3,28.35000000000000142108547152020037174224853515625,g,"1 oz",6.9
+171122,5347,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, back, meat and skin, cooked",24.3,85,g,"1 serving (3 oz)",20.7
+171122,5347,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, back, meat and skin, cooked",24.3,102,g,"1 back",24.8
+171120,5345,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, thigh, meat only, cooked",24.0,89,g,"1 thigh",21.4
+171120,5345,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, thigh, meat only, cooked",24.0,85,g,"1 serving (3 oz)",20.4
+171120,5345,NDB #,SR Legacy,"Chicken, broilers or fryers, rotisserie, original seasoning, thigh, meat only, cooked",24.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",6.8
+171077,5062,NDB #,SR Legacy,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",8.4,272,g,"1 piece",22.8
+171077,5062,NDB #,SR Legacy,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",8.4,926,g,"1 package",77.8
+171077,5062,NDB #,SR Legacy,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",8.4,113,g,"4 oz",9.5
+171037,4689,NDB #,SR Legacy,"Salad Dressing, mayonnaise, light, SMART BALANCE, Omega Plus light",0.0,14,g,"1 tbsp (1 NLEA serving)",0.0
+171001,3997,NDB #,SR Legacy,"Babyfood, Baby MUM MUM Rice Biscuits",0.0,8,g,"4 biscuit",0.0
+170990,3965,NDB #,SR Legacy,"Babyfood, yogurt, whole milk, with fruit, multigrain cereal and added iron fortified",0.0,16,g,"1 tbsp",0.0
+170990,3965,NDB #,SR Legacy,"Babyfood, yogurt, whole milk, with fruit, multigrain cereal and added iron fortified",0.0,69,g,"1 container",0.0
+170969,3194,NDB #,SR Legacy,"Babyfood, cereal, rice, dry fortified",0.0,2.5,g,"1 tbsp",0.0
+170969,3194,NDB #,SR Legacy,"Babyfood, cereal, rice, dry fortified",0.0,15,g,"0.5 oz",0.0
+170939,3121,NDB #,SR Legacy,"Babyfood, vegetables, peas, strained",0.0,91,g,"1 container",0.0
+170939,3121,NDB #,SR Legacy,"Babyfood, vegetables, peas, strained",0.0,240,g,"1 cup",0.0
+170939,3121,NDB #,SR Legacy,"Babyfood, vegetables, peas, strained",0.0,16,g,"1 tbsp",0.0
+170939,3121,NDB #,SR Legacy,"Babyfood, vegetables, peas, strained",0.0,95,g,"1 jar",0.0
+170939,3121,NDB #,SR Legacy,"Babyfood, vegetables, peas, strained",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+170910,1305,NDB #,SR Legacy,"Milk, chocolate, lowfat, reduced sugar",0.2,100,g,"100 g",0.2
+170900,1271,NDB #,SR Legacy,"Cheese, mozzarella, low moisture, part-skim, shredded",4.1,86,g,"1 cup",3.5
+170899,1270,NDB #,SR Legacy,"Cheese, cheddar, sharp, sliced",8.6,19,g,"1 slice (2/3 oz)",1.6
+170899,1270,NDB #,SR Legacy,"Cheese, cheddar, sharp, sliced",8.6,21,g,"1 slice (3/4 oz)",1.8
+170899,1270,NDB #,SR Legacy,"Cheese, cheddar, sharp, sliced",8.6,28,g,"1 slice (1 oz)",2.4
+170894,1256,NDB #,SR Legacy,"Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)",0.0,170,g,"1 container",0.0
+170881,1104,NDB #,SR Legacy,"Milk, chocolate, lowfat, with added vitamin A and vitamin D",0.1,250,g,"1 cup",0.3
+170881,1104,NDB #,SR Legacy,"Milk, chocolate, lowfat, with added vitamin A and vitamin D",0.1,1000,g,"1 quart",1.0
+170853,1042,NDB #,SR Legacy,"Cheese, pasteurized process, American, fortified with vitamin D",14.1,18,g,"1 cubic inch",2.5
+170853,1042,NDB #,SR Legacy,"Cheese, pasteurized process, American, fortified with vitamin D",14.1,28.35000000000000142108547152020037174224853515625,g,"1 oz",4.0
+170853,1042,NDB #,SR Legacy,"Cheese, pasteurized process, American, fortified with vitamin D",14.1,21,g,"1 slice (3/4 oz)",3.0
+170853,1042,NDB #,SR Legacy,"Cheese, pasteurized process, American, fortified with vitamin D",14.1,244,g,"1 cup, melted",34.4
+170853,1042,NDB #,SR Legacy,"Cheese, pasteurized process, American, fortified with vitamin D",14.1,140,g,"1 cup, diced",19.7
+170853,1042,NDB #,SR Legacy,"Cheese, pasteurized process, American, fortified with vitamin D",14.1,28,g,"1 slice (1 oz)",3.9
+170853,1042,NDB #,SR Legacy,"Cheese, pasteurized process, American, fortified with vitamin D",14.1,113,g,"1 cup, shredded",15.9
+170789,21525,NDB #,SR Legacy,"PIZZA HUT, breadstick, parmesan garlic",1.1,43,g,"1 breadstick",0.5
+170788,21520,NDB #,SR Legacy,"Fast foods, breadstick, soft, prepared with garlic and parmesan cheese",1.1,43,g,"1 breadstick",0.5
+170776,21522,NDB #,SR Legacy,"McDONALD'S, Southern Style Chicken Biscuit",2.9,132,g,"1 biscuit regular size biscuit",3.8
+170759,21476,NDB #,SR Legacy,"DIGIORNO Pizza, pepperoni topping, cheese stuffed crust, frozen, baked",2.8,179,g,"1 slice 1/4 of pie",5.0
+170759,21476,NDB #,SR Legacy,"DIGIORNO Pizza, pepperoni topping, cheese stuffed crust, frozen, baked",2.8,732,g,"1 pie 12 diameter",20.5
+170760,21477,NDB #,SR Legacy,"DIGIORNO Pizza, pepperoni topping, rising crust, frozen, baked",2.7,207,g,"1 slice 1/4 of pie",5.6
+170760,21477,NDB #,SR Legacy,"DIGIORNO Pizza, pepperoni topping, rising crust, frozen, baked",2.7,759,g,"1 pie 12 diameter",20.5
+170761,21478,NDB #,SR Legacy,"DIGIORNO Pizza, pepperoni topping, thin crispy crust, frozen, baked",4.0,145,g,"1 slice 1/4 of pie",5.8
+170761,21478,NDB #,SR Legacy,"DIGIORNO Pizza, pepperoni topping, thin crispy crust, frozen, baked",4.0,548,g,"1 pie 22.1 oz",21.9
+170758,21475,NDB #,SR Legacy,"DIGIORNO Pizza, cheese topping, thin crispy crust, frozen, baked",1.9,161,g,"1 slice 1/4 of pie",3.1
+170758,21475,NDB #,SR Legacy,"DIGIORNO Pizza, cheese topping, thin crispy crust, frozen, baked",1.9,643,g,"1 pie 23 oz",12.2
+170737,21422,NDB #,SR Legacy,"KFC, Popcorn Chicken",7.1,56,g,"10 pieces",4.0
+170737,21422,NDB #,SR Legacy,"KFC, Popcorn Chicken",7.1,6.4000000000000003552713678800500929355621337890625,g,"1 piece",0.5
+170682,20001,NDB #,SR Legacy,"Amaranth grain, uncooked",0.0,193,g,"1 cup",0.0
+170680,19923,NDB #,SR Legacy,"Candies, HERSHEYS, PAYDAY Bar",0.0,52,g,"1 serving",0.0
+170610,13366,NDB #,SR Legacy,"Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0 fat, select, cooked",0.2,85,g,"3 oz",0.2
+170586,12136,NDB #,SR Legacy,"Nuts, mixed nuts, dry roasted, with peanuts, salt added, PLANTERS pistachio blend",0.0,147,g,"1 cup",0.0
+170577,12109,NDB #,SR Legacy,"Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+170577,12109,NDB #,SR Legacy,"Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged",0.0,85,g,"1 cup",0.0
+170562,12036,NDB #,SR Legacy,"Seeds, sunflower seed kernels, dried",0.0,46,g,"1 cup, with hulls, edible yield",0.0
+170562,12036,NDB #,SR Legacy,"Seeds, sunflower seed kernels, dried",0.0,140,g,"1 cup",0.0
+170557,12016,NDB #,SR Legacy,"Seeds, pumpkin and squash seed kernels, roasted, without salt",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+170557,12016,NDB #,SR Legacy,"Seeds, pumpkin and squash seed kernels, roasted, without salt",0.0,118,g,"1 cup",0.0
+170556,12014,NDB #,SR Legacy,"Seeds, pumpkin and squash seed kernels, dried",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+170556,12014,NDB #,SR Legacy,"Seeds, pumpkin and squash seed kernels, dried",0.0,129,g,"1 cup",0.0
+170494,11658,NDB #,SR Legacy,"Spinach souffle",0.3,136,g,"1 cup",0.4
+170494,11658,NDB #,SR Legacy,"Spinach souffle",0.3,813,g,"1 recipe yield",2.4
+170493,11657,NDB #,SR Legacy,"Potatoes, mashed, home-prepared, whole milk added",0.1,210,g,"1 cup",0.2
+170446,11379,NDB #,SR Legacy,"Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and butter added",0.2,210,g,"1 cup",0.4
+170364,21480,NDB #,SR Legacy,"DIGIORNO Pizza, supreme topping, thin crispy crust, frozen, baked",3.4,595,g,"1 pie 24.8 oz",20.2
+170364,21480,NDB #,SR Legacy,"DIGIORNO Pizza, supreme topping, thin crispy crust, frozen, baked",3.4,155,g,"1 slice 1/4 of pie",5.3
+170361,21473,NDB #,SR Legacy,"DIGIORNO Pizza, cheese topping, cheese stuffed crust, frozen, baked",3.2,164,g,"1 slice 1/4 of pie",5.2
+170361,21473,NDB #,SR Legacy,"DIGIORNO Pizza, cheese topping, cheese stuffed crust, frozen, baked",3.2,688,g,"1 pie 12 diameter",22.0
+170363,21479,NDB #,SR Legacy,"DIGIORNO Pizza, supreme topping, rising crust, frozen, baked",3.0,227,g,"1 slice 1/4 of pie",6.8
+170363,21479,NDB #,SR Legacy,"DIGIORNO Pizza, supreme topping, rising crust, frozen, baked",3.0,876,g,"1 pie 12 diameter",26.3
+170362,21474,NDB #,SR Legacy,"DIGIORNO Pizza, cheese topping, rising crust, frozen, baked",1.4,183,g,"1 slice 1/4 of pie",2.6
+170362,21474,NDB #,SR Legacy,"DIGIORNO Pizza, cheese topping, rising crust, frozen, baked",1.4,729,g,"1 pie 12 diameter",10.2
+170341,21421,NDB #,SR Legacy,"KFC, Crispy Chicken Strips",10.3,47,g,"1 strip",4.8
+170340,21420,NDB #,SR Legacy,"KFC, Coleslaw",0.0,112,g,"1 package",0.0
+170340,21420,NDB #,SR Legacy,"KFC, Coleslaw",0.0,191,g,"1 cup",0.0
+170300,21127,NDB #,SR Legacy,"Fast foods, coleslaw",0.0,191,g,"1 cup",0.0
+170300,21127,NDB #,SR Legacy,"Fast foods, coleslaw",0.0,116,g,"1 package",0.0
+170274,19905,NDB #,SR Legacy,"Candies, chocolate, dark, NFS (45-59% cacao solids 90%; 60-69% cacao solids 5%; 70-85% cacao solids 5%)",0.1,127,g,"1 bar",0.1
+170274,19905,NDB #,SR Legacy,"Candies, chocolate, dark, NFS (45-59% cacao solids 90%; 60-69% cacao solids 5%; 70-85% cacao solids 5%)",0.1,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.1
+170272,19903,NDB #,SR Legacy,"Chocolate, dark, 60-69% cacao solids",0.0,112,g,"1 bar",0.0
+170272,19903,NDB #,SR Legacy,"Chocolate, dark, 60-69% cacao solids",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+170273,19904,NDB #,SR Legacy,"Chocolate, dark, 70-85% cacao solids",0.0,101,g,"1 bar",0.0
+170273,19904,NDB #,SR Legacy,"Chocolate, dark, 70-85% cacao solids",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+170271,19902,NDB #,SR Legacy,"Chocolate, dark, 45- 59% cacao solids",0.1,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.1
+170271,19902,NDB #,SR Legacy,"Chocolate, dark, 45- 59% cacao solids",0.1,162,g,"1 bar",0.2
+170181,12141,NDB #,SR Legacy,"Nuts, mixed nuts, dry roasted, with peanuts, salt added, CHOSEN ROASTER",0.0,132,g,"1 cup",0.0
+170143,11998,NDB #,SR Legacy,"Mushrooms, portabella, exposed to ultraviolet light, raw",0.0,86,g,"1 cup diced",0.0
+170143,11998,NDB #,SR Legacy,"Mushrooms, portabella, exposed to ultraviolet light, raw",0.0,84,g,"1 piece whole",0.0
+170065,11581,NDB #,SR Legacy,"Vegetables, mixed, canned, drained solids",0.0,163,g,"1 cup",0.0
+170044,11391,NDB #,SR Legacy,"Potatoes, hash brown, frozen, plain, prepared, pan fried in canola oil",0.0,29,g,"1 patty, oval (approx 3 x 1-1/2 x 1/2)",0.0
+170044,11391,NDB #,SR Legacy,"Potatoes, hash brown, frozen, plain, prepared, pan fried in canola oil",0.0,205,g,"1 package yield, 12 oz",0.0
+170044,11391,NDB #,SR Legacy,"Potatoes, hash brown, frozen, plain, prepared, pan fried in canola oil",0.0,150,g,"1 cup prepared",0.0
+170042,11383,NDB #,SR Legacy,"Potatoes, mashed, dehydrated, prepared from granules with milk, water and margarine added",0.2,210,g,"1 cup",0.4
+170037,11371,NDB #,SR Legacy,"Potatoes, mashed, home-prepared, whole milk and margarine added",0.1,210,g,"1 cup",0.2
+170013,11308,NDB #,SR Legacy,"Peas, green (includes baby and lesuer types), canned, drained solids, unprepared",0.0,175,g,"1 cup",0.0
+170013,11308,NDB #,SR Legacy,"Peas, green (includes baby and lesuer types), canned, drained solids, unprepared",0.0,313,g,"1 can (303 x 406)",0.0
+170016,11312,NDB #,SR Legacy,"Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)",0.0,134,g,"1 cup",0.0
+170016,11312,NDB #,SR Legacy,"Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)",0.0,284,g,"1 package",0.0
+169986,11135,NDB #,SR Legacy,"Cauliflower, raw",0.0,107,g,"1 cup chopped (1/2 pieces)",0.0
+169986,11135,NDB #,SR Legacy,"Cauliflower, raw",0.0,840,g,"1 head large (6-7 dia.)",0.0
+169986,11135,NDB #,SR Legacy,"Cauliflower, raw",0.0,265,g,"1 head small (4 dia.)",0.0
+169986,11135,NDB #,SR Legacy,"Cauliflower, raw",0.0,588,g,"1 head medium (5-6 dia.)",0.0
+169986,11135,NDB #,SR Legacy,"Cauliflower, raw",0.0,13,g,"1 floweret",0.0
+169962,11060,NDB #,SR Legacy,"Beans, snap, green, frozen, all styles, unprepared (Includes foods for USDA's Food Distribution Program)",0.0,121,g,"1 cup",0.0
+169962,11060,NDB #,SR Legacy,"Beans, snap, green, frozen, all styles, unprepared (Includes foods for USDA's Food Distribution Program)",0.0,284,g,"1 package (10 oz)",0.0
+169964,11062,NDB #,SR Legacy,"Beans, snap, green, frozen, all styles, microwaved",0.0,111,g,"1 cup",0.0
+169927,9228,NDB #,SR Legacy,"Papaya, canned, heavy syrup, drained",0.0,39,g,"1 piece",0.0
+169867,42289,NDB #,SR Legacy,"Oil, corn and canola",0.0,4.5,g,"1 teaspoon",0.0
+169867,42289,NDB #,SR Legacy,"Oil, corn and canola",0.0,224,g,"1 cup",0.0
+169867,42289,NDB #,SR Legacy,"Oil, corn and canola",0.0,14,g,"1 tbsp",0.0
+169853,36048,NDB #,SR Legacy,"CARRABBA'S ITALIAN GRILL, spaghetti with pomodoro sauce",0.0,489,g,"1 serving",0.0
+169850,36041,NDB #,SR Legacy,"Restaurant, Italian, lasagna with meat",3.2,457,g,"1 serving",14.6
+169852,36047,NDB #,SR Legacy,"OLIVE GARDEN, spaghetti with pomodoro sauce",0.0,478,g,"1 serving",0.0
+169851,36042,NDB #,SR Legacy,"OLIVE GARDEN, lasagna classico",3.2,422,g,"1 serving",13.5
+169843,36025,NDB #,SR Legacy,"CRACKER BARREL, coleslaw",0.0,167,g,"1 serving",0.0
+169840,36022,NDB #,SR Legacy,"APPLEBEE'S, crunchy onion rings",0.0,350,g,"1 serving",0.0
+169837,36015,NDB #,SR Legacy,"Restaurant, family style, chicken fingers, from kid's menu",6.9,37,g,"1 piece",2.6
+169837,36015,NDB #,SR Legacy,"Restaurant, family style, chicken fingers, from kid's menu",6.9,114,g,"1 serving",7.9
+169838,36016,NDB #,SR Legacy,"Restaurant, family style, shrimp, breaded and fried",0.0,169,g,"1 serving",0.0
+169833,36007,NDB #,SR Legacy,"T.G.I. FRIDAY'S, french fries",0.0,184,g,"1 serving",0.0
+169836,36014,NDB #,SR Legacy,"Restaurant, family style, french fries",0.0,170,g,"1 serving",0.0
+169818,35200,NDB #,SR Legacy,"Prairie Turnips, raw (Northern Plains Indians)",0.0,12.5999999999999996447286321199499070644378662109375,g,"1 bulb peeled",0.0
+169820,35206,NDB #,SR Legacy,"Plums, wild (Northern Plains Indians)",0.0,161,g,"1 cup",0.0
+169822,35211,NDB #,SR Legacy,"Caribou, hind quarter, meat, cooked (Alaska Native)",1.2,66,g,"0.5 cup",0.8
+169822,35211,NDB #,SR Legacy,"Caribou, hind quarter, meat, cooked (Alaska Native)",1.2,102,g,"1 piece",1.2
+169819,35205,NDB #,SR Legacy,"Stinging Nettles, blanched (Northern Plains Indians)",0.0,89,g,"1 cup",0.0
+169816,35198,NDB #,SR Legacy,"Prickly pears, raw (Northern Plains Indians)",0.0,61,g,"1 pad",0.0
+169816,35198,NDB #,SR Legacy,"Prickly pears, raw (Northern Plains Indians)",0.0,19,g,"1 pad peeled",0.0
+169811,35187,NDB #,SR Legacy,"Tennis Bread, plain (Apache)",0.0,100,g,"100 g",0.0
+169813,35190,NDB #,SR Legacy,"Salmon, red (sockeye), filets with skin, smoked (Alaska Native)",0.9,108,g,"1 filet",1.0
+169813,35190,NDB #,SR Legacy,"Salmon, red (sockeye), filets with skin, smoked (Alaska Native)",0.9,136,g,"1 strip",1.2
+169812,35188,NDB #,SR Legacy,"Fish, halibut, cooked, with skin (Alaska Native)",0.0,100,g,"100 g",0.0
+169777,32021,NDB #,SR Legacy,"Spanish rice mix, dry mix, prepared (with canola/vegetable oil blend or diced tomatoes and margarine)",0.0,198,g,"1 cup",0.0
+169772,32007,NDB #,SR Legacy,"Taquitos, frozen, beef and cheese, oven-heated",1.4,42,g,"1 piece",0.6
+169768,31036,NDB #,SR Legacy,"Potatoes, mashed, ready-to-eat",0.5,229,g,"1 cup",1.1
+169768,31036,NDB #,SR Legacy,"Potatoes, mashed, ready-to-eat",0.5,700,g,"1 container",3.5
+169745,20140,NDB #,SR Legacy,"Spelt, uncooked",0.0,174,g,"1 cup",0.0
+169747,20142,NDB #,SR Legacy,"Teff, uncooked",0.0,193,g,"1 cup",0.0
+169743,20138,NDB #,SR Legacy,"Wheat, khorasan, uncooked",0.0,186,g,"1 cup",0.0
+169738,20124,NDB #,SR Legacy,"Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)",0.0,64,g,"1 cup shells",0.0
+169738,20124,NDB #,SR Legacy,"Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)",0.0,122,g,"1 cup elbows",0.0
+169738,20124,NDB #,SR Legacy,"Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)",0.0,81,g,"1 cup farfalle",0.0
+169738,20124,NDB #,SR Legacy,"Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)",0.0,95,g,"1 cup penne",0.0
+169738,20124,NDB #,SR Legacy,"Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)",0.0,91,g,"1 cup spaghetti",0.0
+169738,20124,NDB #,SR Legacy,"Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)",0.0,90,g,"1 cup lasagne",0.0
+169738,20124,NDB #,SR Legacy,"Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)",0.0,96,g,"1 cup rotini",0.0
+169704,20037,NDB #,SR Legacy,"Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)",0.0,202,g,"1 cup",0.0
+169703,20036,NDB #,SR Legacy,"Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",0.0,185,g,"1 cup",0.0
+169649,19319,NDB #,SR Legacy,"Puddings, banana, dry mix, instant, prepared with whole milk",0.8,127,g,"0.5 cup",1.0
+169610,19207,NDB #,SR Legacy,"Puddings, vanilla, dry mix, regular, prepared with whole milk",0.8,140,g,"0.5 cup",1.1
+169610,19207,NDB #,SR Legacy,"Puddings, vanilla, dry mix, regular, prepared with whole milk",0.8,559,g,"1 package yield (2 cups)",4.5
+169604,19189,NDB #,SR Legacy,"Puddings, chocolate, dry mix, regular, prepared with whole milk",0.8,570,g,"1 package yield (2 cups)",4.6
+169604,19189,NDB #,SR Legacy,"Puddings, chocolate, dry mix, regular, prepared with whole milk",0.8,142,g,"0.5 cup",1.1
+169415,12516,NDB #,SR Legacy,"Seeds, pumpkin and squash seed kernels, roasted, with salt added",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+169415,12516,NDB #,SR Legacy,"Seeds, pumpkin and squash seed kernels, roasted, with salt added",0.0,118,g,"1 cup",0.0
+169403,11993,NDB #,SR Legacy,"Mushrooms, maitake, raw",0.0,1.100000000000000088817841970012523233890533447265625,g,"1 piece whole",0.0
+169403,11993,NDB #,SR Legacy,"Mushrooms, maitake, raw",0.0,70,g,"1 cup diced",0.0
+169402,11992,NDB #,SR Legacy,"Mushrooms, white, microwaved",0.0,100,g,"100 g",0.0
+169382,11950,NDB #,SR Legacy,"Mushrooms, enoki, raw",0.0,64,g,"1 cup whole",0.0
+169382,11950,NDB #,SR Legacy,"Mushrooms, enoki, raw",0.0,65,g,"1 cup sliced",0.0
+169382,11950,NDB #,SR Legacy,"Mushrooms, enoki, raw",0.0,3,g,"1 medium",0.0
+169382,11950,NDB #,SR Legacy,"Mushrooms, enoki, raw",0.0,5,g,"1 large",0.0
+169378,11940,NDB #,SR Legacy,"Pickles, cucumber, sweet (includes bread and butter pickles)",0.0,35,g,"1 large Gherkin (3 long)",0.0
+169378,11940,NDB #,SR Legacy,"Pickles, cucumber, sweet (includes bread and butter pickles)",0.0,20,g,"1 spear Gherkin",0.0
+169378,11940,NDB #,SR Legacy,"Pickles, cucumber, sweet (includes bread and butter pickles)",0.0,160,g,"1 cup, chopped",0.0
+169378,11940,NDB #,SR Legacy,"Pickles, cucumber, sweet (includes bread and butter pickles)",0.0,153,g,"1 cup sliced or chips",0.0
+169378,11940,NDB #,SR Legacy,"Pickles, cucumber, sweet (includes bread and butter pickles)",0.0,6,g,"1 midget Gherkin (2-1/8 long)",0.0
+169378,11940,NDB #,SR Legacy,"Pickles, cucumber, sweet (includes bread and butter pickles)",0.0,25,g,"1 Gherkin (2-3/4 long)",0.0
+169378,11940,NDB #,SR Legacy,"Pickles, cucumber, sweet (includes bread and butter pickles)",0.0,15,g,"1 small Gherkin (2-1/2 long)",0.0
+169378,11940,NDB #,SR Legacy,"Pickles, cucumber, sweet (includes bread and butter pickles)",0.0,7.5,g,"1 chip",0.0
+169377,11939,NDB #,SR Legacy,"Mushrooms, portabella, exposed to ultraviolet light, grilled",0.3,121,g,"1 cup sliced",0.4
+169376,11938,NDB #,SR Legacy,"Mushroom, white, exposed to ultraviolet light, raw",0.0,18,g,"1 medium",0.0
+169376,11938,NDB #,SR Legacy,"Mushroom, white, exposed to ultraviolet light, raw",0.0,70,g,"1 cup pieces or slices",0.0
+169376,11938,NDB #,SR Legacy,"Mushroom, white, exposed to ultraviolet light, raw",0.0,23,g,"1 large",0.0
+169376,11938,NDB #,SR Legacy,"Mushroom, white, exposed to ultraviolet light, raw",0.0,96,g,"1 cup whole",0.0
+169376,11938,NDB #,SR Legacy,"Mushroom, white, exposed to ultraviolet light, raw",0.0,10,g,"1 small",0.0
+169376,11938,NDB #,SR Legacy,"Mushroom, white, exposed to ultraviolet light, raw",0.0,6,g,"1 slice",0.0
+169361,11905,NDB #,SR Legacy,"Corn, sweet, white, canned, whole kernel, drained solids",0.0,298,g,"1 can (303 x 406)",0.0
+169361,11905,NDB #,SR Legacy,"Corn, sweet, white, canned, whole kernel, drained solids",0.0,164,g,"1 cup",0.0
+169356,11791,NDB #,SR Legacy,"Kale, frozen, cooked, boiled, drained, with salt",0.0,118,g,"1 cup",0.0
+169355,11790,NDB #,SR Legacy,"Kale, cooked, boiled, drained, with salt",0.0,118,g,"1 cup",0.0
+169255,11265,NDB #,SR Legacy,"Mushrooms, portabella, raw",0.0,86,g,"1 cup diced",0.0
+169255,11265,NDB #,SR Legacy,"Mushrooms, portabella, raw",0.0,84,g,"1 piece whole",0.0
+169251,11260,NDB #,SR Legacy,"Mushrooms, white, raw",0.0,35,g,"0.5 cup pieces",0.0
+169251,11260,NDB #,SR Legacy,"Mushrooms, white, raw",0.0,23,g,"1 large",0.0
+169251,11260,NDB #,SR Legacy,"Mushrooms, white, raw",0.0,18,g,"1 medium",0.0
+169251,11260,NDB #,SR Legacy,"Mushrooms, white, raw",0.0,96,g,"1 cup, whole",0.0
+169251,11260,NDB #,SR Legacy,"Mushrooms, white, raw",0.0,6,g,"1 slice",0.0
+169251,11260,NDB #,SR Legacy,"Mushrooms, white, raw",0.0,70,g,"1 cup, pieces or slices",0.0
+169251,11260,NDB #,SR Legacy,"Mushrooms, white, raw",0.0,10,g,"1 small",0.0
+169253,11263,NDB #,SR Legacy,"Mushrooms, white, stir-fried",0.0,108,g,"1 cup sliced",0.0
+169243,11243,NDB #,SR Legacy,"Mushrooms, portabella, grilled",0.3,121,g,"1 cup sliced",0.4
+169240,11236,NDB #,SR Legacy,"Kale, frozen, cooked, boiled, drained, without salt",0.0,118,g,"1 cup",0.0
+169238,11234,NDB #,SR Legacy,"Kale, cooked, boiled, drained, without salt",0.0,118,g,"1 cup",0.0
+169214,11172,NDB #,SR Legacy,"Corn, sweet, yellow, canned, whole kernel, drained solids",0.0,298,g,"1 can (303 x 406)",0.0
+169214,11172,NDB #,SR Legacy,"Corn, sweet, yellow, canned, whole kernel, drained solids",0.0,164,g,"1 cup",0.0
+169214,11172,NDB #,SR Legacy,"Corn, sweet, yellow, canned, whole kernel, drained solids",0.0,211,g,"1 can (12 oz) yields",0.0
+169177,10939,NDB #,SR Legacy,"Pork, cured, ham, slice, bone-in, separable lean and fat, unheated",1.4,425,g,"1 slice",5.9
+169177,10939,NDB #,SR Legacy,"Pork, cured, ham, slice, bone-in, separable lean and fat, unheated",1.4,85,g,"3 oz (3 oz)",1.2
+169176,10934,NDB #,SR Legacy,"Pork, cured, ham, shank, bone-in, separable lean only, unheated",1.3,453.6000000000000227373675443232059478759765625,g,"1 lb",5.9
+169176,10934,NDB #,SR Legacy,"Pork, cured, ham, shank, bone-in, separable lean only, unheated",1.3,85,g,"3 oz",1.1
+169173,10931,NDB #,SR Legacy,"Pork, cured, ham, rump, bone-in, separable lean only, heated, roasted",1.7,2874,g,"1 roast rump",48.9
+169173,10931,NDB #,SR Legacy,"Pork, cured, ham, rump, bone-in, separable lean only, heated, roasted",1.7,85,g,"3 oz (3 oz)",1.4
+169175,10933,NDB #,SR Legacy,"Pork, cured, ham, shank, bone-in, separable lean only, heated, roasted",1.6,85,g,"3 oz (3 oz)",1.4
+169175,10933,NDB #,SR Legacy,"Pork, cured, ham, shank, bone-in, separable lean only, heated, roasted",1.6,2800,g,"1 roast shank",44.8
+169174,10932,NDB #,SR Legacy,"Pork, cured, ham, rump, bone-in, separable lean only, unheated",1.4,85,g,"3 oz",1.2
+169174,10932,NDB #,SR Legacy,"Pork, cured, ham, rump, bone-in, separable lean only, unheated",1.4,453.6000000000000227373675443232059478759765625,g,"1 lb",6.4
+169168,10921,NDB #,SR Legacy,"Pork, cured, ham and water product, slice, boneless, separable lean and fat, heated, pan-broil",4.5,136,g,"1 slice",6.1
+169168,10921,NDB #,SR Legacy,"Pork, cured, ham and water product, slice, boneless, separable lean and fat, heated, pan-broil",4.5,85,g,"3 oz (3 oz)",3.8
+169171,10924,NDB #,SR Legacy,"Pork, cured, ham with natural juices, shank, bone-in, separable lean and fat, heated, roasted",6.2,3170,g,"1 roast shank",196
+169171,10924,NDB #,SR Legacy,"Pork, cured, ham with natural juices, shank, bone-in, separable lean and fat, heated, roasted",6.2,85,g,"3 oz (3 oz)",5.3
+169170,10923,NDB #,SR Legacy,"Pork, cured, ham with natural juices, rump, bone-in, separable lean and fat, heated, roasted",8.6,85,g,"3 oz (3 oz)",7.3
+169170,10923,NDB #,SR Legacy,"Pork, cured, ham with natural juices, rump, bone-in, separable lean and fat, heated, roasted",8.6,2673,g,"1 roast rump",230
+169169,10922,NDB #,SR Legacy,"Pork, cured, ham and water product, whole, boneless, separable lean and fat, heated, roasted",4.0,85,g,"3 oz (3 oz)",3.4
+169169,10922,NDB #,SR Legacy,"Pork, cured, ham and water product, whole, boneless, separable lean and fat, heated, roasted",4.0,1995,g,"1 roast",79.8
+169172,10925,NDB #,SR Legacy,"Pork, cured, ham with natural juices, slice, bone-in, separable lean and fat, heated, pan-broil",5.1,85,g,"3 oz (3 oz)",4.3
+169172,10925,NDB #,SR Legacy,"Pork, cured, ham with natural juices, slice, bone-in, separable lean and fat, heated, pan-broil",5.1,445,g,"1 slice",22.7
+169167,10916,NDB #,SR Legacy,"Pork, cured, ham -- water added, slice, boneless, separable lean and fat, heated, pan-broil",4.0,85,g,"3 oz (3 oz)",3.4
+169167,10916,NDB #,SR Legacy,"Pork, cured, ham -- water added, slice, boneless, separable lean and fat, heated, pan-broil",4.0,189,g,"1 slice",7.6
+169166,10915,NDB #,SR Legacy,"Pork, cured, ham -- water added, slice, bone-in, separable lean and fat, heated, pan-broil",3.1,85,g,"3 oz (3 oz)",2.6
+169166,10915,NDB #,SR Legacy,"Pork, cured, ham -- water added, slice, bone-in, separable lean and fat, heated, pan-broil",3.1,436,g,"1 slice",13.5
+169165,10914,NDB #,SR Legacy,"Pork, cured, ham -- water added, shank, bone-in, separable lean and fat, heated, roasted",4.5,85,g,"3 oz (3 oz)",3.8
+169165,10914,NDB #,SR Legacy,"Pork, cured, ham -- water added, shank, bone-in, separable lean and fat, heated, roasted",4.5,3054,g,"1 roast shank",137
+169160,10905,NDB #,SR Legacy,"Pork, cured, ham and water product, whole, boneless, separable lean and fat, unheated",4.3,453.6000000000000227373675443232059478759765625,g,"1 lb whole",19.5
+169160,10905,NDB #,SR Legacy,"Pork, cured, ham and water product, whole, boneless, separable lean and fat, unheated",4.3,85,g,"3 oz whole",3.7
+169162,10907,NDB #,SR Legacy,"Pork, cured, ham and water product, shank, bone-in, separable lean and fat, unheated",0.0,85,g,"3 oz shank",0.0
+169162,10907,NDB #,SR Legacy,"Pork, cured, ham and water product, shank, bone-in, separable lean and fat, unheated",0.0,453.6000000000000227373675443232059478759765625,g,"1 lb shank",0.0
+169163,10908,NDB #,SR Legacy,"Pork, cured, ham and water product, rump, bone-in, separable lean and fat, unheated",0.0,453.6000000000000227373675443232059478759765625,g,"1 lb rump",0.0
+169163,10908,NDB #,SR Legacy,"Pork, cured, ham and water product, rump, bone-in, separable lean and fat, unheated",0.0,85,g,"3 oz rump",0.0
+169161,10906,NDB #,SR Legacy,"Pork, cured, ham and water product, slice, bone-in, separable lean and fat, unheated",0.0,453.6000000000000227373675443232059478759765625,g,"1 lb",0.0
+169161,10906,NDB #,SR Legacy,"Pork, cured, ham and water product, slice, bone-in, separable lean and fat, unheated",0.0,85,g,"3 oz",0.0
+169164,10913,NDB #,SR Legacy,"Pork, cured, ham -- water added, rump, bone-in, separable lean and fat, heated, roasted",2.3,2970,g,"1 roast rump",68.3
+169164,10913,NDB #,SR Legacy,"Pork, cured, ham -- water added, rump, bone-in, separable lean and fat, heated, roasted",2.3,85,g,"3 oz (3 oz)",2.0
+169159,10900,NDB #,SR Legacy,"Pork, cured, ham with natural juices, whole, boneless, separable lean and fat, unheated",3.2,85,g,"3 oz whole",2.7
+169159,10900,NDB #,SR Legacy,"Pork, cured, ham with natural juices, whole, boneless, separable lean and fat, unheated",3.2,453.6000000000000227373675443232059478759765625,g,"1 lb whole",14.5
+169156,10895,NDB #,SR Legacy,"Pork, cured, ham, separable fat, boneless, unheated",0.0,85,g,"3 oz",0.0
+169158,10899,NDB #,SR Legacy,"Pork, cured, ham, slice, bone-in, separable lean only, heated, pan-broil",2.0,85,g,"3 oz (3 oz)",1.7
+169158,10899,NDB #,SR Legacy,"Pork, cured, ham, slice, bone-in, separable lean only, heated, pan-broil",2.0,366,g,"1 slice",7.3
+169157,10898,NDB #,SR Legacy,"Pork, pickled pork hocks",6.0,117,g,"3 oz",7.0
+169148,10879,NDB #,SR Legacy,"Pork, cured, ham -- water added, whole, boneless, separable lean only, heated, roasted",4.1,1867,g,"1 roast whole",76.5
+169148,10879,NDB #,SR Legacy,"Pork, cured, ham -- water added, whole, boneless, separable lean only, heated, roasted",4.1,85,g,"3 oz",3.5
+169150,10881,NDB #,SR Legacy,"Pork, cured, ham and water product, shank, bone-in, separable lean only, heated, roasted",4.8,3204,g,"1 roast shank",154
+169150,10881,NDB #,SR Legacy,"Pork, cured, ham and water product, shank, bone-in, separable lean only, heated, roasted",4.8,85,g,"3 oz (3 oz)",4.1
+169149,10880,NDB #,SR Legacy,"Pork, cured, ham -- water added, whole, boneless, separable lean only, unheated",3.5,85,g,"3 oz",3.0
+169143,11056,NDB #,SR Legacy,"Beans, snap, green, canned, regular pack, drained solids",0.0,262,g,"1 can (303 x 406)",0.0
+169143,11056,NDB #,SR Legacy,"Beans, snap, green, canned, regular pack, drained solids",0.0,62,g,"10 beans",0.0
+169143,11056,NDB #,SR Legacy,"Beans, snap, green, canned, regular pack, drained solids",0.0,135,g,"1 cup",0.0
+169131,9278,NDB #,SR Legacy,"Plantains, yellow, baked",0.0,139,g,"1 cup",0.0
+169131,9278,NDB #,SR Legacy,"Plantains, yellow, baked",0.0,105,g,"10 slice",0.0
+169130,9277,NDB #,SR Legacy,"Plantains, yellow, raw",0.0,148,g,"1 cup, sliced",0.0
+169130,9277,NDB #,SR Legacy,"Plantains, yellow, raw",0.0,270,g,"1 plantain",0.0
+169079,43274,NDB #,SR Legacy,"Cheese, cream, low fat",5.4,10,g,"1 tbsp, whipped",0.5
+169079,43274,NDB #,SR Legacy,"Cheese, cream, low fat",5.4,15,g,"1 tbsp",0.8
+169079,43274,NDB #,SR Legacy,"Cheese, cream, low fat",5.4,240,g,"1 cup",13.0
+169056,43016,NDB #,SR Legacy,"Salad dressing, coleslaw",0.0,289,g,"1 cup",0.0
+169056,43016,NDB #,SR Legacy,"Salad dressing, coleslaw",0.0,19,g,"1 tbsp",0.0
+169048,42285,NDB #,SR Legacy,"Babyfood, cereal, brown rice, dry, instant",0.0,3.70000000000000017763568394002504646778106689453125,g,"1 tbsp",0.0
+169033,36046,NDB #,SR Legacy,"Restaurant, Italian, spaghetti with pomodoro sauce (no meat)",0.0,510,g,"1 serving",0.0
+169031,36044,NDB #,SR Legacy,"ON THE BORDER, Mexican rice",0.0,114,g,"1 cup",0.0
+169032,36045,NDB #,SR Legacy,"ON THE BORDER, refried beans",1.0,135,g,"1 cup",1.4
+169027,36036,NDB #,SR Legacy,"Restaurant, family style, onion rings",0.0,259,g,"1 serving",0.0
+169026,36035,NDB #,SR Legacy,"Restaurant, family style, coleslaw",0.0,108,g,"1 serving",0.0
+169023,36028,NDB #,SR Legacy,"DENNY'S, coleslaw",0.0,91,g,"1 serving",0.0
+169020,36021,NDB #,SR Legacy,"APPLEBEE'S, coleslaw",0.0,76,g,"1 serving",0.0
+169015,36012,NDB #,SR Legacy,"Restaurant, family style, fried mozzarella sticks",2.3,245,g,"1 serving",5.6
+169015,36012,NDB #,SR Legacy,"Restaurant, family style, fried mozzarella sticks",2.3,31,g,"1 piece",0.7
+169013,36010,NDB #,SR Legacy,"T.G.I. FRIDAY'S, chicken fingers, from kids' menu",6.4,141,g,"1 serving",9.0
+169013,36010,NDB #,SR Legacy,"T.G.I. FRIDAY'S, chicken fingers, from kids' menu",6.4,41,g,"1 piece",2.6
+169009,36002,NDB #,SR Legacy,"APPLEBEE'S, french fries",0.0,164,g,"1 serving",0.0
+169011,36004,NDB #,SR Legacy,"APPLEBEE'S, mozzarella sticks",2.3,32,g,"1 piece",0.7
+169011,36004,NDB #,SR Legacy,"APPLEBEE'S, mozzarella sticks",2.3,289,g,"1 serving",6.6
+169012,36005,NDB #,SR Legacy,"APPLEBEE'S, chicken tenders, from kids' menu",8.2,99,g,"1 serving (3 pieces)",8.1
+169012,36005,NDB #,SR Legacy,"APPLEBEE'S, chicken tenders, from kids' menu",8.2,35,g,"1 piece",2.9
+169004,35234,NDB #,SR Legacy,"Piki bread, made from blue cornmeal (Hopi)",0.0,28,g,"1 piece",0.0
+169004,35234,NDB #,SR Legacy,"Piki bread, made from blue cornmeal (Hopi)",0.0,19,g,"1 piece",0.0
+169007,35237,NDB #,SR Legacy,"Tamales, masa and pork filling (Hopi)",2.7,113,g,"4 oz",3.1
+169008,36001,NDB #,SR Legacy,"APPLEBEE'S, Double Crunch Shrimp",0.0,206,g,"1 serving",0.0
+168997,35202,NDB #,SR Legacy,"Raspberries, wild (Northern Plains Indians)",0.0,130,g,"1 cup",0.0
+168998,35203,NDB #,SR Legacy,"Rose Hips, wild (Northern Plains Indians)",0.0,127,g,"1 cup",0.0
+168999,35204,NDB #,SR Legacy,"Chokecherries, raw, pitted (Northern Plains Indians)",0.0,154,g,"1 cup",0.0
+168994,35195,NDB #,SR Legacy,"Cattail, Narrow Leaf Shoots (Northern Plains Indians)",0.0,19,g,"1 shoot",0.0
+168995,35196,NDB #,SR Legacy,"Lambsquarters, raw (Northern Plains Indians)",0.0,0.90000000000000002220446049250313080847263336181640625,g,"1 leaf",0.0
+168981,35014,NDB #,SR Legacy,"Oil, beluga, whale (Alaska Native)",2.0,100,g,"100 g",2.0
+168982,35015,NDB #,SR Legacy,"Blackberries, wild, raw (Alaska Native)",0.0,157,g,"1 cup",0.0
+168964,32029,NDB #,SR Legacy,"Rice mix, white and wild, flavored, unprepared",0.0,191,g,"1 cup",0.0
+168959,32018,NDB #,SR Legacy,"Spanish rice mix, dry mix, unprepared",0.0,8.800000000000000710542735760100185871124267578125,g,"1 tbsp",0.0
+168959,32018,NDB #,SR Legacy,"Spanish rice mix, dry mix, unprepared",0.0,56,g,"0.33 cup",0.0
+168959,32018,NDB #,SR Legacy,"Spanish rice mix, dry mix, unprepared",0.0,70,g,"0.5 cup",0.0
+168943,20648,NDB #,SR Legacy,"Sorghum flour, whole-grain",0.2,121,g,"1 cup",0.2
+168915,20135,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry",0.0,91,g,"1 cup spaghetti",0.0
+168915,20135,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry",0.0,96,g,"1 cup rotini",0.0
+168915,20135,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry",0.0,81,g,"1 cup farfalle",0.0
+168915,20135,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry",0.0,95,g,"1 cup penne",0.0
+168915,20135,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry",0.0,122,g,"1 cup elbows",0.0
+168915,20135,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry",0.0,90,g,"1 cup lasagne",0.0
+168915,20135,NDB #,SR Legacy,"Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry",0.0,64,g,"1 cup shells",0.0
+168910,20125,NDB #,SR Legacy,"Pasta, whole-wheat, cooked (Includes foods for USDA's Food Distribution Program)",0.0,107,g,"1 cup rotini",0.0
+168910,20125,NDB #,SR Legacy,"Pasta, whole-wheat, cooked (Includes foods for USDA's Food Distribution Program)",0.0,105,g,"1 cup shells",0.0
+168910,20125,NDB #,SR Legacy,"Pasta, whole-wheat, cooked (Includes foods for USDA's Food Distribution Program)",0.0,116,g,"1 cup lasagne",0.0
+168910,20125,NDB #,SR Legacy,"Pasta, whole-wheat, cooked (Includes foods for USDA's Food Distribution Program)",0.0,117,g,"1 cup elbows",0.0
+168910,20125,NDB #,SR Legacy,"Pasta, whole-wheat, cooked (Includes foods for USDA's Food Distribution Program)",0.0,151,g,"1 cup spaghetti packed",0.0
+168910,20125,NDB #,SR Legacy,"Pasta, whole-wheat, cooked (Includes foods for USDA's Food Distribution Program)",0.0,97,g,"1 cup penne",0.0
+168910,20125,NDB #,SR Legacy,"Pasta, whole-wheat, cooked (Includes foods for USDA's Food Distribution Program)",0.0,117,g,"1 cup spaghetti not packed",0.0
+168910,20125,NDB #,SR Legacy,"Pasta, whole-wheat, cooked (Includes foods for USDA's Food Distribution Program)",0.0,107,g,"1 cup farfalle",0.0
+168876,20042,NDB #,SR Legacy,"Rice, brown, parboiled, dry, UNCLE BEN'S",0.0,48,g,"0.25 cup",0.0
+168874,20035,NDB #,SR Legacy,"Quinoa, uncooked",1.1,170,g,"1 cup",1.9
+168825,19321,NDB #,SR Legacy,"Puddings, banana, dry mix, regular, prepared with whole milk",0.8,127,g,"0.5 cup",1.0
+168773,19170,NDB #,SR Legacy,"Egg custards, dry mix, prepared with whole milk",0.9,141,g,"0.5 cup",1.3
+168580,11987,NDB #,SR Legacy,"Mushrooms, oyster, raw",0.0,86,g,"1 cup sliced",0.0
+168580,11987,NDB #,SR Legacy,"Mushrooms, oyster, raw",0.0,148,g,"1 large",0.0
+168580,11987,NDB #,SR Legacy,"Mushrooms, oyster, raw",0.0,15,g,"1 small",0.0
+168563,11947,NDB #,SR Legacy,"Pickles, cucumber, dill, reduced sodium",0.0,155,g,"1 cup, (about 23 slices)",0.0
+168563,11947,NDB #,SR Legacy,"Pickles, cucumber, dill, reduced sodium",0.0,35,g,"1 spear, small",0.0
+168563,11947,NDB #,SR Legacy,"Pickles, cucumber, dill, reduced sodium",0.0,135,g,"1 large (4 long)",0.0
+168563,11947,NDB #,SR Legacy,"Pickles, cucumber, dill, reduced sodium",0.0,143,g,"1 cup, chopped or diced",0.0
+168563,11947,NDB #,SR Legacy,"Pickles, cucumber, dill, reduced sodium",0.0,7,g,"1 slice",0.0
+168558,11937,NDB #,SR Legacy,"Pickles, cucumber, dill or kosher dill",0.0,35,g,"1 spear, small",0.0
+168558,11937,NDB #,SR Legacy,"Pickles, cucumber, dill or kosher dill",0.0,143,g,"1 cup, chopped or diced",0.0
+168558,11937,NDB #,SR Legacy,"Pickles, cucumber, dill or kosher dill",0.0,7,g,"1 slice",0.0
+168558,11937,NDB #,SR Legacy,"Pickles, cucumber, dill or kosher dill",0.0,135,g,"1 large (4 long)",0.0
+168558,11937,NDB #,SR Legacy,"Pickles, cucumber, dill or kosher dill",0.0,155,g,"1 cup (about 23 slices)",0.0
+168557,11936,NDB #,SR Legacy,"Mushrooms, brown, italian, or crimini, exposed to ultraviolet light, raw",0.0,87,g,"1 cup whole",0.0
+168557,11936,NDB #,SR Legacy,"Mushrooms, brown, italian, or crimini, exposed to ultraviolet light, raw",0.0,20,g,"1 piece whole",0.0
+168557,11936,NDB #,SR Legacy,"Mushrooms, brown, italian, or crimini, exposed to ultraviolet light, raw",0.0,72,g,"1 cup sliced",0.0
+168505,11729,NDB #,SR Legacy,"Beans, snap, green, canned, no salt added, drained solids",0.0,153,g,"1 cup",0.0
+168505,11729,NDB #,SR Legacy,"Beans, snap, green, canned, no salt added, drained solids",0.0,262,g,"1 can (303 x 406)",0.0
+168505,11729,NDB #,SR Legacy,"Beans, snap, green, canned, no salt added, drained solids",0.0,62,g,"10 beans",0.0
+168434,11266,NDB #,SR Legacy,"Mushrooms, brown, italian, or crimini, raw",0.0,20,g,"1 piece whole",0.0
+168434,11266,NDB #,SR Legacy,"Mushrooms, brown, italian, or crimini, raw",0.0,87,g,"1 cup whole",0.0
+168434,11266,NDB #,SR Legacy,"Mushrooms, brown, italian, or crimini, raw",0.0,72,g,"1 cup sliced",0.0
+168435,11267,NDB #,SR Legacy,"Mushrooms, shiitake, stir-fried",0.0,89,g,"1 cup whole",0.0
+168435,11267,NDB #,SR Legacy,"Mushrooms, shiitake, stir-fried",0.0,97,g,"1 cup sliced",0.0
+168435,11267,NDB #,SR Legacy,"Mushrooms, shiitake, stir-fried",0.0,19,g,"1 piece whole",0.0
+168421,11233,NDB #,SR Legacy,"Kale, raw",0.0,21,g,"1 cup",0.0
+168410,11211,NDB #,SR Legacy,"Edamame, frozen, unprepared",0.0,118,g,"1 cup",0.0
+168410,11211,NDB #,SR Legacy,"Edamame, frozen, unprepared",0.0,432,g,"1 package",0.0
+168411,11212,NDB #,SR Legacy,"Edamame, frozen, prepared",0.0,155,g,"1 cup",0.0
+168383,10998,NDB #,SR Legacy,"Canadian bacon, cooked, pan-fried",4.9,13.800000000000000710542735760100185871124267578125,g,"1 slice",0.7
+168367,10955,NDB #,SR Legacy,"Pork, cured, ham, rump, bone-in, separable lean and fat, unheated",1.2,85,g,"3 oz",1.0
+168360,10938,NDB #,SR Legacy,"Pork, cured, ham, slice, bone-in, separable lean only, unheated",1.6,425,g,"1 slice",6.8
+168360,10938,NDB #,SR Legacy,"Pork, cured, ham, slice, bone-in, separable lean only, unheated",1.6,85,g,"3 oz (3 oz)",1.4
+168357,10935,NDB #,SR Legacy,"Pork, cured, ham, shank, bone-in, separable lean and fat, heated, roasted",1.4,2800,g,"1 roast shank",39.2
+168357,10935,NDB #,SR Legacy,"Pork, cured, ham, shank, bone-in, separable lean and fat, heated, roasted",1.4,85,g,"3 oz (3 oz)",1.2
+168356,10929,NDB #,SR Legacy,"Pork, cured, ham, rump, bone-in, separable lean and fat, heated, roasted",1.5,2874,g,"1 roast rump",43.1
+168356,10929,NDB #,SR Legacy,"Pork, cured, ham, rump, bone-in, separable lean and fat, heated, roasted",1.5,85,g,"3 oz (3 oz)",1.3
+168359,10937,NDB #,SR Legacy,"Pork, cured, ham, slice, bone-in, separable lean and fat, heated, pan-broil",1.8,366,g,"1 slice",6.6
+168359,10937,NDB #,SR Legacy,"Pork, cured, ham, slice, bone-in, separable lean and fat, heated, pan-broil",1.8,85,g,"3 oz (3 oz)",1.5
+168358,10936,NDB #,SR Legacy,"Pork, cured, ham, shank, bone-in, separable lean and fat, unheated",1.2,453.6000000000000227373675443232059478759765625,g,"1 lb",5.4
+168358,10936,NDB #,SR Legacy,"Pork, cured, ham, shank, bone-in, separable lean and fat, unheated",1.2,85,g,"3 oz",1.0
+168352,10920,NDB #,SR Legacy,"Pork, cured, ham and water product, slice, bone-in, separable lean and fat, heated, pan-broil",2.9,446,g,"1 slice",12.9
+168352,10920,NDB #,SR Legacy,"Pork, cured, ham and water product, slice, bone-in, separable lean and fat, heated, pan-broil",2.9,85,g,"3 oz (3 oz)",2.5
+168355,10928,NDB #,SR Legacy,"Pork, cured, ham with natural juices, whole, boneless, separable lean and fat, heated, roasted",2.4,85,g,"3 oz (3 oz)",2.0
+168355,10928,NDB #,SR Legacy,"Pork, cured, ham with natural juices, whole, boneless, separable lean and fat, heated, roasted",2.4,1497,g,"1 roast",35.9
+168354,10927,NDB #,SR Legacy,"Pork, cured, ham with natural juices, spiral slice, boneless, separable lean and fat, heated, roasted",3.5,85,g,"3 oz (3 oz)",3.0
+168354,10927,NDB #,SR Legacy,"Pork, cured, ham with natural juices, spiral slice, boneless, separable lean and fat, heated, roasted",3.5,920,g,"1 roast",32.2
+168354,10927,NDB #,SR Legacy,"Pork, cured, ham with natural juices, spiral slice, boneless, separable lean and fat, heated, roasted",3.5,145,g,"1 slice",5.1
+168353,10926,NDB #,SR Legacy,"Pork, cured, ham with natural juices, slice, boneless, separable lean and fat, heated, pan-broil",3.2,277,g,"1 slice",8.9
+168353,10926,NDB #,SR Legacy,"Pork, cured, ham with natural juices, slice, boneless, separable lean and fat, heated, pan-broil",3.2,85,g,"3 oz (3 oz)",2.7
+168347,10911,NDB #,SR Legacy,"Pork, cured, ham -- water added, shank, bone-in, separable lean and fat, unheated",0.0,85,g,"3 oz",0.0
+168347,10911,NDB #,SR Legacy,"Pork, cured, ham -- water added, shank, bone-in, separable lean and fat, unheated",0.0,453.6000000000000227373675443232059478759765625,g,"1 lb",0.0
+168348,10912,NDB #,SR Legacy,"Pork, cured, ham -- water added, rump, bone-in, separable lean and fat, unheated",0.0,85,g,"3 oz",0.0
+168348,10912,NDB #,SR Legacy,"Pork, cured, ham -- water added, rump, bone-in, separable lean and fat, unheated",0.0,453.6000000000000227373675443232059478759765625,g,"1 lb",0.0
+168350,10918,NDB #,SR Legacy,"Pork, cured, ham and water product, rump, bone-in, separable lean and fat, heated, roasted",5.2,85,g,"3 oz (3 oz)",4.4
+168350,10918,NDB #,SR Legacy,"Pork, cured, ham and water product, rump, bone-in, separable lean and fat, heated, roasted",5.2,2533,g,"1 roast rump",132
+168351,10919,NDB #,SR Legacy,"Pork, cured, ham and water product, shank, bone-in, separable lean and fat, heated, roasted",3.5,85,g,"3 oz (3 oz)",3.0
+168351,10919,NDB #,SR Legacy,"Pork, cured, ham and water product, shank, bone-in, separable lean and fat, heated, roasted",3.5,3204,g,"1 roast shank",112
+168349,10917,NDB #,SR Legacy,"Pork, cured, ham -- water added, whole, boneless, separable lean and fat, heated, roasted",4.0,1867,g,"1 roast",74.7
+168349,10917,NDB #,SR Legacy,"Pork, cured, ham -- water added, whole, boneless, separable lean and fat, heated, roasted",4.0,85,g,"3 oz (3 oz)",3.4
+168345,10909,NDB #,SR Legacy,"Pork, cured, ham -- water added, whole, boneless, separable lean and fat, unheated",3.4,85,g,"3 oz whole",2.9
+168345,10909,NDB #,SR Legacy,"Pork, cured, ham -- water added, whole, boneless, separable lean and fat, unheated",3.4,453.6000000000000227373675443232059478759765625,g,"1 lb whole",15.4
+168346,10910,NDB #,SR Legacy,"Pork, cured, ham -- water added, slice, bone-in, separable lean and fat, unheated",0.0,85,g,"3 oz",0.0
+168346,10910,NDB #,SR Legacy,"Pork, cured, ham -- water added, slice, bone-in, separable lean and fat, unheated",0.0,453.6000000000000227373675443232059478759765625,g,"1 lb",0.0
+168344,10904,NDB #,SR Legacy,"Pork, cured, ham with natural juices, rump, bone-in, separable lean and fat, unheated",0.0,85,g,"3 oz rump",0.0
+168344,10904,NDB #,SR Legacy,"Pork, cured, ham with natural juices, rump, bone-in, separable lean and fat, unheated",0.0,453.6000000000000227373675443232059478759765625,g,"1 lb rump",0.0
+168343,10903,NDB #,SR Legacy,"Pork, cured, ham with natural juices, shank, bone-in, separable lean and fat, unheated",0.0,453.6000000000000227373675443232059478759765625,g,"1 lb shank",0.0
+168343,10903,NDB #,SR Legacy,"Pork, cured, ham with natural juices, shank, bone-in, separable lean and fat, unheated",0.0,85,g,"3 oz shank",0.0
+168342,10902,NDB #,SR Legacy,"Pork, cured, ham with natural juices, slice, bone-in, separable lean and fat, unheated",0.0,85,g,"3 oz",0.0
+168341,10901,NDB #,SR Legacy,"Pork, cured, ham with natural juices, spiral slice, boneless, separable lean and fat, unheated",0.0,453.6000000000000227373675443232059478759765625,g,"1 lb spiral slice",0.0
+168341,10901,NDB #,SR Legacy,"Pork, cured, ham with natural juices, spiral slice, boneless, separable lean and fat, unheated",0.0,85,g,"3 oz spiral slice",0.0
+168335,10884,NDB #,SR Legacy,"Pork, cured, ham with natural juices, whole, boneless, separable lean only, unheated",3.3,453.6000000000000227373675443232059478759765625,g,"1 lb",15.0
+168335,10884,NDB #,SR Legacy,"Pork, cured, ham with natural juices, whole, boneless, separable lean only, unheated",3.3,85,g,"3 oz",2.8
+168334,10883,NDB #,SR Legacy,"Pork, cured, ham with natural juices, whole, boneless, separable lean only, heated, roasted",2.4,1497,g,"1 roast",35.9
+168334,10883,NDB #,SR Legacy,"Pork, cured, ham with natural juices, whole, boneless, separable lean only, heated, roasted",2.4,85,g,"3 oz (3 oz)",2.0
+168332,10877,NDB #,SR Legacy,"Pork, cured, ham and water product, rump, bone-in, separable lean only, heated, roasted",6.1,2533,g,"1 roast rump",154
+168332,10877,NDB #,SR Legacy,"Pork, cured, ham and water product, rump, bone-in, separable lean only, heated, roasted",6.1,85,g,"3 oz (3 oz)",5.2
+168331,10876,NDB #,SR Legacy,"Pork, cured, ham with natural juices, spiral slice, meat only, boneless, separable lean only, heated, roasted",3.6,85,g,"3 oz",3.1
+168331,10876,NDB #,SR Legacy,"Pork, cured, ham with natural juices, spiral slice, meat only, boneless, separable lean only, heated, roasted",3.6,145,g,"1 slice",5.2
+168331,10876,NDB #,SR Legacy,"Pork, cured, ham with natural juices, spiral slice, meat only, boneless, separable lean only, heated, roasted",3.6,920,g,"1 roast",33.1
+168331,10876,NDB #,SR Legacy,"Pork, cured, ham with natural juices, spiral slice, meat only, boneless, separable lean only, heated, roasted",3.6,85,g,"1 serving (3 oz)",3.1
+168333,10882,NDB #,SR Legacy,"Pork, cured, ham with natural juices, slice, boneless, separable lean only, heated, pan-broil",3.2,277,g,"1 slice",8.9
+168333,10882,NDB #,SR Legacy,"Pork, cured, ham with natural juices, slice, boneless, separable lean only, heated, pan-broil",3.2,85,g,"3 oz (3 oz)",2.7
+168330,10875,NDB #,SR Legacy,"Pork, cured, ham with natural juices, slice, bone-in, separable lean only, heated, pan-broil",5.5,445,g,"1 slice",24.5
+168330,10875,NDB #,SR Legacy,"Pork, cured, ham with natural juices, slice, bone-in, separable lean only, heated, pan-broil",5.5,85,g,"3 oz (3 oz)",4.7
+168328,10872,NDB #,SR Legacy,"Pork, cured, ham and water product, whole, boneless, separable lean only, unheated",4.3,85,g,"3 oz",3.7
+168327,10871,NDB #,SR Legacy,"Pork, cured, ham and water product, whole, boneless, separable lean only, heated, roasted",4.0,85,g,"3 oz",3.4
+168327,10871,NDB #,SR Legacy,"Pork, cured, ham and water product, whole, boneless, separable lean only, heated, roasted",4.0,1995,g,"1 roast",79.8
+168327,10871,NDB #,SR Legacy,"Pork, cured, ham and water product, whole, boneless, separable lean only, heated, roasted",4.0,85,g,"1 serving (3 oz)",3.4
+168329,10878,NDB #,SR Legacy,"Pork, cured, ham -- water added, slice, boneless, separable lean only, heated, pan-broil",4.0,85,g,"3 oz (3 oz)",3.4
+168329,10878,NDB #,SR Legacy,"Pork, cured, ham -- water added, slice, boneless, separable lean only, heated, pan-broil",4.0,189,g,"1 slice",7.6
+168325,10869,NDB #,SR Legacy,"Pork, cured, ham and water product, slice, bone-in, separable lean only, heated, pan-broil",3.2,85,g,"3 oz (3 oz)",2.7
+168325,10869,NDB #,SR Legacy,"Pork, cured, ham and water product, slice, bone-in, separable lean only, heated, pan-broil",3.2,446,g,"1 slice",14.3
+168326,10870,NDB #,SR Legacy,"Pork, cured, ham and water product, slice, boneless, separable lean only, heated, pan-broil",4.5,85,g,"3 oz (3 oz)",3.8
+168326,10870,NDB #,SR Legacy,"Pork, cured, ham and water product, slice, boneless, separable lean only, heated, pan-broil",4.5,138,g,"1 slice",6.2
+168213,9530,NDB #,SR Legacy,"Fruit juice smoothie, ODWALLA, strawberry banana",0.0,233,g,"1 cup",0.0
+168216,9543,NDB #,SR Legacy,"Plantains, green, boiled",0.0,137,g,"1 cup",0.0
+168214,9531,NDB #,SR Legacy,"Fruit juice smoothie, NAKED JUICE, strawberry banana",0.0,228,g,"1 cup",0.0
+168208,9513,NDB #,SR Legacy,"Fruit juice smoothie, ODWALLA, ORIGINAL SUPERFOOD",0.0,227,g,"1 cup",0.0
+168200,9447,NDB #,SR Legacy,"Plantains, yellow, fried, Latino restaurant",0.6,169,g,"1 cup",1.0
+168196,9434,NDB #,SR Legacy,"Guanabana nectar, canned",0.0,251,g,"1 cup",0.0
+168180,9353,NDB #,SR Legacy,"Blueberries, wild, canned, heavy syrup, drained",0.0,319,g,"1 cup",0.0
+168179,9352,NDB #,SR Legacy,"Blueberries, canned, light syrup, drained",0.0,244,g,"1 cup",0.0
+168176,9334,NDB #,SR Legacy,"Feijoa, raw",0.0,205,g,"1 cup 1/2 chunks",0.0
+168176,9334,NDB #,SR Legacy,"Feijoa, raw",0.0,243,g,"1 cup, pureed",0.0
+168176,9334,NDB #,SR Legacy,"Feijoa, raw",0.0,42,g,"1 fruit without peel",0.0
+168083,36623,NDB #,SR Legacy,"Restaurant, Chinese, chicken chow mein",1.2,604,g,"1 order",7.2
+168085,36631,NDB #,SR Legacy,"OLIVE GARDEN, spaghetti with meat sauce",0.8,525,g,"1 serving",4.2
+168086,36632,NDB #,SR Legacy,"CARRABBA'S ITALIAN GRILL, spaghetti with meat sauce",0.0,537,g,"1 serving",0.0
+168082,36622,NDB #,SR Legacy,"Restaurant, Chinese, sweet and sour pork",2.0,42,g,"3 pieces",0.8
+168082,36622,NDB #,SR Legacy,"Restaurant, Chinese, sweet and sour pork",2.0,609,g,"1 order",12.2
+168080,36620,NDB #,SR Legacy,"Restaurant, Chinese, shrimp and vegetables",2.3,601,g,"1 order",13.8
+168079,36614,NDB #,SR Legacy,"DENNY'S, chicken nuggets, star shaped, from kid's menu",12.6,67,g,"1 serving 4 pieces in serving",8.4
+168079,36614,NDB #,SR Legacy,"DENNY'S, chicken nuggets, star shaped, from kid's menu",12.6,16,g,"1 piece",2.0
+168081,36621,NDB #,SR Legacy,"Restaurant, Chinese, sweet and sour chicken",2.4,55,g,"3 pieces",1.3
+168081,36621,NDB #,SR Legacy,"Restaurant, Chinese, sweet and sour chicken",2.4,706,g,"1 order",16.9
+168078,36613,NDB #,SR Legacy,"DENNY'S, macaroni & cheese, from kid's menu",0.0,180,g,"1 serving",0.0
+168078,36613,NDB #,SR Legacy,"DENNY'S, macaroni & cheese, from kid's menu",0.0,134,g,"1 cup",0.0
+168077,36612,NDB #,SR Legacy,"DENNY'S, golden fried shrimp",0.0,100,g,"1 serving",0.0
+168077,36612,NDB #,SR Legacy,"DENNY'S, golden fried shrimp",0.0,16,g,"1 piece",0.0
+168075,36606,NDB #,SR Legacy,"CRACKER BARREL, farm raised catfish platter",0.0,178,g,"1 serving",0.0
+168075,36606,NDB #,SR Legacy,"CRACKER BARREL, farm raised catfish platter",0.0,124,g,"1 piece",0.0
+168076,36611,NDB #,SR Legacy,"DENNY'S, mozzarella cheese sticks",2.1,228,g,"1 serving",4.8
+168076,36611,NDB #,SR Legacy,"DENNY'S, mozzarella cheese sticks",2.1,27,g,"1 piece",0.6
+168071,36416,NDB #,SR Legacy,"Restaurant, Latino, bunuelos (fried yeast bread)",2.1,70,g,"1 piece",1.5
+168072,36603,NDB #,SR Legacy,"Restaurant, Chinese, beef and vegetables",2.0,574,g,"1 order",11.5
+168073,36604,NDB #,SR Legacy,"CRACKER BARREL, chicken tenderloin platter, fried, from kid's menu",5.9,103,g,"1 serving",6.1
+168073,36604,NDB #,SR Legacy,"CRACKER BARREL, chicken tenderloin platter, fried, from kid's menu",5.9,36,g,"1 piece",2.1
+168068,36413,NDB #,SR Legacy,"Restaurant, Latino, black bean soup",0.4,246,g,"1 cup",1.0
+168066,36407,NDB #,SR Legacy,"Restaurant, Latino, Arroz con grandules (rice and pigeonpeas)",0.0,115,g,"1 cup",0.0
+168066,36407,NDB #,SR Legacy,"Restaurant, Latino, Arroz con grandules (rice and pigeonpeas)",0.0,653,g,"1 serving",0.0
+168067,36412,NDB #,SR Legacy,"Restaurant, Latino, tamale, pork",2.9,142,g,"1 piece",4.1
+168069,36414,NDB #,SR Legacy,"Restaurant, Latino, tripe soup",2.4,200,g,"1 cup",4.8
+168070,36415,NDB #,SR Legacy,"Restaurant, Latino, arepa (unleavened cornmeal bread)",1.0,98,g,"1 piece",1.0
+168061,35182,NDB #,SR Legacy,"Acorn stew (Apache)",0.9,100,g,"100 g",0.9
+168065,36406,NDB #,SR Legacy,"Restaurant, Latino, Arroz con habichuelas colorados (Rice And Red Beans)",0.0,590,g,"1 serving",0.0
+168065,36406,NDB #,SR Legacy,"Restaurant, Latino, Arroz con habichuelas colorados (Rice And Red Beans)",0.0,157,g,"1 cup",0.0
+168064,36405,NDB #,SR Legacy,"Restaurant, Latino, Arroz con frijoles negros (rice and black beans)",0.0,461,g,"1 serving",0.0
+168064,36405,NDB #,SR Legacy,"Restaurant, Latino, Arroz con frijoles negros (rice and black beans)",0.0,146,g,"1 cup",0.0
+168058,35179,NDB #,SR Legacy,"Chokecherries, raw, pitted (Shoshone Bannock)",0.0,100,g,"100 g",0.0
+168060,35181,NDB #,SR Legacy,"Steelhead trout, boiled, canned (Alaska Native)",0.2,100,g,"100 g",0.2
+168059,35180,NDB #,SR Legacy,"Steelhead trout, dried, flesh (Shoshone Bannock)",1.5,100,g,"100 g",1.5
+168052,35165,NDB #,SR Legacy,"Fish, whitefish, dried (Alaska Native)",0.5,100,g,"100 g",0.5
+168051,35164,NDB #,SR Legacy,"Seal, bearded (Oogruk), meat, dried, in oil (Alaska Native)",0.8,100,g,"100 g",0.8
+168050,35162,NDB #,SR Legacy,"Caribou, hind quarter meat, raw (Alaska Native)",0.0,100,g,"100 g",0.0
+168053,35170,NDB #,SR Legacy,"Seal, bearded (Oogruk), meat, low quadrant, raw (Alaska Native)",0.6,100,g,"100 g",0.6
+168054,35171,NDB #,SR Legacy,"Fish, salmon, chum, dried (Alaska Native)",1.0,100,g,"100 g",1.0
+168049,35161,NDB #,SR Legacy,"Caribou, shoulder meat, dried (Alaska Native)",0.0,100,g,"100 g",0.0
+168048,35154,NDB #,SR Legacy,"Salmonberries, raw (Alaska Native)",0.0,100,g,"100 g",0.0
+168011,28375,NDB #,SR Legacy,"Van's, Gluten Free, Totally Original Waffles",0.0,47,g,"1 waffle",0.0
+168011,28375,NDB #,SR Legacy,"Van's, Gluten Free, Totally Original Waffles",0.0,255,g,"1 box",0.0
+167969,19062,NDB #,SR Legacy,"Snacks, trail mix, regular, with chocolate chips, salted nuts and seeds",0.0,42,g,"1.5 oz",0.0
+167969,19062,NDB #,SR Legacy,"Snacks, trail mix, regular, with chocolate chips, salted nuts and seeds",0.0,146,g,"1 cup",0.0
+167969,19062,NDB #,SR Legacy,"Snacks, trail mix, regular, with chocolate chips, salted nuts and seeds",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+167949,19008,NDB #,SR Legacy,"Snacks, corn-based, extruded, puffs or twists, cheese-flavor",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz puffs (about 13 pieces)",0.0
+167949,19008,NDB #,SR Legacy,"Snacks, corn-based, extruded, puffs or twists, cheese-flavor",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz crunchy (about 21 pieces)",0.0
+167946,19000,NDB #,SR Legacy,"SCHIFF,TIGER'S MILK BAR",0.0,35,g,"1 bar",0.0
+167932,18948,NDB #,SR Legacy,"Pie crust, refrigerated, regular, unbaked",4.0,229,g,"1 pie crust (average weight)",9.2
+167934,18950,NDB #,SR Legacy,"Crackers, wheat, reduced fat",0.0,1.8000000000000000444089209850062616169452667236328125,g,"1 cracker",0.0
+167934,18950,NDB #,SR Legacy,"Crackers, wheat, reduced fat",0.0,29,g,"16 crackers, Wheat Thins",0.0
+167934,18950,NDB #,SR Legacy,"Crackers, wheat, reduced fat",0.0,29,g,"1 serving",0.0
+167933,18949,NDB #,SR Legacy,"Crackers, whole-wheat, reduced fat",0.0,29,g,"6 Triscuits, regular size",0.0
+167933,18949,NDB #,SR Legacy,"Crackers, whole-wheat, reduced fat",0.0,29,g,"1 serving",0.0
+167933,18949,NDB #,SR Legacy,"Crackers, whole-wheat, reduced fat",0.0,4.20000000000000017763568394002504646778106689453125,g,"1 cracker",0.0
+167935,18955,NDB #,SR Legacy,"Bread, pan dulce, sweet yeast bread",0.0,63,g,"1 slice (average weight of 1 slice)",0.0
+167931,18947,NDB #,SR Legacy,"Pie crust, deep dish, frozen, baked, made with enriched flour",1.0,202,g,"1 pie crust (average weight)",2.0
+167930,18946,NDB #,SR Legacy,"Pie crust, refrigerated, regular, baked",4.5,198,g,"1 pie crust",8.9
+167919,10873,NDB #,SR Legacy,"Pork, cured, ham with natural juices, rump, bone-in, separable lean only, heated, roasted",9.6,85,g,"3 oz (3 oz)",8.2
+167919,10873,NDB #,SR Legacy,"Pork, cured, ham with natural juices, rump, bone-in, separable lean only, heated, roasted",9.6,2673,g,"1 roast rump",257
+167920,10874,NDB #,SR Legacy,"Pork, cured, ham with natural juices, shank, bone-in, separable lean only, heated, roasted",7.1,85,g,"1 serving (3 oz)",6.0
+167920,10874,NDB #,SR Legacy,"Pork, cured, ham with natural juices, shank, bone-in, separable lean only, heated, roasted",7.1,3170,g,"1 roast shank",225
+167918,10868,NDB #,SR Legacy,"Pork, cured, ham -- water added, slice, bone-in, separable lean only, heated, pan-broil",3.4,436,g,"1 slice",14.8
+167918,10868,NDB #,SR Legacy,"Pork, cured, ham -- water added, slice, bone-in, separable lean only, heated, pan-broil",3.4,85,g,"3 oz (3 oz)",2.9
+167915,10865,NDB #,SR Legacy,"Pork, cured, ham -- water added, rump, bone-in, separable lean only, heated, roasted",2.5,2970,g,"1 roast rump",74.2
+167915,10865,NDB #,SR Legacy,"Pork, cured, ham -- water added, rump, bone-in, separable lean only, heated, roasted",2.5,85,g,"3 serving (3 oz)",2.1
+167917,10867,NDB #,SR Legacy,"Pork, cured, ham -- water added, shank, bone-in, separable lean only, heated, roasted",5.6,3054,g,"1 roast shank",171
+167917,10867,NDB #,SR Legacy,"Pork, cured, ham -- water added, shank, bone-in, separable lean only, heated, roasted",5.6,85,g,"3 oz (3 oz)",4.8
+167870,10132,NDB #,SR Legacy,"Pork, cured, feet, pickled",10.4,453.6000000000000227373675443232059478759765625,g,"1 lb",47.2
+167870,10132,NDB #,SR Legacy,"Pork, cured, feet, pickled",10.4,85,g,"3 oz",8.8
+167869,10130,NDB #,SR Legacy,"Canadian bacon, unprepared",3.5,170,g,"1 package (6 oz)",6.0
+167869,10130,NDB #,SR Legacy,"Canadian bacon, unprepared",3.5,85,g,"3 oz",3.0
+167869,10130,NDB #,SR Legacy,"Canadian bacon, unprepared",3.5,57,g,"2 slices (6 per 6-oz pkg.)",2.0
+167802,9524,NDB #,SR Legacy,"Lemon juice from concentrate, bottled, REAL LEMON",0.0,15,g,"1 tbsp",0.0
+167802,9524,NDB #,SR Legacy,"Lemon juice from concentrate, bottled, REAL LEMON",0.0,5,g,"1 tsp",0.0
+167799,9516,NDB #,SR Legacy,"Fruit juice smoothie, BOLTHOUSE FARMS, strawberry banana",0.0,233,g,"1 cup",0.0
+167798,9515,NDB #,SR Legacy,"Fruit juice smoothie, BOLTHOUSE FARMS, GREEN GOODNESS",0.0,230,g,"1 cup",0.0
+167786,9437,NDB #,SR Legacy,"Tamarind nectar, canned",0.0,251,g,"1 cup",0.0
+167521,18943,NDB #,SR Legacy,"Pie Crust, Cookie-type, Chocolate, Ready Crust",0.6,182,g,"1 crust",1.1
+167523,18945,NDB #,SR Legacy,"Pie crust, deep dish, frozen, unbaked, made with enriched flour",1.2,225,g,"1 pie crust (average weight)",2.7
+167522,18944,NDB #,SR Legacy,"Pie, Dutch Apple, Commercially Prepared",0.9,137,g,"1 slice",1.2
+167522,18944,NDB #,SR Legacy,"Pie, Dutch Apple, Commercially Prepared",0.9,131,g,"0.12 pie 1 pie (1/8 of 9 pie)",1.2
+167522,18944,NDB #,SR Legacy,"Pie, Dutch Apple, Commercially Prepared",0.9,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.3
+167522,18944,NDB #,SR Legacy,"Pie, Dutch Apple, Commercially Prepared",0.9,1137,g,"1 pie",10.2
+167528,18959,NDB #,SR Legacy,"Pastry, Pastelitos de Guava (guava pastries)",0.0,86,g,"1 piece",0.0
+167535,18970,NDB #,SR Legacy,"Tortillas, ready-to-bake or -fry, flour, shelf stable",0.0,484,g,"1 package",0.0
+167535,18970,NDB #,SR Legacy,"Tortillas, ready-to-bake or -fry, flour, shelf stable",0.0,49,g,"1 tortilla",0.0
+167559,19057,NDB #,SR Legacy,"Snacks, tortilla chips, nacho cheese",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+167560,19058,NDB #,SR Legacy,"Snacks, tortilla chips, ranch-flavor",0.0,28.35000000000000142108547152020037174224853515625,g,"1 oz",0.0
+167560,19058,NDB #,SR Legacy,"Snacks, tortilla chips, ranch-flavor",0.0,198,g,"1 bag (7 oz)",0.0
+167594,28363,NDB #,SR Legacy,"Pepperidge Farm, Goldfish, Baked Snack Crackers, Original",0.0,5.20000000000000017763568394002504646778106689453125,g,"10 goldfish",0.0
+167605,31022,NDB #,SR Legacy,"Potatoes, hash brown, refrigerated, prepared, pan-fried in canola oil",0.0,130,g,"1 cup prepared",0.0
+167604,31021,NDB #,SR Legacy,"Potatoes, hash brown, refrigerated, unprepared",0.0,159,g,"1 cup unprepared",0.0
+167611,35057,NDB #,SR Legacy,"Oil, bearded seal (Oogruk) (Alaska Native)",1.4,100,g,"100 g",1.4
+167640,35155,NDB #,SR Legacy,"Blueberries, wild, raw (Alaska Native)",0.0,100,g,"100 g",0.0
+167638,35149,NDB #,SR Legacy,"Fish, halibut, raw, with skin (Alaska Native)",0.1,100,g,"100 g",0.1
+167641,35156,NDB #,SR Legacy,"Oil, spotted seal (Alaska Native)",2.1,100,g,"100 g",2.1
+167642,35157,NDB #,SR Legacy,"Fish, salmon, red, canned, bones removed (Alaska Native)",0.0,100,g,"100 g",0.0
+167644,35160,NDB #,SR Legacy,"Caribou, rump meat, half dried (Alaska Native)",0.6,100,g,"100 g",0.6
+167645,35166,NDB #,SR Legacy,"Fish, salmon, red, (sockeye), canned, smoked (Alaska Native)",0.5,100,g,"100 g",0.5
+167643,35158,NDB #,SR Legacy,"Fish, whitefish, eggs (Alaska Native)",0.6,100,g,"100 g",0.6
+167650,35175,NDB #,SR Legacy,"Seal, bearded (Oogruk), meat, partially dried (Alaska Native)",0.0,100,g,"100 g",0.0
+167647,35168,NDB #,SR Legacy,"Fish, salmon, king, with skin, kippered, (Alaska Native)",1.8,100,g,"100 g",1.8
+167648,35169,NDB #,SR Legacy,"Fish, sheefish, raw (Alaska Native)",0.0,100,g,"100 g",0.0
+167646,35167,NDB #,SR Legacy,"Fish, salmon, red, (sockeye), kippered (Alaska Native)",0.0,100,g,"100 g",0.0
+167655,35185,NDB #,SR Legacy,"Frybread, made with lard (Apache)",0.0,100,g,"100 g",0.0
+167654,35184,NDB #,SR Legacy,"Smelt, dried (Alaska Native)",1.6,100,g,"100 g",1.6
+167659,36401,NDB #,SR Legacy,"Restaurant, Latino, chicken and rice, entree, prepared",4.8,141,g,"1 cup",6.8
+167660,36403,NDB #,SR Legacy,"Restaurant, Latino, empanadas, beef, prepared",2.6,89,g,"1 piece",2.3
+167656,35186,NDB #,SR Legacy,"Corned beef and potatoes in tortilla (Apache)",1.8,100,g,"100 g",1.8
+167662,36409,NDB #,SR Legacy,"Restaurant, Latino, pupusas con queso (pupusas, cheese)",2.9,117,g,"1 piece",3.4
+167661,36408,NDB #,SR Legacy,"Restaurant, Latino, pupusas con frijoles (pupusas, bean)",0.8,126,g,"1 piece",1.0
+167664,36411,NDB #,SR Legacy,"Restaurant, Latino, tamale, corn",0.9,166,g,"1 piece",1.5
+167663,36410,NDB #,SR Legacy,"Restaurant, Latino, pupusas del cerdo (pupusas, pork)",2.9,122,g,"1 piece",3.5
+167667,36601,NDB #,SR Legacy,"Restaurant, Chinese, egg rolls, assorted",3.3,89,g,"1 piece",2.9
+167668,36602,NDB #,SR Legacy,"Restaurant, Chinese, fried rice, without meat",0.0,137,g,"1 cup",0.0
+167665,36417,NDB #,SR Legacy,"Restaurant, Mexican, spanish rice",0.0,116,g,"1 cup",0.0
+167666,36418,NDB #,SR Legacy,"Restaurant, Mexican, refried beans",0.5,148,g,"1 cup",0.7
+167672,36610,NDB #,SR Legacy,"DENNY'S, french fries",0.0,165,g,"1 serving",0.0
+167671,36609,NDB #,SR Legacy,"CRACKER BARREL, macaroni n' cheese plate, from kid's menu",1.1,257,g,"1 serving",2.8
+167671,36609,NDB #,SR Legacy,"CRACKER BARREL, macaroni n' cheese plate, from kid's menu",1.1,149,g,"1 cup",1.6
+167673,36615,NDB #,SR Legacy,"DENNY'S, top sirloin steak",3.5,107,g,"1 steak",3.7
+167670,36608,NDB #,SR Legacy,"CRACKER BARREL, grilled sirloin steak",3.5,151,g,"1 steak",5.3
+167676,36619,NDB #,SR Legacy,"Restaurant, Chinese, kung pao chicken",2.2,604,g,"1 order",13.3
+167675,36618,NDB #,SR Legacy,"Restaurant, Chinese, general tso's chicken",7.2,53,g,"3 pieces",3.8
+167675,36618,NDB #,SR Legacy,"Restaurant, Chinese, general tso's chicken",7.2,535,g,"1 order",38.5
+167674,36617,NDB #,SR Legacy,"Restaurant, Chinese, lemon chicken",2.6,623,g,"1 order",16.2
+167674,36617,NDB #,SR Legacy,"Restaurant, Chinese, lemon chicken",2.6,73,g,"3 pieces",1.9
+167680,36630,NDB #,SR Legacy,"Restaurant, Italian, spaghetti with meat sauce",0.5,554,g,"1 serving",2.8
+167702,42231,NDB #,SR Legacy,"Oil, flaxseed, cold pressed",0.0,218,g,"1 cup",0.0
+167702,42231,NDB #,SR Legacy,"Oil, flaxseed, cold pressed",0.0,13.5999999999999996447286321199499070644378662109375,g,"1 tbsp",0.0
+167742,90240,NDB #,SR Legacy,"Mollusks, scallop, (bay and sea), cooked, steamed",0.0,85,g,"3 oz",0.0
+167748,9153,NDB #,SR Legacy,"Lemon juice from concentrate, canned or bottled",0.0,15,g,"1 tbsp",0.0
+167748,9153,NDB #,SR Legacy,"Lemon juice from concentrate, canned or bottled",0.0,30.5,g,"1 fl oz",0.0
+167748,9153,NDB #,SR Legacy,"Lemon juice from concentrate, canned or bottled",0.0,244,g,"1 cup",0.0
+167748,9153,NDB #,SR Legacy,"Lemon juice from concentrate, canned or bottled",0.0,5,g,"1 tsp",0.0
+167772,9401,NDB #,SR Legacy,"Applesauce, canned, unsweetened, with added ascorbic acid",0.0,244,g,"1 cup",0.0
+167769,9362,NDB #,SR Legacy,"Cherries, sour, canned, water pack, drained",0.0,168,g,"1 cup",0.0
+167784,9435,NDB #,SR Legacy,"Guava nectar, canned, with added ascorbic acid",0.0,251,g,"1 cup",0.0
+167785,9436,NDB #,SR Legacy,"Mango nectar, canned",0.0,251,g,"1 cup",0.0
